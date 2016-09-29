@@ -1,0 +1,68 @@
+{
+    "course": "PHRM7060",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Modules 1-6",
+            "weight": "12"
+        },
+        {
+            "task": "Individual Contribution to 'Green' Task",
+            "weight": "12"
+        },
+        {
+            "task": "\"Satisfactory\" attendance at online tutorials",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Tutorial Group Participation & Presentations",
+            "weight": "12"
+        },
+        {
+            "task": "Peer feedback on Group Work Sem 1",
+            "weight": "0"
+        },
+        {
+            "task": "Reflection on Professional Practice",
+            "weight": "0"
+        },
+        {
+            "task": "Case Presentation with Discussion - Semester 2 ",
+            "weight": "5"
+        },
+        {
+            "task": "Written Case Review- Semester 1",
+            "weight": "10"
+        },
+        {
+            "task": "Peer Evaluation of Previous VIVA - Semester 2",
+            "weight": "4"
+        },
+        {
+            "task": "Slides for Case Presentation with Discussion",
+            "weight": "10"
+        },
+        {
+            "task": "Oral VIVA",
+            "weight": "15"
+        },
+        {
+            "task": "End of year Exam",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

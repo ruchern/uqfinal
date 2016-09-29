@@ -1,0 +1,36 @@
+{
+    "course": "EDUC7535",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Acceptance of policies and procedures",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Supervised Teaching Practice",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Professional Portfolio",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Critical reflection and evaluation of practice",
+            "weight": "1-7"
+        }
+    ],
+    "related": []
+}

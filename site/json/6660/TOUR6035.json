@@ -1,0 +1,32 @@
+{
+    "course": "TOUR6035",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Literature Review",
+            "weight": "30"
+        },
+        {
+            "task": "Research Paradigm Essay",
+            "weight": "20"
+        },
+        {
+            "task": "Analysis Assignment or Journal Article Compilation",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

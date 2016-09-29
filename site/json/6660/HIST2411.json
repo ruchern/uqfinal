@@ -1,0 +1,36 @@
+{
+    "course": "HIST2411",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Essay",
+            "weight": "40"
+        },
+        {
+            "task": "Ten One-Hour Tutorials (weeks 2, 4-9, and 11-13)",
+            "weight": "20"
+        },
+        {
+            "task": "Online Quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Primary Source Transcription & Analysis",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

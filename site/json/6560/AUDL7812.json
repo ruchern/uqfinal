@@ -1,0 +1,36 @@
+{
+    "course": "AUDL7812",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Clinical viva",
+            "weight": "70"
+        },
+        {
+            "task": "Clinical forms, records and checklists",
+            "weight": "0"
+        },
+        {
+            "task": "Written report",
+            "weight": "20"
+        },
+        {
+            "task": "Problem solving basic audiology",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

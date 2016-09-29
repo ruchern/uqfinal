@@ -1,0 +1,40 @@
+{
+    "course": "HIST2107",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Participation & Attendance",
+            "weight": "10"
+        },
+        {
+            "task": "Tutorial Presentation",
+            "weight": "10"
+        },
+        {
+            "task": "Image Description and Discussion",
+            "weight": "15"
+        },
+        {
+            "task": "Major Essay",
+            "weight": "40"
+        },
+        {
+            "task": "Exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

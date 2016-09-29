@@ -1,0 +1,36 @@
+{
+    "course": "BIOL2015",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Field note book",
+            "weight": "30"
+        },
+        {
+            "task": "Module written as a paper",
+            "weight": "40"
+        },
+        {
+            "task": "Workshop attendance",
+            "weight": "P/F"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

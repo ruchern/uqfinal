@@ -1,0 +1,40 @@
+{
+    "course": "HIST2119",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Presentation",
+            "weight": "10"
+        },
+        {
+            "task": "4 x Quiz",
+            "weight": "20"
+        },
+        {
+            "task": "Primary Source Analysis",
+            "weight": "20"
+        },
+        {
+            "task": "Essay Proposal and Annotated Bibliography",
+            "weight": "10"
+        },
+        {
+            "task": "Term Essay",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

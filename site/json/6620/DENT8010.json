@@ -1,0 +1,28 @@
+{
+    "course": "DENT8010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Theory Assessment - Written Paper and/or Viva Voce",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Clinical/Practical Assessment",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

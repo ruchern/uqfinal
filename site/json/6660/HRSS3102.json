@@ -1,0 +1,40 @@
+{
+    "course": "HRSS3102",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quiz 1 Multiple Choice & Multiple Answers (Mod 2)",
+            "weight": "10"
+        },
+        {
+            "task": "Quiz 2 Multiple Choice & Multiple Answers (Mod 3)",
+            "weight": "10"
+        },
+        {
+            "task": "Quiz 3 Multiple Choice & Multiple Answers (Mod 4)",
+            "weight": "10"
+        },
+        {
+            "task": "Literature Review (Mod 1)",
+            "weight": "30"
+        },
+        {
+            "task": "End of Semester Exam (Mod: 5-7)",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,60 @@
+{
+    "course": "VETS5030",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Internal Medicine SAH",
+            "weight": "18"
+        },
+        {
+            "task": "Referral Surgery SAH",
+            "weight": "18"
+        },
+        {
+            "task": "Primary Accession (GP) SAH",
+            "weight": "9"
+        },
+        {
+            "task": "Community Practice Surgery week SAH/CSC",
+            "weight": "9"
+        },
+        {
+            "task": "Community Practice RSPCA",
+            "weight": "18"
+        },
+        {
+            "task": "Avian and Exotic Pet rotation SAH OR",
+            "weight": "8"
+        },
+        {
+            "task": "Specialty Surgery VSS OR",
+            "weight": "8"
+        },
+        {
+            "task": "Internal Medicine VSS",
+            "weight": "8"
+        },
+        {
+            "task": "Small Animal Medicine & Surgery Oral Examination",
+            "weight": "20"
+        },
+        {
+            "task": "Small Animal Clinical Skills list",
+            "weight": "Pass/fail"
+        }
+    ],
+    "related": []
+}

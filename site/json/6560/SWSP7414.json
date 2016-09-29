@@ -1,0 +1,28 @@
+{
+    "course": "SWSP7414",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Preparation of a Project Proposal",
+            "weight": "Formative assessment"
+        },
+        {
+            "task": "Written Report on the Research Project",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

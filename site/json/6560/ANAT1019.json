@@ -1,0 +1,40 @@
+{
+    "course": "ANAT1019",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid Semester Theory exam",
+            "weight": "15"
+        },
+        {
+            "task": "Mid Semester Practical Exam",
+            "weight": "15"
+        },
+        {
+            "task": "ROM and MMT viva (OT component)",
+            "weight": "15"
+        },
+        {
+            "task": "Final Practical Exam",
+            "weight": "25"
+        },
+        {
+            "task": "Final Theory Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

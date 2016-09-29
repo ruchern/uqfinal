@@ -1,0 +1,36 @@
+{
+    "course": "BIOL3200",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignments and Quizzes for each weekly seminar",
+            "weight": "30"
+        },
+        {
+            "task": "Project plan and risk assessments",
+            "weight": "5"
+        },
+        {
+            "task": "Seminar",
+            "weight": "10"
+        },
+        {
+            "task": "Independent project report",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

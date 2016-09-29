@@ -1,0 +1,36 @@
+{
+    "course": "EXMD4742",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid Semester Theory Exam",
+            "weight": "25"
+        },
+        {
+            "task": "Case Study Report",
+            "weight": "25"
+        },
+        {
+            "task": "Practicum placement & case study notes",
+            "weight": "15"
+        },
+        {
+            "task": "Final Theory Exam ",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "MUSC4420",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Literature Review on Chosen Topic",
+            "weight": "15"
+        },
+        {
+            "task": "Main Oral Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Draft of complete Project",
+            "weight": "0"
+        },
+        {
+            "task": "On a chosen topic",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

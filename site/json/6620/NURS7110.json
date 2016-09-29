@@ -1,0 +1,60 @@
+{
+    "course": "NURS7110",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "First 2 Act Web",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Learning Committment Plan",
+            "weight": "NGP"
+        },
+        {
+            "task": "Discussion Board Initial",
+            "weight": "NGP"
+        },
+        {
+            "task": "Formative Clinical Assessment",
+            "weight": "NGP"
+        },
+        {
+            "task": "eCPPP formative assessment 1",
+            "weight": "NGP"
+        },
+        {
+            "task": "Deteriorating Patient Assessment Scenario",
+            "weight": "NGP"
+        },
+        {
+            "task": "Discussion Board Responsive",
+            "weight": "NGP"
+        },
+        {
+            "task": "eCPPP formative assessment 2",
+            "weight": "NGP"
+        },
+        {
+            "task": "Translating research into practice",
+            "weight": "NGP"
+        },
+        {
+            "task": "Summative Clinical Assessment",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

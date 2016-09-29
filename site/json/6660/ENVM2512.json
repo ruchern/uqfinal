@@ -1,0 +1,36 @@
+{
+    "course": "ENVM2512",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical Exercises",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Fire Ecology Debates",
+            "weight": "30"
+        },
+        {
+            "task": "Fire Management Plan",
+            "weight": "40"
+        },
+        {
+            "task": "Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

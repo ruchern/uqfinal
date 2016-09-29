@@ -1,0 +1,76 @@
+{
+    "course": "ANCH2280",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial essay",
+            "weight": "25"
+        },
+        {
+            "task": "Tutorial 1: Introduction",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Documentary Evidence Report",
+            "weight": "10"
+        },
+        {
+            "task": "Tutorial 2: Slavery",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Tutorial 3: Poverty",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Tutorial 4: Death and afterlife",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Tutorial 5: Festivals",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Tutorial 6: Crime and punishment",
+            "weight": "part of 10"
+        },
+        {
+            "task": "Tutorial 7: Industry and agriculture",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Critical Analysis of Petronius' Satyricon",
+            "weight": "15"
+        },
+        {
+            "task": "Tutorial 8: Education",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Tutorial 9: Prostitution",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Tutorial 10: Dining and entertainment",
+            "weight": "Part of 10"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

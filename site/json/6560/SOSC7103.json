@@ -1,0 +1,40 @@
+{
+    "course": "SOSC7103",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Contribute to Class Discussion on 6th August",
+            "weight": "5"
+        },
+        {
+            "task": "Class \"Journal\" Contribution",
+            "weight": "25"
+        },
+        {
+            "task": "Frameworks/Traditions of CD Symposium",
+            "weight": "5"
+        },
+        {
+            "task": "Emerging Framework Presentations",
+            "weight": "5"
+        },
+        {
+            "task": "Community Development Framework",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

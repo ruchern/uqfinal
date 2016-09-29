@@ -1,0 +1,36 @@
+{
+    "course": "LAND3006",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Organisation of excursion, lab work contribution",
+            "weight": "20"
+        },
+        {
+            "task": "Consulting report",
+            "weight": "25"
+        },
+        {
+            "task": "Presentation of case studies",
+            "weight": "25"
+        },
+        {
+            "task": "Final Exam - End of semester",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

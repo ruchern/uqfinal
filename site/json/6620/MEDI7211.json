@@ -1,0 +1,36 @@
+{
+    "course": "MEDI7211",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Intra Semester Test",
+            "weight": "25"
+        },
+        {
+            "task": "Contribution to CBL",
+            "weight": "See 5.2 Course Grading and 5.4 Other Assessment Information"
+        },
+        {
+            "task": "Practical and Image-Based Exam",
+            "weight": "30"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

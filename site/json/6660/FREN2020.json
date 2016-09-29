@@ -1,0 +1,44 @@
+{
+    "course": "FREN2020",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Forum entry",
+            "weight": "5"
+        },
+        {
+            "task": "Blog entry",
+            "weight": "15"
+        },
+        {
+            "task": "Preparation & Participation (Verte)",
+            "weight": "10"
+        },
+        {
+            "task": "Group Oral Interview",
+            "weight": "20"
+        },
+        {
+            "task": "Final examination",
+            "weight": "30"
+        },
+        {
+            "task": "Tale",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

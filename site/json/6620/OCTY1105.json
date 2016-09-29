@@ -1,0 +1,40 @@
+{
+    "course": "OCTY1105",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Library tutorial",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Mid-Semester Module 1 Exam",
+            "weight": "40"
+        },
+        {
+            "task": "Fieldwork Report: Lived Experience",
+            "weight": "30"
+        },
+        {
+            "task": "Health Professional Student Requirements",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Activity Analysis Assignment Module 2",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,32 @@
+{
+    "course": "MGTS7603",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid Semester Exam",
+            "weight": "35"
+        },
+        {
+            "task": "Case Memo",
+            "weight": "25"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

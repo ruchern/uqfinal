@@ -1,0 +1,40 @@
+{
+    "course": "OHSS3001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Project Plan for Major Assignment",
+            "weight": "0"
+        },
+        {
+            "task": "Major Assignment",
+            "weight": "50"
+        },
+        {
+            "task": "Practical Workbook - Part A",
+            "weight": "10"
+        },
+        {
+            "task": "Practical Workbook - Part B",
+            "weight": "10"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

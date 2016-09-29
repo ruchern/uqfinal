@@ -1,0 +1,64 @@
+{
+    "course": "VETS4010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Avian Clinical Skills",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "SOAP Assignment",
+            "weight": "Pass/fail"
+        },
+        {
+            "task": "Semester 1 Mid-semester Content (I) Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Semester 1 End of Semester Content (II) Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Practical surgery assessment",
+            "weight": "Pass/fail"
+        },
+        {
+            "task": "Reptile and small mammal clinical skills",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Veterinary Radiology Film Reading Exam",
+            "weight": "10"
+        },
+        {
+            "task": "Anaesthesia practical examination",
+            "weight": "Pass/fail"
+        },
+        {
+            "task": "Semester 2 Mid-semester Content (III) Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Semester 2 End of Semester Content (IV) Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Semester 2 End of Semester Integration Exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

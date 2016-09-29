@@ -1,0 +1,40 @@
+{
+    "course": "PSYC7840",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-Point and End-Point Reviews",
+            "weight": "This is the most important part of the assessment"
+        },
+        {
+            "task": "Placement Activity Logbook",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Placement Supervision Logbook",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Placement Folio",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Supervision Agreement Form",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

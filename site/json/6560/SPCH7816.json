@@ -1,0 +1,28 @@
+{
+    "course": "SPCH7816",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Clinical Evaluation using COMPASS&#174;2 Online",
+            "weight": "Pass/Fail (Must Pass)"
+        },
+        {
+            "task": "Video Examination (Adult)",
+            "weight": "Pass/Fail (Must Pass)"
+        }
+    ],
+    "related": []
+}

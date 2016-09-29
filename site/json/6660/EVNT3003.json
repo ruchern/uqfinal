@@ -1,0 +1,32 @@
+{
+    "course": "EVNT3003",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Event Site Plan",
+            "weight": "30"
+        },
+        {
+            "task": "Examination of Course Content ",
+            "weight": "40"
+        },
+        {
+            "task": "Event Operations Report",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

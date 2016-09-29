@@ -1,0 +1,28 @@
+{
+    "course": "CIVL2330",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-semester Test (COMPULSORY)",
+            "weight": "30"
+        },
+        {
+            "task": "End of Semester Examination",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

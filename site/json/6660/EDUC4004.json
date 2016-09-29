@@ -1,0 +1,32 @@
+{
+    "course": "EDUC4004",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Qld Senior HPE Curriculum Reform Implications",
+            "weight": "15"
+        },
+        {
+            "task": "Professional Practice & Snr PE Assessment Reform",
+            "weight": "25"
+        },
+        {
+            "task": "Research for Professional Knowledge/Engagement",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

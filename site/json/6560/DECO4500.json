@@ -1,0 +1,44 @@
+{
+    "course": "DECO4500",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance and participation in class activities",
+            "weight": "10"
+        },
+        {
+            "task": "Annotated Bibliography",
+            "weight": "10"
+        },
+        {
+            "task": "Needs analysis presentation",
+            "weight": "10"
+        },
+        {
+            "task": "Literature review paper",
+            "weight": "20"
+        },
+        {
+            "task": "Final Report Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Final Project Report",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

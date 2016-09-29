@@ -1,0 +1,44 @@
+{
+    "course": "NURS7111",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Learning commitment plan",
+            "weight": "Formative"
+        },
+        {
+            "task": "Formative Assessment Clinical Placement Evaluation",
+            "weight": "NGP"
+        },
+        {
+            "task": "Formative Assessment Portfolio",
+            "weight": "NGP"
+        },
+        {
+            "task": "Peer Education - Teaching a clinical skill",
+            "weight": "NGP"
+        },
+        {
+            "task": "Summative Assessment Portfolio",
+            "weight": "NGP"
+        },
+        {
+            "task": "Summative Clinical Assessment (Timesheet)",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

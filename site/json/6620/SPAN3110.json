@@ -1,0 +1,44 @@
+{
+    "course": "SPAN3110",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance and class participation",
+            "weight": "4"
+        },
+        {
+            "task": "Tareas evaluadas",
+            "weight": "16"
+        },
+        {
+            "task": "Test 1",
+            "weight": "24"
+        },
+        {
+            "task": "Reading and Composition ",
+            "weight": "10"
+        },
+        {
+            "task": "Oral group presentation",
+            "weight": "22"
+        },
+        {
+            "task": "Test 2",
+            "weight": "24"
+        }
+    ],
+    "related": []
+}

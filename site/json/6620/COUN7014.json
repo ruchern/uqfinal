@@ -1,0 +1,36 @@
+{
+    "course": "COUN7014",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "A Study of Grief",
+            "weight": "35"
+        },
+        {
+            "task": "Case Presentation /Formulation",
+            "weight": "15"
+        },
+        {
+            "task": "Professional Manual",
+            "weight": "40"
+        },
+        {
+            "task": "Personal Exploration Journal",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

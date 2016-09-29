@@ -1,0 +1,32 @@
+{
+    "course": "COMU1152",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "PR Writing Foundations and Writing for the Media",
+            "weight": "20"
+        },
+        {
+            "task": "Digital Communication Tools",
+            "weight": "35"
+        },
+        {
+            "task": "Portfolio and Showcase Presentation",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

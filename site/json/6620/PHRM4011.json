@@ -1,0 +1,56 @@
+{
+    "course": "PHRM4011",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Dispensing and Checking",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Online Quiz One",
+            "weight": "2"
+        },
+        {
+            "task": "Online Quiz Two",
+            "weight": "2"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Online Quiz Three",
+            "weight": "2"
+        },
+        {
+            "task": "Online Quiz Four",
+            "weight": "2"
+        },
+        {
+            "task": "Online Quiz Five",
+            "weight": "2"
+        },
+        {
+            "task": "Online Quiz Six",
+            "weight": "2"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "68"
+        }
+    ],
+    "related": []
+}

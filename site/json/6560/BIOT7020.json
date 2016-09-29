@@ -1,0 +1,32 @@
+{
+    "course": "BIOT7020",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Talk given to lab group meeting",
+            "weight": "5"
+        },
+        {
+            "task": "Report on research project",
+            "weight": "80"
+        },
+        {
+            "task": "Laboratory notebook",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

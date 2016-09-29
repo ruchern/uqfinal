@@ -1,0 +1,32 @@
+{
+    "course": "EDUC6853",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Argumentation strategies",
+            "weight": "20"
+        },
+        {
+            "task": "Resource Folio",
+            "weight": "40"
+        },
+        {
+            "task": "Philosophy - Unit Plan",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

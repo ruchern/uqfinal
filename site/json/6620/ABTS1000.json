@@ -1,0 +1,52 @@
+{
+    "course": "ABTS1000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Critical Reflection 1",
+            "weight": "2.5"
+        },
+        {
+            "task": "Annotated Bibliography",
+            "weight": "15"
+        },
+        {
+            "task": "Critical Reflection 2",
+            "weight": "2.5"
+        },
+        {
+            "task": "Essay Plan",
+            "weight": "20"
+        },
+        {
+            "task": "Critical Reflection 3",
+            "weight": "2.5"
+        },
+        {
+            "task": "Group Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Critical Reflection 4",
+            "weight": "2.5"
+        },
+        {
+            "task": "Argumentative Essay",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

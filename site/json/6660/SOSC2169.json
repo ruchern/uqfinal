@@ -1,0 +1,36 @@
+{
+    "course": "SOSC2169",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Movie review",
+            "weight": "25"
+        },
+        {
+            "task": "Reading summary using Web 2.0 tool",
+            "weight": "20"
+        },
+        {
+            "task": "Analysing a ICT/media technology",
+            "weight": "35"
+        },
+        {
+            "task": "Group project",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

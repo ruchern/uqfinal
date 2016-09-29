@@ -1,0 +1,40 @@
+{
+    "course": "HRSS4210",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Set Report and Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "30"
+        },
+        {
+            "task": "Pass/Fail requirements",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Project Outcome - Clinician Rating",
+            "weight": "30"
+        },
+        {
+            "task": "Conference Presentation",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

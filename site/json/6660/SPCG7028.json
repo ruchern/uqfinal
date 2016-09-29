@@ -1,0 +1,36 @@
+{
+    "course": "SPCG7028",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Elite Performance",
+            "weight": "15"
+        },
+        {
+            "task": "Design Training Elements",
+            "weight": "15"
+        },
+        {
+            "task": "Planning Tool",
+            "weight": "40"
+        },
+        {
+            "task": "Annual Training Plan",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

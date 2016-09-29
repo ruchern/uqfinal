@@ -1,0 +1,36 @@
+{
+    "course": "MGTS7308",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Presentation of Case Study Results",
+            "weight": "30"
+        },
+        {
+            "task": "Analysis of best practices social impact solutions",
+            "weight": "40"
+        },
+        {
+            "task": "Individual reflection",
+            "weight": "20"
+        },
+        {
+            "task": "Peer evaluation of team work",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "DENT2040",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Semester 1 Portfolio",
+            "weight": "20"
+        },
+        {
+            "task": "June examination period",
+            "weight": "30"
+        },
+        {
+            "task": "Semester 2 Portfolio",
+            "weight": "20"
+        },
+        {
+            "task": "November examination",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

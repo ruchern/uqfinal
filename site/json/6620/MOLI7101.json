@@ -1,0 +1,36 @@
+{
+    "course": "MOLI7101",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Blackboard Online Quiz",
+            "weight": "15"
+        },
+        {
+            "task": "Assignment 1",
+            "weight": "20"
+        },
+        {
+            "task": "Discussion Board - online tutorials",
+            "weight": "10"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

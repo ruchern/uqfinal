@@ -1,0 +1,48 @@
+{
+    "course": "MECH4470",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Shock tube laboratory experiment",
+            "weight": "15"
+        },
+        {
+            "task": "Tutorial 1 Hypersonic Wave Processes",
+            "weight": "4"
+        },
+        {
+            "task": "Laboratory experiment in rarefied gases",
+            "weight": "10"
+        },
+        {
+            "task": "Tutorial 2 flow deflection and viscous processes",
+            "weight": "6"
+        },
+        {
+            "task": "Tutorial 3 rarefied gas dynamics",
+            "weight": "7.5"
+        },
+        {
+            "task": "Tutorial 4 reacting flows",
+            "weight": "7.5"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "COMU6008",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Oral Presentation on key text related to your rese",
+            "weight": "20"
+        },
+        {
+            "task": "Oral Presentation on The Network Society",
+            "weight": "20"
+        },
+        {
+            "task": "Essay on text related to your field of research",
+            "weight": "30"
+        },
+        {
+            "task": "Essay on Manuel Castell's The Rise Network Society",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

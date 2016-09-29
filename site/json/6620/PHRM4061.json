@@ -1,0 +1,48 @@
+{
+    "course": "PHRM4061",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Confidentiality Statement",
+            "weight": "Compulsory"
+        },
+        {
+            "task": "Ethics and Project Approval Application",
+            "weight": "20"
+        },
+        {
+            "task": "Reflective Placement Diary",
+            "weight": "10"
+        },
+        {
+            "task": "QUM Research Reports (Written & Oral presentation)",
+            "weight": "35"
+        },
+        {
+            "task": "QUM Research Placement",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Preceptor Evaluation",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "QUM Research Project Oral Presentation Attendance",
+            "weight": "Compulsory"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "MIDW1008",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Clinical Timesheet",
+            "weight": "NGP"
+        },
+        {
+            "task": "Medical Calculation Assessments 1 - 6",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Practice Assessment - Formative",
+            "weight": "NGP"
+        },
+        {
+            "task": "Mini OSCA - Medication Administration",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Practice Assessment - Summative",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

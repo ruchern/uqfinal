@@ -1,0 +1,44 @@
+{
+    "course": "ERTH7711",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Satisfactory attendance & completion of exercises",
+            "weight": "15"
+        },
+        {
+            "task": "Cape Clairault exercise - first submission",
+            "weight": "5"
+        },
+        {
+            "task": "Cape Clairault exercise - second submission",
+            "weight": "3"
+        },
+        {
+            "task": "Structural map of Nambucca Heads",
+            "weight": "15"
+        },
+        {
+            "task": "Cape Clairault exercise - final submission",
+            "weight": "12"
+        },
+        {
+            "task": "Theory Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

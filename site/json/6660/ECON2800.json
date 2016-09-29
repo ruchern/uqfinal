@@ -1,0 +1,36 @@
+{
+    "course": "ECON2800",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quiz",
+            "weight": "20"
+        },
+        {
+            "task": "Group Presentation",
+            "weight": "12"
+        },
+        {
+            "task": "Evaluating Peer Presentations",
+            "weight": "3"
+        },
+        {
+            "task": "Final exam",
+            "weight": "65"
+        }
+    ],
+    "related": []
+}

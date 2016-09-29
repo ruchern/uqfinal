@@ -1,0 +1,44 @@
+{
+    "course": "ECON7200",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial attendance and preparation",
+            "weight": "10"
+        },
+        {
+            "task": "Part 1",
+            "weight": "10"
+        },
+        {
+            "task": "Mid-Semester Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Part 2",
+            "weight": "10"
+        },
+        {
+            "task": "Part 3",
+            "weight": "10"
+        },
+        {
+            "task": "Final exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

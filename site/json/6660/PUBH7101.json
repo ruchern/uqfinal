@@ -1,0 +1,36 @@
+{
+    "course": "PUBH7101",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Debate of topics of interest",
+            "weight": "25"
+        },
+        {
+            "task": "Online quizzes",
+            "weight": "15"
+        },
+        {
+            "task": "Communicable disease control briefing",
+            "weight": "30"
+        },
+        {
+            "task": "Diagnostic test evaluation",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

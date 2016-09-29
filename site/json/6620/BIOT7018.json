@@ -1,0 +1,44 @@
+{
+    "course": "BIOT7018",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Course material assignment 1",
+            "weight": "10"
+        },
+        {
+            "task": "The Emergence of Biosimilars ",
+            "weight": "20"
+        },
+        {
+            "task": "Presentations associated with Literature Review",
+            "weight": "10"
+        },
+        {
+            "task": "Course material assignment 2",
+            "weight": "10"
+        },
+        {
+            "task": "Course material assignment 3",
+            "weight": "10"
+        },
+        {
+            "task": "Selected Biologic",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

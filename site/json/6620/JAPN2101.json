@@ -1,0 +1,48 @@
+{
+    "course": "JAPN2101",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Class participation ",
+            "weight": "5"
+        },
+        {
+            "task": "Kanji test 1",
+            "weight": "10"
+        },
+        {
+            "task": "Workbook Assignment ",
+            "weight": "10"
+        },
+        {
+            "task": "Kanji Test 2",
+            "weight": "10"
+        },
+        {
+            "task": "Kanji Test 3",
+            "weight": "10"
+        },
+        {
+            "task": "Oral Presentation",
+            "weight": "20"
+        },
+        {
+            "task": "Reading and writing exam",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

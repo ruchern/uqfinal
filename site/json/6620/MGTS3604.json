@@ -1,0 +1,32 @@
+{
+    "course": "MGTS3604",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "In tutorial group presentations & panel discussion",
+            "weight": "25"
+        },
+        {
+            "task": "Translating theory to ethical HRD practices",
+            "weight": "50"
+        },
+        {
+            "task": "Tutorial Learning Diary",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

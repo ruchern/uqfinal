@@ -1,0 +1,40 @@
+{
+    "course": "CHEE4034",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Short Quizzes",
+            "weight": "28"
+        },
+        {
+            "task": "Safety Inductions",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "TE lab based practicals",
+            "weight": "20"
+        },
+        {
+            "task": "Tissue Engineering your favourite tissue!",
+            "weight": "40"
+        },
+        {
+            "task": "Tissue engineering your favourite tissue!",
+            "weight": "12"
+        }
+    ],
+    "related": []
+}

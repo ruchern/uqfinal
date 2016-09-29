@@ -1,0 +1,44 @@
+{
+    "course": "ERTH3212",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Pre-field trip assignments",
+            "weight": "10"
+        },
+        {
+            "task": "Group's field zonation data and map",
+            "weight": "20"
+        },
+        {
+            "task": "Final Sediment Analysis",
+            "weight": "5"
+        },
+        {
+            "task": "Field notebook",
+            "weight": "5"
+        },
+        {
+            "task": "Field Report",
+            "weight": "40"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

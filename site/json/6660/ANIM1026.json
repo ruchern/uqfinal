@@ -1,0 +1,36 @@
+{
+    "course": "ANIM1026",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mammal Community",
+            "weight": "25"
+        },
+        {
+            "task": "Development of a dichotomous key for snakes",
+            "weight": "15"
+        },
+        {
+            "task": "Skulls, scats and traces laboratory practicals",
+            "weight": "30"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

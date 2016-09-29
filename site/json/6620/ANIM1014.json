@@ -1,0 +1,36 @@
+{
+    "course": "ANIM1014",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Animal Behaviour Report",
+            "weight": "20"
+        },
+        {
+            "task": "Husbandry/handling practicals and quiz",
+            "weight": "30"
+        },
+        {
+            "task": "Residential School",
+            "weight": "Compulsory"
+        },
+        {
+            "task": "Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

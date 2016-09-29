@@ -1,0 +1,52 @@
+{
+    "course": "BIOM2012",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "End of semester exam",
+            "weight": "60"
+        },
+        {
+            "task": "Proposal (group work) ",
+            "weight": "10"
+        },
+        {
+            "task": "Proposal oral presentation (group work)",
+            "weight": "5"
+        },
+        {
+            "task": "Hypothesis, outline & annotated bibliography",
+            "weight": "5"
+        },
+        {
+            "task": "Lab Report",
+            "weight": "20"
+        },
+        {
+            "task": "Outline of Literature Review",
+            "weight": "5"
+        },
+        {
+            "task": "Literature Review",
+            "weight": "20"
+        },
+        {
+            "task": "Experimental design for literature review topic",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

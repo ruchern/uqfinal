@@ -1,0 +1,36 @@
+{
+    "course": "FOOD1001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Prac Quiz",
+            "weight": "25"
+        },
+        {
+            "task": "Practical Report",
+            "weight": "10"
+        },
+        {
+            "task": "Quiz",
+            "weight": "15"
+        },
+        {
+            "task": "Final examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

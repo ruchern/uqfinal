@@ -1,0 +1,28 @@
+{
+    "course": "COMU3006",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "CC forum group planning & participation",
+            "weight": "70"
+        },
+        {
+            "task": "Strategic communication: Personal reflection",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

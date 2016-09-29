@@ -1,0 +1,40 @@
+{
+    "course": "STAT4401",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1",
+            "weight": "15"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "25"
+        },
+        {
+            "task": "Assignment 3 - Seminar",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 4",
+            "weight": "30"
+        },
+        {
+            "task": "Assignment 5",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "NURS7403",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Development of the Learning Contract Part 1",
+            "weight": "40"
+        },
+        {
+            "task": "Learning Contract Part 2",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

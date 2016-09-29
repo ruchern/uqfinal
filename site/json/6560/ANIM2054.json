@@ -1,0 +1,36 @@
+{
+    "course": "ANIM2054",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Dairy",
+            "weight": "15"
+        },
+        {
+            "task": "Sheep/goats",
+            "weight": "15"
+        },
+        {
+            "task": "Welfare Issues",
+            "weight": "20"
+        },
+        {
+            "task": "END SEMESTER EXAM",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,80 @@
+{
+    "course": "PHYS2810",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Rectifier Circuits ",
+            "weight": "7"
+        },
+        {
+            "task": "Operational Amplifiers",
+            "weight": "7"
+        },
+        {
+            "task": "BJT common-emitter amplifier",
+            "weight": "7"
+        },
+        {
+            "task": "Wide bandwidth amplifiers and transmission lines",
+            "weight": "7"
+        },
+        {
+            "task": "Digital electronics",
+            "weight": "7"
+        },
+        {
+            "task": "Lecture 1-2",
+            "weight": "3"
+        },
+        {
+            "task": "Lecture 3",
+            "weight": "3"
+        },
+        {
+            "task": "Lecture 4",
+            "weight": "3"
+        },
+        {
+            "task": "Lecture 5",
+            "weight": "3"
+        },
+        {
+            "task": "Lecture 6",
+            "weight": "3"
+        },
+        {
+            "task": "Lectures 7-9",
+            "weight": "3"
+        },
+        {
+            "task": "Lectures 10-11",
+            "weight": "3"
+        },
+        {
+            "task": "Lectures 12-13",
+            "weight": "3"
+        },
+        {
+            "task": "Lectures 14-16",
+            "weight": "3"
+        },
+        {
+            "task": "End-of-semester written examination",
+            "weight": "38"
+        }
+    ],
+    "related": []
+}

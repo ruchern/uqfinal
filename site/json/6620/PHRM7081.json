@@ -1,0 +1,52 @@
+{
+    "course": "PHRM7081",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Lectures and Workshops",
+            "weight": "Attendance and participation "
+        },
+        {
+            "task": "Learning Portfolio Exercises",
+            "weight": "Satisfactory/Unsatisfactory"
+        },
+        {
+            "task": "Discussion Block 1",
+            "weight": "15"
+        },
+        {
+            "task": "Discussion Block 2",
+            "weight": "15"
+        },
+        {
+            "task": "Lectures and Workshops",
+            "weight": "Attendance and participation"
+        },
+        {
+            "task": "Multiple Choice Exam",
+            "weight": "40"
+        },
+        {
+            "task": "Discussion Block 3",
+            "weight": "15"
+        },
+        {
+            "task": "Discussion Block 4",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

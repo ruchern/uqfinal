@@ -1,0 +1,36 @@
+{
+    "course": "AGRC3050",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Developing Country Profile",
+            "weight": "10"
+        },
+        {
+            "task": "In Class Exam ",
+            "weight": "15"
+        },
+        {
+            "task": "Agricultural Development in Indonesia",
+            "weight": "35"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

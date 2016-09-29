@@ -1,0 +1,40 @@
+{
+    "course": "RSSN3130",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly worksheets",
+            "weight": "30"
+        },
+        {
+            "task": "Tutorial tasks",
+            "weight": "10"
+        },
+        {
+            "task": "In-class test",
+            "weight": "10"
+        },
+        {
+            "task": "Written examination",
+            "weight": "40"
+        },
+        {
+            "task": "Russian Interview",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

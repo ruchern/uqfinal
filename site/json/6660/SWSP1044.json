@@ -1,0 +1,36 @@
+{
+    "course": "SWSP1044",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "My Virtual Life ",
+            "weight": "20"
+        },
+        {
+            "task": "Part A: Case Study Assignment Plan",
+            "weight": "Formative"
+        },
+        {
+            "task": "Part B: Case Study Essay",
+            "weight": "40"
+        },
+        {
+            "task": " Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

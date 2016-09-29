@@ -1,0 +1,40 @@
+{
+    "course": "MGTS7965",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Contribution to residentials",
+            "weight": "10"
+        },
+        {
+            "task": "Action Plan for Learning Project",
+            "weight": "10"
+        },
+        {
+            "task": "Essay on a topic on facilitating or leading groups",
+            "weight": "20"
+        },
+        {
+            "task": "Presentation of Learnings from learning project",
+            "weight": "20"
+        },
+        {
+            "task": "Learning Report",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

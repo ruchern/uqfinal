@@ -1,0 +1,32 @@
+{
+    "course": "PLAN4130",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Placement Supervisor's Assessment Report 1",
+            "weight": "10"
+        },
+        {
+            "task": "Placement Supervisor's Assessment Report 2",
+            "weight": "20"
+        },
+        {
+            "task": "Practicum Placement Report ",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

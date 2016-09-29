@@ -1,0 +1,52 @@
+{
+    "course": "SCIE2111",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Module 1",
+            "weight": "12"
+        },
+        {
+            "task": "Module 2",
+            "weight": "12"
+        },
+        {
+            "task": "Module 3",
+            "weight": "12"
+        },
+        {
+            "task": "Module 4",
+            "weight": "12"
+        },
+        {
+            "task": "Conference Poster",
+            "weight": "12"
+        },
+        {
+            "task": "Modules, Conference and Discipline Activities",
+            "weight": "Pass/fail"
+        },
+        {
+            "task": "Interim Report",
+            "weight": "10"
+        },
+        {
+            "task": "Discipline Activity",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

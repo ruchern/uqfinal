@@ -1,0 +1,36 @@
+{
+    "course": "ERTH6701",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Workshops and Deliverables",
+            "weight": "10"
+        },
+        {
+            "task": "Literature Review",
+            "weight": "35"
+        },
+        {
+            "task": "Thesis research proposal",
+            "weight": "35"
+        },
+        {
+            "task": "Presentation of proposed thesis research ",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

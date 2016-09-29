@@ -1,0 +1,44 @@
+{
+    "course": "LTCS2026",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance and Participation",
+            "weight": "6"
+        },
+        {
+            "task": "Review and Reflection",
+            "weight": "10"
+        },
+        {
+            "task": "Module 1 Pre-Conquest Civilizations",
+            "weight": "28"
+        },
+        {
+            "task": "Module 2 Spain and Spanish America",
+            "weight": "28"
+        },
+        {
+            "task": "Module 3 Latin America 20th Century",
+            "weight": "28"
+        },
+        {
+            "task": "Module 4 Brazil past and present",
+            "weight": "28"
+        }
+    ],
+    "related": []
+}

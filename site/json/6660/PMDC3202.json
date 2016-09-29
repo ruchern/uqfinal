@@ -1,0 +1,40 @@
+{
+    "course": "PMDC3202",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Theory Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Supervise and give Feedback on Clinical Skills",
+            "weight": "15"
+        },
+        {
+            "task": "Poster Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "End of Semester Exam - Theory",
+            "weight": "15"
+        },
+        {
+            "task": "End of Semseter Exam - Practical",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

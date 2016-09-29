@@ -1,0 +1,52 @@
+{
+    "course": "BIOL2203",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Biodiversity - Fungi",
+            "weight": "5"
+        },
+        {
+            "task": "Biodiversity Gymnosperms",
+            "weight": "5"
+        },
+        {
+            "task": "Biodiversity Angiosperms",
+            "weight": "5"
+        },
+        {
+            "task": "Plant-hormone interactions",
+            "weight": "20"
+        },
+        {
+            "task": "Mid-semester exam",
+            "weight": "15"
+        },
+        {
+            "task": "Plant-Environment Interactions",
+            "weight": "15"
+        },
+        {
+            "task": "Biotechnology practical",
+            "weight": "15"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

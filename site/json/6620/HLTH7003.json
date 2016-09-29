@@ -1,0 +1,36 @@
+{
+    "course": "HLTH7003",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online Discussion Forum",
+            "weight": "13"
+        },
+        {
+            "task": "Online MCQ exam ",
+            "weight": "17"
+        },
+        {
+            "task": "Minor assignment",
+            "weight": "25"
+        },
+        {
+            "task": "Major Assignment",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

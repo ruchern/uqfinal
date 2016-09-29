@@ -1,0 +1,44 @@
+{
+    "course": "BIOM3014",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Meta-learning related to Workshop 1",
+            "weight": "2"
+        },
+        {
+            "task": "Meta-learning related to Workshop 2",
+            "weight": "2"
+        },
+        {
+            "task": "Expert Workshop 1  Journal Article Presentation",
+            "weight": "8"
+        },
+        {
+            "task": "Expert Workshop 2  Journal Article Presentation",
+            "weight": "8"
+        },
+        {
+            "task": "Practical Report",
+            "weight": "20"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

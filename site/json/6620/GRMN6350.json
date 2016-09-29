@@ -1,0 +1,32 @@
+{
+    "course": "GRMN6350",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "First Analytical Exercise",
+            "weight": "25"
+        },
+        {
+            "task": "Second Analytical Exercise / Class Presentation",
+            "weight": "25"
+        },
+        {
+            "task": "Thesis Preparation",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

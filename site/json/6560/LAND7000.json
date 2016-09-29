@@ -1,0 +1,36 @@
+{
+    "course": "LAND7000",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Soil sampling and analysis",
+            "weight": "0"
+        },
+        {
+            "task": "Review of soil and water management practises",
+            "weight": "20"
+        },
+        {
+            "task": "Use of WaterMod to assess soil management",
+            "weight": "40"
+        },
+        {
+            "task": "Final examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

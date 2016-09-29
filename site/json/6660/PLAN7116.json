@@ -1,0 +1,36 @@
+{
+    "course": "PLAN7116",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Transport Planning for University campuses",
+            "weight": "15"
+        },
+        {
+            "task": "Case Studies of University Transport Plans",
+            "weight": "20"
+        },
+        {
+            "task": "Develop a Transport Plan for UQ",
+            "weight": "35"
+        },
+        {
+            "task": "Transport Planning",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

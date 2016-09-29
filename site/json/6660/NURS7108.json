@@ -1,0 +1,48 @@
+{
+    "course": "NURS7108",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Medication Calculation Quizzes",
+            "weight": "NGP"
+        },
+        {
+            "task": "Preparation for Practice",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Practice Performance ePortfolio 1",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Placement Evaluation (Formative)",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Practice Performance ePortfolio  2",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Placement Evaluation (Summative)",
+            "weight": "NGP"
+        },
+        {
+            "task": "Objective Structured Clinical Assessment (OSCA)",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

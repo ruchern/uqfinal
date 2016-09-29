@@ -1,0 +1,32 @@
+{
+    "course": "IBUS2301",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Formal Debate on Issues in International Business",
+            "weight": "25"
+        },
+        {
+            "task": "Midsemester exam",
+            "weight": "25"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

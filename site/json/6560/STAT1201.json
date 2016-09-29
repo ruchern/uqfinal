@@ -1,0 +1,48 @@
+{
+    "course": "STAT1201",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online Survey (compulsory)",
+            "weight": "1"
+        },
+        {
+            "task": "Paper Review",
+            "weight": "11"
+        },
+        {
+            "task": "Mid-Semester Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Residential school",
+            "weight": "10"
+        },
+        {
+            "task": "A4 Project ",
+            "weight": "1"
+        },
+        {
+            "task": "Research project",
+            "weight": "12"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

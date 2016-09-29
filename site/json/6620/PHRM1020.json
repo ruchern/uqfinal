@@ -1,0 +1,40 @@
+{
+    "course": "PHRM1020",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Pharm. calculations: BlackBoard Quizzes (4 x 2.5%)",
+            "weight": "10"
+        },
+        {
+            "task": "Pharmaceutical calculations:Tutorial tests(4x10%)",
+            "weight": "40"
+        },
+        {
+            "task": "Data analysis: Computer laboratory quizzes (8x1%)",
+            "weight": "8"
+        },
+        {
+            "task": "Data Analysis Mid-semester exam",
+            "weight": "14"
+        },
+        {
+            "task": "Data analysis examination",
+            "weight": "28"
+        }
+    ],
+    "related": []
+}

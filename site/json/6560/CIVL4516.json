@@ -1,0 +1,36 @@
+{
+    "course": "CIVL4516",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Hydrological design report",
+            "weight": "30"
+        },
+        {
+            "task": "Terminal design: hydraulics and sustainability ",
+            "weight": "50"
+        },
+        {
+            "task": "personal logbook",
+            "weight": "10"
+        },
+        {
+            "task": "End-of-Semester Examination",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

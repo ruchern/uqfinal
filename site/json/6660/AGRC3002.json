@@ -1,0 +1,52 @@
+{
+    "course": "AGRC3002",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Narrated powerpoint presentation on BFDC figures",
+            "weight": "10"
+        },
+        {
+            "task": "BFDC report",
+            "weight": "25"
+        },
+        {
+            "task": "Quiz on barley and wheat rust practicals ",
+            "weight": "3"
+        },
+        {
+            "task": "Plant breeding",
+            "weight": "3"
+        },
+        {
+            "task": "Field trip quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Field trip quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Class quiz on lysimeter practicals",
+            "weight": "3"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

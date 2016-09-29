@@ -1,0 +1,36 @@
+{
+    "course": "MATH1040",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignments",
+            "weight": "12"
+        },
+        {
+            "task": "Weekly quiz",
+            "weight": "8"
+        },
+        {
+            "task": "Mid-Semester Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Final examination",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "POLS1201",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Pre-Tutorial and Tutorial Work",
+            "weight": "15"
+        },
+        {
+            "task": "Minor essay (1000 words)",
+            "weight": "20"
+        },
+        {
+            "task": "Major essay 1500 words",
+            "weight": "30"
+        },
+        {
+            "task": "Final Exam (2 hours)",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,44 @@
+{
+    "course": "CSSE2010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-semester exam",
+            "weight": "10"
+        },
+        {
+            "task": "Course Participation",
+            "weight": "5"
+        },
+        {
+            "task": "Online quizzes",
+            "weight": "10"
+        },
+        {
+            "task": "Prac Exam",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "AVR Programming Project",
+            "weight": "20"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

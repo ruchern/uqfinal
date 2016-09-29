@@ -1,0 +1,36 @@
+{
+    "course": "HLTH2001",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Blackboard Discussion Forum",
+            "weight": "6"
+        },
+        {
+            "task": "Module one assessment: Short answer questions",
+            "weight": "19"
+        },
+        {
+            "task": "Module two assessment: Multiple choice questions",
+            "weight": "30"
+        },
+        {
+            "task": "Module three assignment",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

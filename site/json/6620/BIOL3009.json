@@ -1,0 +1,52 @@
+{
+    "course": "BIOL3009",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Report 1",
+            "weight": "5"
+        },
+        {
+            "task": "Report 2",
+            "weight": "5"
+        },
+        {
+            "task": "Report-1",
+            "weight": "10"
+        },
+        {
+            "task": "Report 3",
+            "weight": "5"
+        },
+        {
+            "task": "Report 4",
+            "weight": "5"
+        },
+        {
+            "task": "Report 5",
+            "weight": "5"
+        },
+        {
+            "task": "Report-2",
+            "weight": "10"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "SOSC3201",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Annotated Key References",
+            "weight": "20"
+        },
+        {
+            "task": "Work in Progress Presentation - group/ind reflect",
+            "weight": "20"
+        },
+        {
+            "task": "Group Research Proposal",
+            "weight": "30"
+        },
+        {
+            "task": "Group Ethics Application",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

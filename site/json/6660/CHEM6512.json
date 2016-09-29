@@ -1,0 +1,44 @@
+{
+    "course": "CHEM6512",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Report & Research Performance",
+            "weight": "#10 "
+        },
+        {
+            "task": "Research Proposal",
+            "weight": "#2"
+        },
+        {
+            "task": "Seminar Notebook",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Research Proposal Seminar ",
+            "weight": "#1"
+        },
+        {
+            "task": "Advanced Coursework - Various assessment items",
+            "weight": "#2"
+        },
+        {
+            "task": "Final Seminar",
+            "weight": "#1"
+        }
+    ],
+    "related": []
+}

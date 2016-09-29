@@ -1,0 +1,32 @@
+{
+    "course": "PHTY7889",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Understanding successful organisations",
+            "weight": "20"
+        },
+        {
+            "task": "Building a Marketing Strategy",
+            "weight": "20"
+        },
+        {
+            "task": "Written exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

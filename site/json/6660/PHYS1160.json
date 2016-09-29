@@ -1,0 +1,36 @@
+{
+    "course": "PHYS1160",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "End of semester exam",
+            "weight": "30"
+        },
+        {
+            "task": "Final Theory Exam",
+            "weight": "30"
+        },
+        {
+            "task": "(Almost) Weekly Physics Tutorial Assignments",
+            "weight": "20"
+        },
+        {
+            "task": "Physics Research Assignment (Group)",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

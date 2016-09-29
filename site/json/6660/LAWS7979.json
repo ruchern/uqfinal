@@ -1,0 +1,28 @@
+{
+    "course": "LAWS7979",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Take Home Exam",
+            "weight": "50"
+        },
+        {
+            "task": "Selected topics in commercial conflict of laws",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

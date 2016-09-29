@@ -1,0 +1,36 @@
+{
+    "course": "ARCH1160",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Lines: character and gesture",
+            "weight": "15"
+        },
+        {
+            "task": "Settings & Scenes",
+            "weight": "20"
+        },
+        {
+            "task": "Digital Transfer",
+            "weight": "15"
+        },
+        {
+            "task": "Elements & Spaces",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

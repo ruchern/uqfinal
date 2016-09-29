@@ -1,0 +1,40 @@
+{
+    "course": "CSSE7201",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-semester exam",
+            "weight": "10"
+        },
+        {
+            "task": "Prac Exam",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Microprocessor Research Assignment",
+            "weight": "15"
+        },
+        {
+            "task": "AVR Programming Project",
+            "weight": "20"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,52 @@
+{
+    "course": "PHRM4062",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Confidentiality Statement",
+            "weight": "Compulsory"
+        },
+        {
+            "task": "QUM Practice-focussed Project Report",
+            "weight": "40"
+        },
+        {
+            "task": "QUM Practice-focussed placement",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Preceptor Evaluation",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "QUM Evidence of Performance Skill",
+            "weight": "40"
+        },
+        {
+            "task": "Reflective Placement Diary",
+            "weight": "10"
+        },
+        {
+            "task": "Practicing Professional Discussion (GDT)",
+            "weight": "10"
+        },
+        {
+            "task": "QUM Research Project Oral Presentation (Tutorials)",
+            "weight": "Compulsory"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "PSYC8005",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "DPsych",
+            "weight": "100"
+        },
+        {
+            "task": "Progress Report ",
+            "weight": "Mandatory"
+        }
+    ],
+    "related": []
+}

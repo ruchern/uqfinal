@@ -1,0 +1,40 @@
+{
+    "course": "ARCH7002",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Task 1 Reading",
+            "weight": "0"
+        },
+        {
+            "task": "Task 3 Design Agenda",
+            "weight": "20"
+        },
+        {
+            "task": "Task 2 General Briefing",
+            "weight": "0"
+        },
+        {
+            "task": "Task 4 Interim Critique Design Submission",
+            "weight": "20"
+        },
+        {
+            "task": "Task 5 Final Design",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "EXMD2382",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "1. Student Professionalism",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Personal Data in Excel",
+            "weight": "1"
+        },
+        {
+            "task": "Theory Quizzes",
+            "weight": "24"
+        },
+        {
+            "task": "3. Mid-semester Practical Exam",
+            "weight": "40"
+        },
+        {
+            "task": "4. Final Practical Exam",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

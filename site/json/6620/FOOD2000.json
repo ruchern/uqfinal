@@ -1,0 +1,36 @@
+{
+    "course": "FOOD2000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-Semester Test on Plant-Based Foods",
+            "weight": "30"
+        },
+        {
+            "task": "Report on each experiment",
+            "weight": "40"
+        },
+        {
+            "task": "Dairy Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Exam on animal-based foods",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

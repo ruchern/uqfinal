@@ -1,0 +1,36 @@
+{
+    "course": "MSTU3012",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Sole Assessment Component for Research Projects",
+            "weight": "100"
+        },
+        {
+            "task": "Internship Component 1",
+            "weight": "40"
+        },
+        {
+            "task": "Internship Component 3",
+            "weight": "30"
+        },
+        {
+            "task": "Internship Component 2",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

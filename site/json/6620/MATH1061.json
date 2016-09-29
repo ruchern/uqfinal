@@ -1,0 +1,48 @@
+{
+    "course": "MATH1061",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reading quiz",
+            "weight": "5"
+        },
+        {
+            "task": "Assignment 1",
+            "weight": "5"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "5"
+        },
+        {
+            "task": "Mid-semester exam",
+            "weight": "20"
+        },
+        {
+            "task": "Assignment 3",
+            "weight": "5"
+        },
+        {
+            "task": "Assignment 4",
+            "weight": "5"
+        },
+        {
+            "task": "Final examination",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

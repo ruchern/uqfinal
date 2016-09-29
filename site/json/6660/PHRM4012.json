@@ -1,0 +1,56 @@
+{
+    "course": "PHRM4012",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Therapeutics Quiz One",
+            "weight": "2"
+        },
+        {
+            "task": "Ethics Quiz ",
+            "weight": "2"
+        },
+        {
+            "task": "Therapeutics Quiz Two",
+            "weight": "2"
+        },
+        {
+            "task": "Therapeutics Quiz Three",
+            "weight": "2"
+        },
+        {
+            "task": "Patient Integrated Case mid-semester exam",
+            "weight": "16"
+        },
+        {
+            "task": "Therapeutics Quiz Four",
+            "weight": "2"
+        },
+        {
+            "task": "Therapeutics Quiz Five",
+            "weight": "2"
+        },
+        {
+            "task": "OSCE Oral Exam",
+            "weight": "24"
+        },
+        {
+            "task": "PHRM4012 written exam",
+            "weight": "48"
+        }
+    ],
+    "related": []
+}

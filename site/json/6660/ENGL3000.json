@@ -1,0 +1,36 @@
+{
+    "course": "ENGL3000",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Engagement with activities and lecturers ",
+            "weight": "5"
+        },
+        {
+            "task": "Library Skills Test",
+            "weight": "10"
+        },
+        {
+            "task": "Literature Review & Annotated Bibliography ",
+            "weight": "25"
+        },
+        {
+            "task": "Research, Writing and Presentation",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

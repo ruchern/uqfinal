@@ -1,0 +1,40 @@
+{
+    "course": "VETS6001",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Structured research question and literature search",
+            "weight": "20"
+        },
+        {
+            "task": "Epi quiz 1: Causality, study design and bias",
+            "weight": "20"
+        },
+        {
+            "task": "Epi quiz 2: Basic stats, power and sample size",
+            "weight": "20"
+        },
+        {
+            "task": "Design a simple research proposal",
+            "weight": "20"
+        },
+        {
+            "task": "Create a publication quality graphic with legend",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

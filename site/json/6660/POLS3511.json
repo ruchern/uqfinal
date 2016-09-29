@@ -1,0 +1,36 @@
+{
+    "course": "POLS3511",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial participation",
+            "weight": "10"
+        },
+        {
+            "task": "Short answer quiz",
+            "weight": "20"
+        },
+        {
+            "task": "Conflict Mapping of a post-conflict country",
+            "weight": "30"
+        },
+        {
+            "task": "Critical evaluation of peacebuilding effort ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "NURS1003",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Written assignment",
+            "weight": "50"
+        },
+        {
+            "task": "Exam for NURS1003 ",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

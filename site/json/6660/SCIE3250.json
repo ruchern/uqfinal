@@ -1,0 +1,36 @@
+{
+    "course": "SCIE3250",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Recording",
+            "weight": "20"
+        },
+        {
+            "task": "Literature Review",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Oral presentation ",
+            "weight": "20"
+        },
+        {
+            "task": "Project Report",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

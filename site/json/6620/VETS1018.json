@@ -1,0 +1,44 @@
+{
+    "course": "VETS1018",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Consultation Skills",
+            "weight": "2.5"
+        },
+        {
+            "task": "Veterinary calculations",
+            "weight": "2.5"
+        },
+        {
+            "task": "First Aid assessment",
+            "weight": "2.5"
+        },
+        {
+            "task": "Suture Skills",
+            "weight": "2.5"
+        },
+        {
+            "task": "Veterinary Professional Practice & Research Skills",
+            "weight": "30"
+        },
+        {
+            "task": "End-of-Semester Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "SLAT7855",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Basic concept quiz (1)",
+            "weight": "20"
+        },
+        {
+            "task": "Data analysis & presentation",
+            "weight": "25"
+        },
+        {
+            "task": "Basic concept quiz(2)",
+            "weight": "20"
+        },
+        {
+            "task": "Data analysis and write up",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

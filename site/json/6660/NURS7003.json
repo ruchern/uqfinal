@@ -1,0 +1,36 @@
+{
+    "course": "NURS7003",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "QUM Scenarios (five)  ",
+            "weight": "Pass/Fail "
+        },
+        {
+            "task": "Case studies (two) from own clincial setting",
+            "weight": "20"
+        },
+        {
+            "task": "In depth description of drugs. ",
+            "weight": "40"
+        },
+        {
+            "task": "Viva voce- Full Episode of Care",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "MINE3125",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": " 5 x In Class Activities",
+            "weight": "15"
+        },
+        {
+            "task": "Group research and presentations",
+            "weight": "15"
+        },
+        {
+            "task": "Drilling and Blasting Assignment",
+            "weight": "30"
+        },
+        {
+            "task": "Blasting and Machine Mining Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

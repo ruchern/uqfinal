@@ -1,0 +1,40 @@
+{
+    "course": "BIOL3204",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Syntheses of course themes",
+            "weight": "20"
+        },
+        {
+            "task": "Action Learning Project",
+            "weight": "15"
+        },
+        {
+            "task": "Action Learning Project ",
+            "weight": "15"
+        },
+        {
+            "task": "Action Learning Project",
+            "weight": "30"
+        },
+        {
+            "task": "Mind map-formulating project rationale &strategies",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

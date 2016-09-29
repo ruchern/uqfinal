@@ -1,0 +1,44 @@
+{
+    "course": "SCIE3220",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Active participation in lectures and workshops",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Project Background and Critical Evaluation ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Research Poster & Oral Presentation",
+            "weight": "20"
+        },
+        {
+            "task": "Laboratory or Field Work Performance",
+            "weight": "10"
+        },
+        {
+            "task": "Record Keeping",
+            "weight": "10"
+        },
+        {
+            "task": "Research Report",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "ANTH2270",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Active Participation and Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Online Quiz",
+            "weight": "20"
+        },
+        {
+            "task": "Ethnographic Interview and Research Paper",
+            "weight": "35"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

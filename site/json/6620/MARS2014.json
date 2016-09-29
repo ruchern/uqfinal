@@ -1,0 +1,44 @@
+{
+    "course": "MARS2014",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Physical Oceanography",
+            "weight": "20"
+        },
+        {
+            "task": "Laboratory report 1",
+            "weight": "10"
+        },
+        {
+            "task": "Science skills and field activities",
+            "weight": "5"
+        },
+        {
+            "task": "Oral presentation",
+            "weight": "5"
+        },
+        {
+            "task": "Assignment",
+            "weight": "25"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

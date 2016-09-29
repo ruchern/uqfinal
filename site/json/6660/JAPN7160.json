@@ -1,0 +1,36 @@
+{
+    "course": "JAPN7160",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Translation assignment 1",
+            "weight": "20"
+        },
+        {
+            "task": "Translation assignment 2",
+            "weight": "20"
+        },
+        {
+            "task": "Development of professionalism",
+            "weight": "10"
+        },
+        {
+            "task": "Translation examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

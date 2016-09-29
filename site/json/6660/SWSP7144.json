@@ -1,0 +1,32 @@
+{
+    "course": "SWSP7144",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": " Article reviews",
+            "weight": "25"
+        },
+        {
+            "task": "Semi-structured Interviewing Exercise",
+            "weight": "45"
+        },
+        {
+            "task": "Survey design conference presentation",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

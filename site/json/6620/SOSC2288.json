@@ -1,0 +1,32 @@
+{
+    "course": "SOSC2288",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly quiz",
+            "weight": "45"
+        },
+        {
+            "task": "Class Engagement Activities",
+            "weight": "5"
+        },
+        {
+            "task": "Reflective Learning Paper",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

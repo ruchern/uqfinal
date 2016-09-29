@@ -1,0 +1,40 @@
+{
+    "course": "ELEC3004",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Problem Set 1",
+            "weight": "20"
+        },
+        {
+            "task": "Online Quiz",
+            "weight": "EXTRA CREDIT"
+        },
+        {
+            "task": "Problem Set 2",
+            "weight": "20"
+        },
+        {
+            "task": "Problem Set 3",
+            "weight": "20"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

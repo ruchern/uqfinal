@@ -1,0 +1,28 @@
+{
+    "course": "CHIN7170",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical translation project",
+            "weight": "30"
+        },
+        {
+            "task": "Field practice report",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

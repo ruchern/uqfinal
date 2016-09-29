@@ -1,0 +1,40 @@
+{
+    "course": "PSYC2030",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Discussion Questions",
+            "weight": "10"
+        },
+        {
+            "task": "Quiz #1 Week 6",
+            "weight": "9"
+        },
+        {
+            "task": "Topic given below",
+            "weight": "30"
+        },
+        {
+            "task": "Quiz #2 Week 12",
+            "weight": "16"
+        },
+        {
+            "task": "Final examination",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

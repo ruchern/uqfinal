@@ -1,0 +1,44 @@
+{
+    "course": "NURS7108",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Medication Calculation Assessments",
+            "weight": "Formative"
+        },
+        {
+            "task": "Clinical Practice Performance ePortfolio 1",
+            "weight": "Formative"
+        },
+        {
+            "task": "Clinical Placement Evaluation",
+            "weight": "Formative"
+        },
+        {
+            "task": "Clinical Practice Performance ePortfolio  2",
+            "weight": "NGP"
+        },
+        {
+            "task": "Objective Structured Clinical Skills Assessment ",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Placement Evaluation",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

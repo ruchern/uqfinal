@@ -1,0 +1,40 @@
+{
+    "course": "PXMH7068",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Art Therapy Major Oral presentation of findings",
+            "weight": "40"
+        },
+        {
+            "task": "Art Therapy Major - Written report ",
+            "weight": "60"
+        },
+        {
+            "task": "Art Exhibition ",
+            "weight": "Hurdle "
+        },
+        {
+            "task": "Oral Presentation of Findings",
+            "weight": "40"
+        },
+        {
+            "task": "Written project report",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

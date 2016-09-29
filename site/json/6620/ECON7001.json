@@ -1,0 +1,44 @@
+{
+    "course": "ECON7001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly quizzes",
+            "weight": "20"
+        },
+        {
+            "task": "RBA Official Cash Rate Forecasting (preliminary)",
+            "weight": "2"
+        },
+        {
+            "task": "RBA Official Cash Rate Forecasting (final)",
+            "weight": "13"
+        },
+        {
+            "task": "Application of theory and concept (preliminary)",
+            "weight": "2"
+        },
+        {
+            "task": "Application of theory and concept (final)",
+            "weight": "13"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

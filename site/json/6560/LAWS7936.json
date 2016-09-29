@@ -1,0 +1,36 @@
+{
+    "course": "LAWS7936",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Court Scenario or Court Report",
+            "weight": "5"
+        },
+        {
+            "task": "Research Proposal",
+            "weight": "20"
+        },
+        {
+            "task": "Common Law & Australian Legal System",
+            "weight": "15"
+        },
+        {
+            "task": "Research Essay",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,32 @@
+{
+    "course": "DIET7303",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Identification of personal contribution to work",
+            "weight": "satisfactory"
+        },
+        {
+            "task": "Attendance and Competence",
+            "weight": "Satisfactory"
+        },
+        {
+            "task": "Report of placement projects",
+            "weight": "satisfactory"
+        }
+    ],
+    "related": []
+}

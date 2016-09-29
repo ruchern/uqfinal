@@ -1,0 +1,36 @@
+{
+    "course": "ANIM2024",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Biomechanics of Equine Locomotion",
+            "weight": "15"
+        },
+        {
+            "task": "Human-horse interaction",
+            "weight": "15"
+        },
+        {
+            "task": "Handling skills assessment",
+            "weight": "30"
+        },
+        {
+            "task": "Final Theory Examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

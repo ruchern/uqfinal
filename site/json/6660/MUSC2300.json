@@ -1,0 +1,32 @@
+{
+    "course": "MUSC2300",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Music Life Story",
+            "weight": "20"
+        },
+        {
+            "task": "Literature review",
+            "weight": "35"
+        },
+        {
+            "task": "written exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

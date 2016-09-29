@@ -1,0 +1,44 @@
+{
+    "course": "JAPN3240",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "participation/performance in class",
+            "weight": "10"
+        },
+        {
+            "task": "tutorial presentation",
+            "weight": "20"
+        },
+        {
+            "task": "written assignment 1",
+            "weight": "15"
+        },
+        {
+            "task": "recitation (reading aloud)",
+            "weight": "10"
+        },
+        {
+            "task": "Written assignment 2",
+            "weight": "15"
+        },
+        {
+            "task": "Final exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

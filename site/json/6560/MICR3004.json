@@ -1,0 +1,32 @@
+{
+    "course": "MICR3004",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory Notebooks",
+            "weight": "10"
+        },
+        {
+            "task": "Genome Report",
+            "weight": "30"
+        },
+        {
+            "task": "Final Exam Microbial Diversity & Biotechnology",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

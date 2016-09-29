@@ -1,0 +1,36 @@
+{
+    "course": "COMU1002",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Group project",
+            "weight": "25"
+        },
+        {
+            "task": "Critical analysis of a film ",
+            "weight": "25"
+        },
+        {
+            "task": "Concept review",
+            "weight": "20"
+        },
+        {
+            "task": "Bibliographic journal",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

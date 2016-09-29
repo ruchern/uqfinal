@@ -1,0 +1,36 @@
+{
+    "course": "ECON3450",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Midterm",
+            "weight": "15"
+        },
+        {
+            "task": "Group Presentation",
+            "weight": "20"
+        },
+        {
+            "task": "Evaluating Peer Presentations",
+            "weight": "5"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

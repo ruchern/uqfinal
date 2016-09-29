@@ -1,0 +1,48 @@
+{
+    "course": "BIOL1020",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Science Communication",
+            "weight": "7"
+        },
+        {
+            "task": "Textbook readings and associated questions",
+            "weight": "0"
+        },
+        {
+            "task": "Online Learning questions ",
+            "weight": "0"
+        },
+        {
+            "task": "Tutorials",
+            "weight": "0"
+        },
+        {
+            "task": "Practical class preparation & participation",
+            "weight": "3"
+        },
+        {
+            "task": "Min-test",
+            "weight": "40"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

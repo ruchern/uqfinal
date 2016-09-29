@@ -1,0 +1,40 @@
+{
+    "course": "SPCH7825",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Acquired Aphasia Exam",
+            "weight": "40"
+        },
+        {
+            "task": "SPCH7825 Acquired Aphasia Assessments video exam",
+            "weight": "15"
+        },
+        {
+            "task": "SPCH7825/1 Cognitive-Communication Disorders Exam",
+            "weight": "45"
+        },
+        {
+            "task": "Standardised Patient Voice Clinic",
+            "weight": "Pass/Fail (must pass)"
+        },
+        {
+            "task": "Clinical practice evaluation",
+            "weight": "Pass/Fail (must pass)"
+        }
+    ],
+    "related": []
+}

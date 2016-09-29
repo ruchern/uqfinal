@@ -1,0 +1,36 @@
+{
+    "course": "LATN3001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1",
+            "weight": "15"
+        },
+        {
+            "task": "Held During Class (50 mins.)",
+            "weight": "30"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

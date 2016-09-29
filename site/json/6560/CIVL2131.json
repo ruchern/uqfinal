@@ -1,0 +1,36 @@
+{
+    "course": "CIVL2131",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory experiments",
+            "weight": "20"
+        },
+        {
+            "task": "Design Check of AEB Hydraulics laboratory pipes",
+            "weight": "6"
+        },
+        {
+            "task": "Feedback on learning progress",
+            "weight": "4"
+        },
+        {
+            "task": "Final examination",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

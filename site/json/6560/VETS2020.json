@@ -1,0 +1,36 @@
+{
+    "course": "VETS2020",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "A Case-Based Approach to Therapeutics for the VT",
+            "weight": "20"
+        },
+        {
+            "task": "On Line Mid Semester Examination",
+            "weight": "20"
+        },
+        {
+            "task": "Pharmacy Tutorial",
+            "weight": "10"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

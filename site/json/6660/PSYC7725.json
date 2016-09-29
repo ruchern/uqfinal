@@ -1,0 +1,52 @@
+{
+    "course": "PSYC7725",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Skill/method - Individual Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Skill/method Presentation in Pairs",
+            "weight": "10"
+        },
+        {
+            "task": "Population - Individual Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Psychological Skills Program Proposal",
+            "weight": "20"
+        },
+        {
+            "task": "Population Presention in Pairs",
+            "weight": "10"
+        },
+        {
+            "task": "Sport/Activity Specific",
+            "weight": "10"
+        },
+        {
+            "task": "ABL Reflection and Application",
+            "weight": "10"
+        },
+        {
+            "task": "Intervention Resource File",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

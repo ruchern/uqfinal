@@ -1,0 +1,32 @@
+{
+    "course": "MGTS7213",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1 - Theory Questions",
+            "weight": "20"
+        },
+        {
+            "task": "Assignment 2: Security Topic Analysis",
+            "weight": "25"
+        },
+        {
+            "task": "MGTS7213 Final Exam",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

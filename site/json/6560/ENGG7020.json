@@ -1,0 +1,52 @@
+{
+    "course": "ENGG7020",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "UQ Academic Integrity Tutorial",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Preliminary literature review",
+            "weight": "8"
+        },
+        {
+            "task": "Group Assignment 1. Prelim Hazard Analysis (PHA)",
+            "weight": "20"
+        },
+        {
+            "task": "Peer Assessment for Group Assignment 1",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Group Assignment 2. System Hazard Analysis (SHA)",
+            "weight": "20"
+        },
+        {
+            "task": "Peer Assessment for Group Assignment 2",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Assignment 3. Literature review",
+            "weight": "20"
+        },
+        {
+            "task": "Final exam",
+            "weight": "32"
+        }
+    ],
+    "related": []
+}

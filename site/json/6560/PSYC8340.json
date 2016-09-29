@@ -1,0 +1,28 @@
+{
+    "course": "PSYC8340",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Interview with site supervisor at mid term and end",
+            "weight": "This is the most important part of the assessment"
+        },
+        {
+            "task": "Portfolio of work completed on extended placement",
+            "weight": "mandatory"
+        }
+    ],
+    "related": []
+}

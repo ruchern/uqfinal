@@ -1,0 +1,44 @@
+{
+    "course": "OHSS4012",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Academic Contact",
+            "weight": "10"
+        },
+        {
+            "task": "Learning Contract",
+            "weight": "0"
+        },
+        {
+            "task": "OHS Tasks",
+            "weight": "40"
+        },
+        {
+            "task": "Reflective Journal",
+            "weight": "15"
+        },
+        {
+            "task": "Supervisor's Report",
+            "weight": "10"
+        },
+        {
+            "task": "OHS Audit",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

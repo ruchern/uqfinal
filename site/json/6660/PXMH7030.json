@@ -1,0 +1,40 @@
+{
+    "course": "PXMH7030",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reflective Practice Journal",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Mid Semester - Supervision Report",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "End of Semester - Supervision Report",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Practicum Log - Client Contact",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Practicum Log - Non Client Contact",
+            "weight": "pass/fail"
+        }
+    ],
+    "related": []
+}

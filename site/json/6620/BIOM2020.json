@@ -1,0 +1,52 @@
+{
+    "course": "BIOM2020",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical Spotter Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Theory Exam (EOS)",
+            "weight": "30"
+        },
+        {
+            "task": "Practical Exam",
+            "weight": "20"
+        },
+        {
+            "task": "BioStats Entry Survey",
+            "weight": "2.5"
+        },
+        {
+            "task": "BioStats Data Collection",
+            "weight": "5"
+        },
+        {
+            "task": "BioStats Assignment",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "BioStats Assignment",
+            "weight": "25"
+        },
+        {
+            "task": "BioStats Exit Survey",
+            "weight": "2.5"
+        }
+    ],
+    "related": []
+}

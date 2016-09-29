@@ -1,0 +1,36 @@
+{
+    "course": "PSYC2030",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quiz #1",
+            "weight": "9"
+        },
+        {
+            "task": "Attachment: How Much Influence?",
+            "weight": "30"
+        },
+        {
+            "task": "Quiz #2",
+            "weight": "16"
+        },
+        {
+            "task": "Final examination",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

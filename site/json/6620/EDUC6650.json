@@ -1,0 +1,28 @@
+{
+    "course": "EDUC6650",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Career Development Case Studies NS 1.1;1.2;3.5;4.1",
+            "weight": "40"
+        },
+        {
+            "task": "Career Development Portfolio NS 1.1; 1.2; 3.5; 4.1",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

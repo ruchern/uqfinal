@@ -1,0 +1,24 @@
+{
+    "course": "SOCY3050",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Items for Progressive Assessment",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

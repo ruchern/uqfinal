@@ -1,0 +1,40 @@
+{
+    "course": "PUBH2010",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Three best resources for global change and health",
+            "weight": "15"
+        },
+        {
+            "task": "Global change and infectious disease ",
+            "weight": "45"
+        },
+        {
+            "task": "Infectious disease transmission demonstration",
+            "weight": "15"
+        },
+        {
+            "task": "In-class quizzes",
+            "weight": "15"
+        },
+        {
+            "task": "Particpation in lecture/tutorials",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

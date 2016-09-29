@@ -1,0 +1,56 @@
+{
+    "course": "CHEE4301",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Crystallography",
+            "weight": "3"
+        },
+        {
+            "task": "Crystal Structure Modelling ",
+            "weight": "10"
+        },
+        {
+            "task": "Diffraction",
+            "weight": "3"
+        },
+        {
+            "task": "XPS ",
+            "weight": "5"
+        },
+        {
+            "task": "Synthesis/Characterisation/Property of NanoBi2Te3 ",
+            "weight": "25"
+        },
+        {
+            "task": "Nanomaterials for Energy Applications",
+            "weight": "3"
+        },
+        {
+            "task": "Electron Microscopy",
+            "weight": "3"
+        },
+        {
+            "task": "Nanomaterials for Enviro/Bio Applications",
+            "weight": "3"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

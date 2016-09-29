@@ -1,0 +1,32 @@
+{
+    "course": "ECON3360",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "3 Problem Sets",
+            "weight": "15"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "40"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "PLAN3200",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Workshop (pre-trip)",
+            "weight": "0"
+        },
+        {
+            "task": "Group Presentation",
+            "weight": "30"
+        },
+        {
+            "task": "Individual Reflective Workbook",
+            "weight": "30"
+        },
+        {
+            "task": "Individual Final Report ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

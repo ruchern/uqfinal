@@ -1,0 +1,40 @@
+{
+    "course": "WRIT3065",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Active, respectful participation and feedback",
+            "weight": "10"
+        },
+        {
+            "task": "Reflective Journal/Blog Entry",
+            "weight": "20"
+        },
+        {
+            "task": "Travel Feature Article",
+            "weight": "25"
+        },
+        {
+            "task": "Critical Review of Literature",
+            "weight": "20"
+        },
+        {
+            "task": "Critically Reflective Essay",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

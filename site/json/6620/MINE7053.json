@@ -1,0 +1,36 @@
+{
+    "course": "MINE7053",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online participation",
+            "weight": "25"
+        },
+        {
+            "task": "Key concepts of mining and SD",
+            "weight": "5"
+        },
+        {
+            "task": "Group presentation and Case Study reflection",
+            "weight": "30"
+        },
+        {
+            "task": "Internal briefing paper &#150; SD Performance Standards",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

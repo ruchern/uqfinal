@@ -1,0 +1,36 @@
+{
+    "course": "GEND1010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Essay 1",
+            "weight": "20"
+        },
+        {
+            "task": "Answer Six Questions",
+            "weight": "30"
+        },
+        {
+            "task": "Essay 2: Reflective research essay",
+            "weight": "35"
+        },
+        {
+            "task": "Engagement with Weekly Set Questions and Your Own",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

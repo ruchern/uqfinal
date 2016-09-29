@@ -1,0 +1,44 @@
+{
+    "course": "CIVL3510",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial 1",
+            "weight": "5"
+        },
+        {
+            "task": "Tutorial 2",
+            "weight": "5"
+        },
+        {
+            "task": "Communication technologies 1",
+            "weight": "5"
+        },
+        {
+            "task": "Communication technologies 2",
+            "weight": "5"
+        },
+        {
+            "task": "Communication technologies for Project Management",
+            "weight": "20"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

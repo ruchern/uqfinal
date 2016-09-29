@@ -1,0 +1,48 @@
+{
+    "course": "PHRM1012",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Placement Confidentiality Form",
+            "weight": "0"
+        },
+        {
+            "task": "Preceptor Evaluation",
+            "weight": "0"
+        },
+        {
+            "task": "Placement Attendance Record",
+            "weight": "Satisfactory completion required"
+        },
+        {
+            "task": "Oral Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Placement ePortfolio Reflective Task",
+            "weight": "Satisfactory completion required"
+        },
+        {
+            "task": "Online Feedback Quizzes 10&#215;2%",
+            "weight": "20"
+        },
+        {
+            "task": "Written Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

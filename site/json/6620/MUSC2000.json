@@ -1,0 +1,32 @@
+{
+    "course": "MUSC2000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Proposal and Literature Review",
+            "weight": "30"
+        },
+        {
+            "task": "Two Online Quizzes",
+            "weight": "20"
+        },
+        {
+            "task": "Final Essay",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

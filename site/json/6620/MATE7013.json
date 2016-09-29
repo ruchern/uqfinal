@@ -1,0 +1,40 @@
+{
+    "course": "MATE7013",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Topics in Nano-Manufacturing",
+            "weight": "25"
+        },
+        {
+            "task": "Surface Engineering",
+            "weight": "25"
+        },
+        {
+            "task": "Oral Presentation - Microstructures",
+            "weight": "12.5"
+        },
+        {
+            "task": "Critical factors affecting 3D printing of concrete",
+            "weight": "12.5"
+        },
+        {
+            "task": "Topics in Electronics Manufacturing",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

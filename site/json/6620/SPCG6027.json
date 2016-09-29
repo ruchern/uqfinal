@@ -1,0 +1,40 @@
+{
+    "course": "SPCG6027",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Contribution to online discussions",
+            "weight": "10"
+        },
+        {
+            "task": "Seminar 1 submission",
+            "weight": "20"
+        },
+        {
+            "task": "Seminar 2 submission",
+            "weight": "20"
+        },
+        {
+            "task": "Seminar 3 submission",
+            "weight": "25"
+        },
+        {
+            "task": "Seminar 4 submission",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

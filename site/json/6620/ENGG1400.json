@@ -1,0 +1,44 @@
+{
+    "course": "ENGG1400",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical Classes",
+            "weight": "4"
+        },
+        {
+            "task": "Contact Activities - Statics & Dynamics",
+            "weight": "0"
+        },
+        {
+            "task": "Tutorial assignments- Statics",
+            "weight": "10"
+        },
+        {
+            "task": "Mid-Semester Exam",
+            "weight": "35"
+        },
+        {
+            "task": "Tutorial assignments- Dynamics ",
+            "weight": "6"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

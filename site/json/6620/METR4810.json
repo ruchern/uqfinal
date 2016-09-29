@@ -1,0 +1,56 @@
+{
+    "course": "METR4810",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assessment of Individual Performance",
+            "weight": "Incorporated into product mark"
+        },
+        {
+            "task": "Assessment of Individual Performance",
+            "weight": "Incorporated into product mark"
+        },
+        {
+            "task": "Problem Analysis (individual)",
+            "weight": "10"
+        },
+        {
+            "task": "Progress Review 1 (individual)",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Progress Seminar (team)",
+            "weight": "10"
+        },
+        {
+            "task": "Progress Review 2 (individual)",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Preliminary Report (individual)",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Product Mark (team)",
+            "weight": "60"
+        },
+        {
+            "task": "Final Report (individual)",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "EDUC6800",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Attendance & Participation",
+            "weight": "20"
+        },
+        {
+            "task": "Task Analysis and Design",
+            "weight": "20"
+        },
+        {
+            "task": "ESL Student Profile",
+            "weight": "15"
+        },
+        {
+            "task": "Microteaching",
+            "weight": "15"
+        },
+        {
+            "task": "Unit Design",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

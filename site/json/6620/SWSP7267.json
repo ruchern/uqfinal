@@ -1,0 +1,36 @@
+{
+    "course": "SWSP7267",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reflective Journal 1",
+            "weight": "20"
+        },
+        {
+            "task": "Case Description",
+            "weight": "Formative"
+        },
+        {
+            "task": "Family Therapy Information Pack",
+            "weight": "40"
+        },
+        {
+            "task": "Case Analysis using two approaches ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

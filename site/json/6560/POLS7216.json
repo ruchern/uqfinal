@@ -1,0 +1,28 @@
+{
+    "course": "POLS7216",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Essay (4000 words)",
+            "weight": "60"
+        },
+        {
+            "task": "Final exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "NURS7903",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Case Study 2",
+            "weight": "50"
+        },
+        {
+            "task": "Case Study 1",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

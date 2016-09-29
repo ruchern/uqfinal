@@ -1,0 +1,36 @@
+{
+    "course": "MINE4123",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Consultation with supervisor",
+            "weight": "5"
+        },
+        {
+            "task": "Oral presentation of project outcomes",
+            "weight": "15"
+        },
+        {
+            "task": "Examiners copy of Thesis",
+            "weight": "65"
+        },
+        {
+            "task": "AusIMM Conference Proceeedings Paper",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

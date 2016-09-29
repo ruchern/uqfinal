@@ -1,0 +1,40 @@
+{
+    "course": "MEDI7112",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Intra Semester Test",
+            "weight": "25"
+        },
+        {
+            "task": "Pre-reading Test",
+            "weight": "5"
+        },
+        {
+            "task": "Contribution to CBL",
+            "weight": "5"
+        },
+        {
+            "task": "Practical and Image-Based Exam",
+            "weight": "25"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

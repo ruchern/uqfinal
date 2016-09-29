@@ -1,0 +1,40 @@
+{
+    "course": "SOSC7100",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Ethics Application",
+            "weight": "0"
+        },
+        {
+            "task": "abstract",
+            "weight": "0"
+        },
+        {
+            "task": "Outline of Research Thesis",
+            "weight": "0"
+        },
+        {
+            "task": "Research Thesis",
+            "weight": "100"
+        },
+        {
+            "task": "Meetings with Supervisors",
+            "weight": "0"
+        }
+    ],
+    "related": []
+}

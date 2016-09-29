@@ -1,0 +1,64 @@
+{
+    "course": "SWSP7155",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Keep a Work Diary",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Appropriate Agency Records of Work Done",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Write initial practice framework",
+            "weight": "Pass/ Fail"
+        },
+        {
+            "task": "Professional Practice Plan",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Formal Assessment or Analysis Report",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Demonstrate minimum of 3 Skills relevant to agency",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Statement of Learning",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Complete Mid point and Final Evaluation",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Learning Curriculum",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Process Records,Reflection Sheets and/or Analysis ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Process Records,Reflection Sheets and/or Analysis ",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

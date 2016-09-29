@@ -1,0 +1,48 @@
+{
+    "course": "ENGG7701",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Critical summary/analysis, explanatory report",
+            "weight": "3"
+        },
+        {
+            "task": "Participation in guest lectures & debates",
+            "weight": "5"
+        },
+        {
+            "task": "International case study (ICS)",
+            "weight": "30"
+        },
+        {
+            "task": "Peer Review of International case study",
+            "weight": "0"
+        },
+        {
+            "task": "Position Paper for topic (X+1) by group X",
+            "weight": "5"
+        },
+        {
+            "task": "Local case study (LCS)",
+            "weight": "30"
+        },
+        {
+            "task": "Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

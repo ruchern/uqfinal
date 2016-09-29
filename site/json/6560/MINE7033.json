@@ -1,0 +1,40 @@
+{
+    "course": "MINE7033",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation and Learning Journal",
+            "weight": "10"
+        },
+        {
+            "task": "Multiple Choice Quiz",
+            "weight": "20"
+        },
+        {
+            "task": "Risk Management Analysis Case Study",
+            "weight": "20"
+        },
+        {
+            "task": "Design a Risk Assessment",
+            "weight": "20"
+        },
+        {
+            "task": "Critical Risk Analysis",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

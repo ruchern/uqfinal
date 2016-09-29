@@ -1,0 +1,44 @@
+{
+    "course": "SPCH7801",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Requirements for Clinical Placements",
+            "weight": "MUST PASS Pass/Fail"
+        },
+        {
+            "task": "Tutorial Participation and Tasks",
+            "weight": "15"
+        },
+        {
+            "task": "Standardised Patient Clinical assessment",
+            "weight": "MUST PASS Pass/Fail"
+        },
+        {
+            "task": "Communication across the lifespan",
+            "weight": "30"
+        },
+        {
+            "task": "Clinic Functioning and Disorder",
+            "weight": "15"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

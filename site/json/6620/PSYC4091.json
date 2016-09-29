@@ -1,0 +1,40 @@
+{
+    "course": "PSYC4091",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance and involvement in class activities",
+            "weight": "Program requirement"
+        },
+        {
+            "task": "Thesis sections submitted",
+            "weight": "Program requirement"
+        },
+        {
+            "task": "Brief Student Presentation",
+            "weight": "Program requirement"
+        },
+        {
+            "task": "My Research",
+            "weight": "Program requirement"
+        },
+        {
+            "task": "Group supervised thesis",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

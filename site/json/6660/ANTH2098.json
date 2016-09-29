@@ -1,0 +1,40 @@
+{
+    "course": "ANTH2098",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Museum politics in heritage management",
+            "weight": "10"
+        },
+        {
+            "task": "Cultural change and continuity in southeast QLD",
+            "weight": "10"
+        },
+        {
+            "task": "Written review",
+            "weight": "20"
+        },
+        {
+            "task": "group presentations and participation",
+            "weight": "10"
+        },
+        {
+            "task": "Burleigh Headland Cultural Heritage Report",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

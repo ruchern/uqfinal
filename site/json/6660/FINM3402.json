@@ -1,0 +1,32 @@
+{
+    "course": "FINM3402",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-semester exam",
+            "weight": "20"
+        },
+        {
+            "task": "Research Report",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "65"
+        }
+    ],
+    "related": []
+}

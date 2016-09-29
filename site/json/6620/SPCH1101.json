@@ -1,0 +1,40 @@
+{
+    "course": "SPCH1101",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Requirements for Clinical Placements",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Fieldwork, Tutorial Tasks & Audiology Report",
+            "weight": "20"
+        },
+        {
+            "task": "Play Case Report",
+            "weight": "30"
+        },
+        {
+            "task": "Oral - Clinic Functioning & Predominant Disorder",
+            "weight": "20"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

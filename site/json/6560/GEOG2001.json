@@ -1,0 +1,36 @@
+{
+    "course": "GEOG2001",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical Workbook",
+            "weight": "20"
+        },
+        {
+            "task": "Alternative assessment to Noosa fieldwork project",
+            "weight": "40"
+        },
+        {
+            "task": "Noosa Project",
+            "weight": "40"
+        },
+        {
+            "task": "exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

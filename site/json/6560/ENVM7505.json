@@ -1,0 +1,36 @@
+{
+    "course": "ENVM7505",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Presentation of a group exercise max 5 slides",
+            "weight": "10"
+        },
+        {
+            "task": "Analysis of the Aichi Targets",
+            "weight": "20"
+        },
+        {
+            "task": "Conservation NGO briefing for government",
+            "weight": "20"
+        },
+        {
+            "task": "Closed book examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

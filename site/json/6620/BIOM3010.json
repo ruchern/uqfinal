@@ -1,0 +1,40 @@
+{
+    "course": "BIOM3010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "ECG",
+            "weight": "5"
+        },
+        {
+            "task": "Heart Sounds and Blood Pressure",
+            "weight": "5"
+        },
+        {
+            "task": "Diuresis",
+            "weight": "5"
+        },
+        {
+            "task": "Mid semester exam",
+            "weight": "25"
+        },
+        {
+            "task": "End Semester Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

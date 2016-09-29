@@ -1,0 +1,36 @@
+{
+    "course": "MEDI7122",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Professional Behaviour Assessment",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Procedural Skills Workshops",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Clinical Coaching Summative Assessments x 3",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "DVD Simulated Patient Recording and Review Session",
+            "weight": "Pass / Fail"
+        }
+    ],
+    "related": []
+}

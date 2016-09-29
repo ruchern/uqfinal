@@ -1,0 +1,44 @@
+{
+    "course": "KORN3201",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance and participation",
+            "weight": "5"
+        },
+        {
+            "task": "Vocabulary Quiz Week 4 & 10",
+            "weight": "10"
+        },
+        {
+            "task": "Mock Job Interview ",
+            "weight": "10"
+        },
+        {
+            "task": "Written exam:week 7",
+            "weight": "25"
+        },
+        {
+            "task": "Essay writing ",
+            "weight": "10"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

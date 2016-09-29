@@ -1,0 +1,32 @@
+{
+    "course": "TOUR7032",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Market Research Report ",
+            "weight": "30"
+        },
+        {
+            "task": "Sales Campaign",
+            "weight": "30"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

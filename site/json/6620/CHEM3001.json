@@ -1,0 +1,32 @@
+{
+    "course": "CHEM3001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Synthesis and mechanism in Organic Chemistry",
+            "weight": "36"
+        },
+        {
+            "task": "Mid-Semester Exam",
+            "weight": "16"
+        },
+        {
+            "task": "Synthesis and mechanism in Organic Chemistry",
+            "weight": "48"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "ENGG7508",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Interim group presentation 1",
+            "weight": "0"
+        },
+        {
+            "task": "Interim group presentation 2",
+            "weight": "0"
+        },
+        {
+            "task": "Initial report on the Field Development Plan",
+            "weight": "0"
+        },
+        {
+            "task": "Final FDP presentation",
+            "weight": "30"
+        },
+        {
+            "task": "Final written report on the Field Development Plan",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

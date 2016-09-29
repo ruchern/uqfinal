@@ -1,0 +1,28 @@
+{
+    "course": "BIOC6014",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Meetings with supervisor",
+            "weight": "25"
+        },
+        {
+            "task": "Review current literature in molecular biology",
+            "weight": "75"
+        }
+    ],
+    "related": []
+}

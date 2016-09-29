@@ -1,0 +1,40 @@
+{
+    "course": "CONS7029",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assessment 1a: The human context of conservation",
+            "weight": "15"
+        },
+        {
+            "task": "Assessment 1b: The human context of conservation",
+            "weight": "15"
+        },
+        {
+            "task": "Assessment 2a: Spoken exam ",
+            "weight": "20"
+        },
+        {
+            "task": "Assessment 2b: Ants, plants & mine rehabilitation",
+            "weight": "30"
+        },
+        {
+            "task": "Assessment 3: Marine mammal status review",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

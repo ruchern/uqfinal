@@ -1,0 +1,32 @@
+{
+    "course": "IMED7010",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Discussion board contribution",
+            "weight": "10"
+        },
+        {
+            "task": "Assignments",
+            "weight": "40"
+        },
+        {
+            "task": "End of Semester Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

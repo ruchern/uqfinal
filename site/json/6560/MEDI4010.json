@@ -1,0 +1,56 @@
+{
+    "course": "MEDI4010",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Clinical Participation Assessment - Obstetrics",
+            "weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+        },
+        {
+            "task": "Documented Vaginal Deliveries",
+            "weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+        },
+        {
+            "task": "MCQ Examination in Gynaecology",
+            "weight": "17"
+        },
+        {
+            "task": "Log - Obstetrics Cases + Clinical Compentencies",
+            "weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+        },
+        {
+            "task": "OSCE in Gynaecology",
+            "weight": "33"
+        },
+        {
+            "task": "Clinical Participation Assessment &#150; Gynaecology",
+            "weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+        },
+        {
+            "task": "MCQ Examination in Obstetrics",
+            "weight": "17"
+        },
+        {
+            "task": "OSCE in Obstetrics",
+            "weight": "33"
+        },
+        {
+            "task": "Log - Gynaecology Cases + Clinical Compentencies",
+            "weight": "PASS/FAIL. Students must pass this regardless of marks in other assessments. "
+        }
+    ],
+    "related": []
+}

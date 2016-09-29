@@ -1,0 +1,36 @@
+{
+    "course": "CIVL4280",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical 1 - Laboratory testing of rocks: Part 1",
+            "weight": "10"
+        },
+        {
+            "task": "Practical 2 - Laboratory testing of rocks: Part 2",
+            "weight": "10"
+        },
+        {
+            "task": "IT Computing - Numerical Modelling",
+            "weight": "20"
+        },
+        {
+            "task": "End-of-Semester Examination",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

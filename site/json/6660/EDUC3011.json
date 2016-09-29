@@ -1,0 +1,36 @@
+{
+    "course": "EDUC3011",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation ",
+            "weight": "10"
+        },
+        {
+            "task": "Part A: Digital Curation",
+            "weight": "25"
+        },
+        {
+            "task": "Part B: Pinterest Presentation",
+            "weight": "10"
+        },
+        {
+            "task": "Part C: Digital Story or Traditional Essay",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

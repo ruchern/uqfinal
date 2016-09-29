@@ -1,0 +1,36 @@
+{
+    "course": "POLS7258",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Seminar Participation and Preparation",
+            "weight": "20"
+        },
+        {
+            "task": "Short Essay",
+            "weight": "15"
+        },
+        {
+            "task": "Research Essay Plan/Proposal",
+            "weight": "15"
+        },
+        {
+            "task": "Research Essay",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

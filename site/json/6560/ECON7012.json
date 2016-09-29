@@ -1,0 +1,36 @@
+{
+    "course": "ECON7012",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Case Analysis",
+            "weight": "15"
+        },
+        {
+            "task": "Individual Newspaper Article Review 1",
+            "weight": "20"
+        },
+        {
+            "task": "Individual Newspaper Article Review 2",
+            "weight": "20"
+        },
+        {
+            "task": "Individual Essay",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

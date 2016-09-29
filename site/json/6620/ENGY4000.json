@@ -1,0 +1,44 @@
+{
+    "course": "ENGY4000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mentor Meetings",
+            "weight": "used to moderate project mark"
+        },
+        {
+            "task": "Tutorial",
+            "weight": "20"
+        },
+        {
+            "task": "Scoping Report",
+            "weight": "10"
+        },
+        {
+            "task": "Final Project Report",
+            "weight": "30"
+        },
+        {
+            "task": "Group Presentation",
+            "weight": "10"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

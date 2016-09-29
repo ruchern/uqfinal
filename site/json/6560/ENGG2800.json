@@ -1,0 +1,60 @@
+{
+    "course": "ENGG2800",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assessment of Individual Performance",
+            "weight": "Incorporated into product mark"
+        },
+        {
+            "task": "Working circuit element on PCB",
+            "weight": "5"
+        },
+        {
+            "task": "Risk Assessments to be read and consented to.",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Initial Group Plan",
+            "weight": "5"
+        },
+        {
+            "task": "Performance Review Meeting I",
+            "weight": "5"
+        },
+        {
+            "task": "Progress Seminar 1",
+            "weight": "5"
+        },
+        {
+            "task": "Performance Review Meeting 2",
+            "weight": "0"
+        },
+        {
+            "task": "Progress Seminar 2",
+            "weight": "10"
+        },
+        {
+            "task": "Product",
+            "weight": "65"
+        },
+        {
+            "task": "Final Report and Reflection",
+            "weight": "5"
+        }
+    ],
+    "related": []
+}

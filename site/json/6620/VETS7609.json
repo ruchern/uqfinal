@@ -1,0 +1,36 @@
+{
+    "course": "VETS7609",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "End of semester examination",
+            "weight": "40"
+        },
+        {
+            "task": "Mid-semester written exam",
+            "weight": "20"
+        },
+        {
+            "task": "Case based presentation",
+            "weight": "20"
+        },
+        {
+            "task": "Gross images exam",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

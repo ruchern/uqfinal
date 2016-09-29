@@ -1,0 +1,32 @@
+{
+    "course": "LTCS2021",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "participation in class discussion",
+            "weight": "10"
+        },
+        {
+            "task": "Explication/commentary (1500-2000 words)",
+            "weight": "45"
+        },
+        {
+            "task": "Major assignment (2500-3000 words)",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

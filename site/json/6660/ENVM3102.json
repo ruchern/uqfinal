@@ -1,0 +1,40 @@
+{
+    "course": "ENVM3102",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assessment 1: Placement Project Brief",
+            "weight": "10"
+        },
+        {
+            "task": "Placement Supervisor's Report 1",
+            "weight": "5"
+        },
+        {
+            "task": "Assessment 2: Placement Project Poster",
+            "weight": "20"
+        },
+        {
+            "task": "Placement Supervisor's Report 2",
+            "weight": "5"
+        },
+        {
+            "task": "Assessment 3: Placement Project Report",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "PHYS3040",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quantum Physics",
+            "weight": "20"
+        },
+        {
+            "task": "Quantum Physics",
+            "weight": "25"
+        },
+        {
+            "task": "Mid-Semester test",
+            "weight": "15"
+        },
+        {
+            "task": "Quantum Physics",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

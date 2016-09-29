@@ -1,0 +1,36 @@
+{
+    "course": "BIOL2630",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorials/Pracs/Blackboard quizzes",
+            "weight": "25"
+        },
+        {
+            "task": "In class quizzes",
+            "weight": "15"
+        },
+        {
+            "task": "Video Analysis & Presentation ",
+            "weight": "20"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

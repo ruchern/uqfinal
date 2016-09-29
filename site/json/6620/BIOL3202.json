@@ -1,0 +1,44 @@
+{
+    "course": "BIOL3202",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "5 small reports/quizzes (2% each)",
+            "weight": "10"
+        },
+        {
+            "task": "Module 1 Report: Photosynthesis",
+            "weight": "10"
+        },
+        {
+            "task": "Module 2 Report: Plant Growth",
+            "weight": "10"
+        },
+        {
+            "task": "Science Communication",
+            "weight": "10"
+        },
+        {
+            "task": "Module 3 Report: Genomics and Bioinformatics",
+            "weight": "10"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

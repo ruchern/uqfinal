@@ -1,0 +1,48 @@
+{
+    "course": "MATH7331",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1",
+            "weight": "7"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "7"
+        },
+        {
+            "task": "Mid-Semester Examination",
+            "weight": "30"
+        },
+        {
+            "task": "Assignment 3",
+            "weight": "7"
+        },
+        {
+            "task": "Exploring Applications of Graph Theory",
+            "weight": "12"
+        },
+        {
+            "task": "Assignment 4",
+            "weight": "7"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

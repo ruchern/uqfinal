@@ -1,0 +1,36 @@
+{
+    "course": "GEND2001",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "PEARL reflective summaries",
+            "weight": "30"
+        },
+        {
+            "task": "Critical summary of readings",
+            "weight": "25"
+        },
+        {
+            "task": "Short answer questions",
+            "weight": "10"
+        },
+        {
+            "task": "Reflective research essay",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

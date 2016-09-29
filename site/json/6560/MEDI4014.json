@@ -1,0 +1,40 @@
+{
+    "course": "MEDI4014",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Multiple Choice Exam: Paper A",
+            "weight": "Equal"
+        },
+        {
+            "task": "Multiple Choice Exam: Paper B",
+            "weight": "Equal"
+        },
+        {
+            "task": "Clinical Participation Assessment: Specialty 2",
+            "weight": "PASS/FAIL. To pass the course, students must pass this regardless of the marks in other assessments."
+        },
+        {
+            "task": "Clinical Participation Assessment: Specialty 1",
+            "weight": "PASS/FAIL. To pass the course, students must pass this regardless of marks in other assessments."
+        },
+        {
+            "task": "Institute for Healthcare Improvement Certificate",
+            "weight": "PASS/FAIL. To Pass this course, students must pas this regardless of marks in other assessments."
+        }
+    ],
+    "related": []
+}

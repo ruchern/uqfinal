@@ -1,0 +1,52 @@
+{
+    "course": "ECON1310",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Midsemester Exam",
+            "weight": "25"
+        },
+        {
+            "task": "1. Descriptive Statistics",
+            "weight": "4"
+        },
+        {
+            "task": "2. Probability",
+            "weight": "4"
+        },
+        {
+            "task": "3. Normal and Sampling Distributions",
+            "weight": "4"
+        },
+        {
+            "task": "4. Confidence Intervals",
+            "weight": "4"
+        },
+        {
+            "task": "5. Hypothesis Testing",
+            "weight": "4"
+        },
+        {
+            "task": "6. Simple Linear Regression",
+            "weight": "4"
+        },
+        {
+            "task": "Final exam. TBA.",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "PHTY7106",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Problem Solving Techniques Exam",
+            "weight": "10"
+        },
+        {
+            "task": "Problem Based Learning",
+            "weight": "40"
+        },
+        {
+            "task": "Professional participation and contribution ",
+            "weight": "Pass/Fail "
+        },
+        {
+            "task": "Progressive Clinical Assessment",
+            "weight": "30"
+        },
+        {
+            "task": "Follow Up Treatments",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

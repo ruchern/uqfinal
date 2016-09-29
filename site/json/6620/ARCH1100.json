@@ -1,0 +1,28 @@
+{
+    "course": "ARCH1100",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Project 1 - Room ",
+            "weight": "40"
+        },
+        {
+            "task": "Project 2 - 6 Follies",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

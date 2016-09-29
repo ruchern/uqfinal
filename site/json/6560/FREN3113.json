@@ -1,0 +1,44 @@
+{
+    "course": "FREN3113",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Video recording about the Algerian War",
+            "weight": "10"
+        },
+        {
+            "task": "Weeks 8-13",
+            "weight": "10"
+        },
+        {
+            "task": "Group Oral ",
+            "weight": "20"
+        },
+        {
+            "task": "Group Presentation - 31, rue de la R&#233;publique",
+            "weight": "15"
+        },
+        {
+            "task": "Academic essay",
+            "weight": "15"
+        },
+        {
+            "task": "Academic Essay",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,48 @@
+{
+    "course": "EXMD7315",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Professionalism",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Minimum 140hrs Practicum in an approved setting",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Self Assessment",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Professional Self Reflection + Critical Friend",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Interim and Final Supervisors Assessments",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "ESSA Documentation",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Placement Case Study",
+            "weight": "PASS/FAIL"
+        }
+    ],
+    "related": []
+}

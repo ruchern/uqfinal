@@ -1,0 +1,36 @@
+{
+    "course": "CONS7008",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Critical essay #1",
+            "weight": "30"
+        },
+        {
+            "task": "Individual assessment questions for practicals",
+            "weight": "20"
+        },
+        {
+            "task": "Critical essay #2",
+            "weight": "30"
+        },
+        {
+            "task": "Individual assessment questions for practicals",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

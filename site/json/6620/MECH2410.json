@@ -1,0 +1,44 @@
+{
+    "course": "MECH2410",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quiz 3",
+            "weight": "9"
+        },
+        {
+            "task": "Bonus Mark",
+            "weight": "0"
+        },
+        {
+            "task": "Quiz 1",
+            "weight": "9"
+        },
+        {
+            "task": "Quiz 2",
+            "weight": "9"
+        },
+        {
+            "task": "Ducted Fan Prac.",
+            "weight": "13"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

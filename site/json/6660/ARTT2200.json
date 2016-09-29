@@ -1,0 +1,36 @@
+{
+    "course": "ARTT2200",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Image Annotation Exercise",
+            "weight": "20"
+        },
+        {
+            "task": "Field Trip participation",
+            "weight": "0"
+        },
+        {
+            "task": "Reflective Journal for Field Trip",
+            "weight": "40"
+        },
+        {
+            "task": "Research Essay",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

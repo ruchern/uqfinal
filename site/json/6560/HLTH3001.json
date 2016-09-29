@@ -1,0 +1,40 @@
+{
+    "course": "HLTH3001",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reflective Journal",
+            "weight": "3 journals must be submitted to pass"
+        },
+        {
+            "task": "Seminar Participation",
+            "weight": "Attendance is compulsory to pass the course"
+        },
+        {
+            "task": "My CV and Employment searching",
+            "weight": "Must be submitted to pass"
+        },
+        {
+            "task": "My Work Placement (Poster)",
+            "weight": "A PASS grade must be achieved"
+        },
+        {
+            "task": "Work Placement",
+            "weight": "PASS - verified by placement supervisor"
+        }
+    ],
+    "related": []
+}

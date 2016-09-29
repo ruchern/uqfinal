@@ -1,0 +1,36 @@
+{
+    "course": "FREN3116",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Preparation & participation in oral discussions",
+            "weight": "10"
+        },
+        {
+            "task": "Participation on Internet news websites",
+            "weight": "20"
+        },
+        {
+            "task": "Oral discussion",
+            "weight": "30"
+        },
+        {
+            "task": "Written exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

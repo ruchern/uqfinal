@@ -1,0 +1,52 @@
+{
+    "course": "BIOT8010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Portfolio option A part 1",
+            "weight": "30"
+        },
+        {
+            "task": "Portfolio option A part 2",
+            "weight": "30"
+        },
+        {
+            "task": "Portfolio option A part 3",
+            "weight": "20"
+        },
+        {
+            "task": "Portfolio option B part 1",
+            "weight": "30"
+        },
+        {
+            "task": "Portfolio option B part 2",
+            "weight": "30"
+        },
+        {
+            "task": "Portfolio option B part 3",
+            "weight": "20"
+        },
+        {
+            "task": "Oral presentation of poster",
+            "weight": "10"
+        },
+        {
+            "task": "Poster preparation",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

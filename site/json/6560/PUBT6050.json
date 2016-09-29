@@ -1,0 +1,28 @@
+{
+    "course": "PUBT6050",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Written Assignment",
+            "weight": "70"
+        },
+        {
+            "task": "Multiple Choice Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

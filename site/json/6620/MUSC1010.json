@@ -1,0 +1,36 @@
+{
+    "course": "MUSC1010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation, Knowledge and Attendance ",
+            "weight": "15"
+        },
+        {
+            "task": "Creative Production Projects",
+            "weight": "50"
+        },
+        {
+            "task": "Online Quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Major Creative Production Project Presentations",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

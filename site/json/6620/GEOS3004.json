@@ -1,0 +1,44 @@
+{
+    "course": "GEOS3004",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Personal Profile Page",
+            "weight": "0"
+        },
+        {
+            "task": "Reading Reflection #1",
+            "weight": "10"
+        },
+        {
+            "task": "Reading Reflection #2",
+            "weight": "10"
+        },
+        {
+            "task": "Consultancy Assignment",
+            "weight": "20"
+        },
+        {
+            "task": "Course Field Booklet",
+            "weight": "30"
+        },
+        {
+            "task": "Group presentation",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

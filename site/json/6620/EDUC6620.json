@@ -1,0 +1,36 @@
+{
+    "course": "EDUC6620",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Comparative review: Constructions of disability",
+            "weight": "20"
+        },
+        {
+            "task": "The significance of voice and collaboration",
+            "weight": "25"
+        },
+        {
+            "task": "Teaching cases of inclusive practices",
+            "weight": "40"
+        },
+        {
+            "task": "Attendance and participation",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

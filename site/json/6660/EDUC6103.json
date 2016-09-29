@@ -1,0 +1,32 @@
+{
+    "course": "EDUC6103",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation in action learning",
+            "weight": "Pass"
+        },
+        {
+            "task": "Evaluation plan for educational innovation",
+            "weight": "Pass 1200-1500words"
+        },
+        {
+            "task": "Action learning report",
+            "weight": "Pass 150+5000words"
+        }
+    ],
+    "related": []
+}

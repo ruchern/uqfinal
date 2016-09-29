@@ -1,0 +1,44 @@
+{
+    "course": "MINE4200",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quizzes on readings and lecture materials",
+            "weight": "Pass/fail"
+        },
+        {
+            "task": "Assignment 1 - Risk analysis",
+            "weight": "15"
+        },
+        {
+            "task": "Assignment 2: Incident investigation",
+            "weight": "20"
+        },
+        {
+            "task": "Assignment 3: Assessing a big risk challenge",
+            "weight": "20"
+        },
+        {
+            "task": "Oral review of performance",
+            "weight": "15"
+        },
+        {
+            "task": "Final exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

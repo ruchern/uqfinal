@@ -1,0 +1,36 @@
+{
+    "course": "BIOC6006",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quiz 1 on modules 1 & 2.",
+            "weight": "25"
+        },
+        {
+            "task": "Bioinformatics assignment",
+            "weight": "15"
+        },
+        {
+            "task": "Quiz 2 on modules 3, 4, & 5.",
+            "weight": "35"
+        },
+        {
+            "task": "Literature Assignment",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

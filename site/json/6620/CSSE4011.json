@@ -1,0 +1,40 @@
+{
+    "course": "CSSE4011",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly Laboratory Performance",
+            "weight": "40"
+        },
+        {
+            "task": "Project Milestone",
+            "weight": "10"
+        },
+        {
+            "task": "Final Project Demonstration (Group)",
+            "weight": "15"
+        },
+        {
+            "task": "Final Project Presentation (Individual)",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

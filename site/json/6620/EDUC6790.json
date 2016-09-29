@@ -1,0 +1,36 @@
+{
+    "course": "EDUC6790",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Economics as a discipline",
+            "weight": "25"
+        },
+        {
+            "task": "Unit Development",
+            "weight": "40"
+        },
+        {
+            "task": "Practical Excercise",
+            "weight": "20"
+        },
+        {
+            "task": "Participation and micro teaching",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

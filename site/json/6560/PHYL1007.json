@@ -1,0 +1,48 @@
+{
+    "course": "PHYL1007",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online group quiz 1",
+            "weight": "6"
+        },
+        {
+            "task": "Online group quiz 2",
+            "weight": "6"
+        },
+        {
+            "task": "Online group quiz 3",
+            "weight": "6"
+        },
+        {
+            "task": "Meta-Learning 1",
+            "weight": "6"
+        },
+        {
+            "task": "Meta-Learning 2",
+            "weight": "6"
+        },
+        {
+            "task": "Practical Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Theory exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

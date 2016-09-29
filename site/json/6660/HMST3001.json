@@ -1,0 +1,40 @@
+{
+    "course": "HMST3001",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Professionalism",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Student Self-Assessment",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Interim & Final Supervisors Assessment",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Student Presentations and Discussion ",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Summary, log book & Reference Form",
+            "weight": "PASS/FAIL"
+        }
+    ],
+    "related": []
+}

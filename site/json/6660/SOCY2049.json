@@ -1,0 +1,40 @@
+{
+    "course": "SOCY2049",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Presentation ",
+            "weight": "10"
+        },
+        {
+            "task": "Mid-semester online quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Ethnography literature review & fieldwork plan",
+            "weight": "20"
+        },
+        {
+            "task": "Understanding Sport Communities Ethnography Paper",
+            "weight": "40"
+        },
+        {
+            "task": "End of semester examination - online",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

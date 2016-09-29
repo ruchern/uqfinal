@@ -1,0 +1,40 @@
+{
+    "course": "ENVM2101",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "In-class Participation and Exercises",
+            "weight": "10"
+        },
+        {
+            "task": "In-class Exercises",
+            "weight": "10"
+        },
+        {
+            "task": "Group Report on Attended Sustainability Week ",
+            "weight": "15"
+        },
+        {
+            "task": "Product life cycle thinking",
+            "weight": "25"
+        },
+        {
+            "task": "End of semester examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

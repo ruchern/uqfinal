@@ -1,0 +1,36 @@
+{
+    "course": "RELN2117",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Short Paper",
+            "weight": "25"
+        },
+        {
+            "task": "Research Proposal - Sociology of Religion",
+            "weight": "25"
+        },
+        {
+            "task": "Long Paper",
+            "weight": "40"
+        },
+        {
+            "task": "Weekly Journal Entries",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

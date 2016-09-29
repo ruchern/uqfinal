@@ -1,0 +1,44 @@
+{
+    "course": "MATH3302",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Coding assignment 1",
+            "weight": "7"
+        },
+        {
+            "task": "Coding assignment 2",
+            "weight": "7"
+        },
+        {
+            "task": "Coding exam",
+            "weight": "36"
+        },
+        {
+            "task": "Cryptography Assignment 1",
+            "weight": "7"
+        },
+        {
+            "task": "Cryptography Assignment 2",
+            "weight": "7"
+        },
+        {
+            "task": "Cryptography exam",
+            "weight": "36"
+        }
+    ],
+    "related": []
+}

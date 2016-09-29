@@ -1,0 +1,40 @@
+{
+    "course": "CHEE1001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory Component (Microbiology)",
+            "weight": "7.5"
+        },
+        {
+            "task": "Laboratory Component (Biochemistry)",
+            "weight": "7.5"
+        },
+        {
+            "task": "Mid-Semester Exam ",
+            "weight": "20"
+        },
+        {
+            "task": "Library Assignment",
+            "weight": "15"
+        },
+        {
+            "task": "Final exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

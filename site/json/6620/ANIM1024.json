@@ -1,0 +1,36 @@
+{
+    "course": "ANIM1024",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Husbandry management of a chosen species",
+            "weight": "20"
+        },
+        {
+            "task": "Mid semester Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Online 4-D Farm Evaluation",
+            "weight": "5"
+        },
+        {
+            "task": "Final exam - 2 hour",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

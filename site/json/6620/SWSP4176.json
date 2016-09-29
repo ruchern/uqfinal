@@ -1,0 +1,36 @@
+{
+    "course": "SWSP4176",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Topic Lit-Rev",
+            "weight": "30"
+        },
+        {
+            "task": "Pyromania, Arson, Young People",
+            "weight": "30"
+        },
+        {
+            "task": "Discussion, Reading, Thinking",
+            "weight": "10"
+        },
+        {
+            "task": "Group Presentations",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

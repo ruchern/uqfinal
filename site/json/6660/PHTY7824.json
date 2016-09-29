@@ -1,0 +1,40 @@
+{
+    "course": "PHTY7824",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "People handling competency practical exam ",
+            "weight": "25"
+        },
+        {
+            "task": "Health Promotion activity",
+            "weight": "15"
+        },
+        {
+            "task": "Lifetec worksheet",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Ergonomics assignment ",
+            "weight": "30"
+        },
+        {
+            "task": "Multiple Choice Theory Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "RBUS6931",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Paper Critique",
+            "weight": "15"
+        },
+        {
+            "task": "2800-3200 words",
+            "weight": "25"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "35"
+        },
+        {
+            "task": "Workshop Critiques (Semester 2)",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

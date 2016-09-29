@@ -1,0 +1,36 @@
+{
+    "course": "ECHO7002",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Image Acquisition and Interpretation",
+            "weight": "Hurdle"
+        },
+        {
+            "task": "Image Acquisition and Interpretation",
+            "weight": "Hurdle"
+        },
+        {
+            "task": "Image Acquisition and Interpretation",
+            "weight": "30"
+        },
+        {
+            "task": "ECHO 7002 - Final Examination",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "MEDI3006",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Diagnostic Clinical Case Examination",
+            "weight": "Equal"
+        },
+        {
+            "task": "Multiple Choice Question (MCQ) Exam",
+            "weight": "Equal"
+        },
+        {
+            "task": "Management Clinical Case Examination",
+            "weight": "Equal"
+        },
+        {
+            "task": "Clinical Participation Assessment (CPA)",
+            "weight": "PASS/FAIL (To pass the course, students must pass the summative CPA)"
+        },
+        {
+            "task": "Honours Assessment Task 1 - Oral Presentation 1",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

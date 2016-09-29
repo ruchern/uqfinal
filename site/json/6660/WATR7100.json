@@ -1,0 +1,36 @@
+{
+    "course": "WATR7100",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Gladstone Region Monitoring Stakeholder Analysis",
+            "weight": "15"
+        },
+        {
+            "task": "Development of an aquatic ecosystem health monitor",
+            "weight": "35"
+        },
+        {
+            "task": "Individual PBL 3 - Gladstone",
+            "weight": "25"
+        },
+        {
+            "task": "Final Individual PBL",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

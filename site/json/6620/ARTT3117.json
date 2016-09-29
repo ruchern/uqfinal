@@ -1,0 +1,32 @@
+{
+    "course": "ARTT3117",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Seminar discussion participation ",
+            "weight": "15"
+        },
+        {
+            "task": "Exhibition Proposal",
+            "weight": "40"
+        },
+        {
+            "task": "Exhibition Catalogue Essay",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

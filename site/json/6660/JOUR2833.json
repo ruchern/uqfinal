@@ -1,0 +1,36 @@
+{
+    "course": "JOUR2833",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "News Quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Slide Show for the World Wide Web",
+            "weight": "30"
+        },
+        {
+            "task": "Visual News Package and Edited Script",
+            "weight": "30"
+        },
+        {
+            "task": "Compilation Reel",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

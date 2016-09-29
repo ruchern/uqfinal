@@ -1,0 +1,36 @@
+{
+    "course": "COMS7400",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory Reports ",
+            "weight": "24"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Simulation Assignment ",
+            "weight": "16"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

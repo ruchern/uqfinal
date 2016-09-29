@@ -1,0 +1,32 @@
+{
+    "course": "PHRM8010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Written Assessment for Placement #1",
+            "weight": "35"
+        },
+        {
+            "task": "Written Assessment for Placement #2",
+            "weight": "35"
+        },
+        {
+            "task": "Evidence-Practice Gap Assignment",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

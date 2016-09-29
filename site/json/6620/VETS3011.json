@@ -1,0 +1,52 @@
+{
+    "course": "VETS3011",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Critical Assessment of the Veterinary Literature",
+            "weight": "1"
+        },
+        {
+            "task": "Mid-semester 1 exam",
+            "weight": "15"
+        },
+        {
+            "task": "End of semester 1 Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Clinical signs and diagnostics group presentation",
+            "weight": "4"
+        },
+        {
+            "task": "Mid semester 2 Exam",
+            "weight": "20"
+        },
+        {
+            "task": "End of semester 2 exam",
+            "weight": "20"
+        },
+        {
+            "task": "VETS3011 Integration viva voce (oral) examination",
+            "weight": "20"
+        },
+        {
+            "task": "Practical skills examination",
+            "weight": "pass/fail"
+        }
+    ],
+    "related": []
+}

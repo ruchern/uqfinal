@@ -1,0 +1,44 @@
+{
+    "course": "COSC3000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Presentation - Scientific Visualisation",
+            "weight": "15"
+        },
+        {
+            "task": "Presentation - Computer Graphics",
+            "weight": "15"
+        },
+        {
+            "task": "Project Proposal - Scientific Visualisation",
+            "weight": "Pass required for project grade above 1"
+        },
+        {
+            "task": "Project - Scientific Visualisation",
+            "weight": "35"
+        },
+        {
+            "task": "Project Proposal - Computer Graphics",
+            "weight": "Pass required for project grade above 1"
+        },
+        {
+            "task": "Project - Computer Graphics",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

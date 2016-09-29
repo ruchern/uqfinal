@@ -1,0 +1,40 @@
+{
+    "course": "DECO1400",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Discussion Exercises",
+            "weight": "20"
+        },
+        {
+            "task": "HTML/CSS Practical Exam",
+            "weight": "15"
+        },
+        {
+            "task": "JavaScript Practical Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Website design & implementation",
+            "weight": "25"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

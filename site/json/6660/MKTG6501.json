@@ -1,0 +1,32 @@
+{
+    "course": "MKTG6501",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Seminar Leadership",
+            "weight": "25"
+        },
+        {
+            "task": "Critique of an Academic Research Article",
+            "weight": "25"
+        },
+        {
+            "task": "Research Paper",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

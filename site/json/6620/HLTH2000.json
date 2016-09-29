@@ -1,0 +1,36 @@
+{
+    "course": "HLTH2000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Blackboard Discussion Forum",
+            "weight": "6"
+        },
+        {
+            "task": "Module one assignment: MCQs",
+            "weight": "30"
+        },
+        {
+            "task": "Infographics",
+            "weight": "24"
+        },
+        {
+            "task": "Module three Assignment: Major Essay",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

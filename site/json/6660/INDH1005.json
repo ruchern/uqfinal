@@ -1,0 +1,40 @@
+{
+    "course": "INDH1005",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reading responses",
+            "weight": "10"
+        },
+        {
+            "task": "Indigenous health and the socio-cultural context",
+            "weight": "25"
+        },
+        {
+            "task": "Quiz 1",
+            "weight": "15"
+        },
+        {
+            "task": "Indigenous Health across the Lifecourse",
+            "weight": "35"
+        },
+        {
+            "task": "Quiz 2",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

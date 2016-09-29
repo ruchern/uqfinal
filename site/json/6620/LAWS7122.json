@@ -1,0 +1,32 @@
+{
+    "course": "LAWS7122",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Assignment (OPTIONAL OR EXAMINATION)",
+            "weight": "60"
+        },
+        {
+            "task": "Dismissal Hypothetical (MANDATORY)",
+            "weight": "40"
+        },
+        {
+            "task": "Final examination (OPTION OR RESEARCH ASSIGNMENT)",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

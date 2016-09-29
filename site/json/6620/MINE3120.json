@@ -1,0 +1,44 @@
+{
+    "course": "MINE3120",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Individual Assignment",
+            "weight": "20"
+        },
+        {
+            "task": "Quiz I",
+            "weight": "7"
+        },
+        {
+            "task": "Group Assignment",
+            "weight": "20"
+        },
+        {
+            "task": "Quiz II",
+            "weight": "6"
+        },
+        {
+            "task": "Quiz III",
+            "weight": "7"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

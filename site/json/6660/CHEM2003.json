@@ -1,0 +1,40 @@
+{
+    "course": "CHEM2003",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online eQuizzes",
+            "weight": "3"
+        },
+        {
+            "task": "7 Prac Sessions; 3 Reports; Laboratory Notebook",
+            "weight": "37"
+        },
+        {
+            "task": "Mid-Semester Examination",
+            "weight": "10"
+        },
+        {
+            "task": "Max 2,000 Word Assignment",
+            "weight": "10"
+        },
+        {
+            "task": "Final Examination ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

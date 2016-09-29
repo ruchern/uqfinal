@@ -1,0 +1,36 @@
+{
+    "course": "CHEM3016",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory Notebook (Weeks 1-12)",
+            "weight": "9"
+        },
+        {
+            "task": "Written Reports (Weeks 2-6)",
+            "weight": "36"
+        },
+        {
+            "task": "Full Project Report (Weeks 7-12)",
+            "weight": "45"
+        },
+        {
+            "task": "Prac Exam (Week 13)",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

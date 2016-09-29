@@ -1,0 +1,40 @@
+{
+    "course": "SPCG7018",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Formulation of topic",
+            "weight": "5"
+        },
+        {
+            "task": "Research proposal - methodological approach",
+            "weight": "20"
+        },
+        {
+            "task": "Completion of ethical clearance protocol",
+            "weight": "15"
+        },
+        {
+            "task": "Thesis report",
+            "weight": "55"
+        },
+        {
+            "task": "Thesis report - update",
+            "weight": "5"
+        }
+    ],
+    "related": []
+}

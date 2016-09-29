@@ -1,0 +1,52 @@
+{
+    "course": "MINE4201",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Prerequisite assessment on alumina processing",
+            "weight": "0"
+        },
+        {
+            "task": "Design Package No. 1",
+            "weight": "15"
+        },
+        {
+            "task": "Design Package No. 2",
+            "weight": "15"
+        },
+        {
+            "task": "Design Package No. 3",
+            "weight": "15"
+        },
+        {
+            "task": "Presentation of Proposed Design",
+            "weight": "5"
+        },
+        {
+            "task": "Professional Project Peer Review",
+            "weight": "5"
+        },
+        {
+            "task": "Final Design Report",
+            "weight": "35"
+        },
+        {
+            "task": "Oral Defence",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

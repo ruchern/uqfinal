@@ -1,0 +1,28 @@
+{
+    "course": "NUTR2101",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Multiple choice assessments",
+            "weight": "40"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

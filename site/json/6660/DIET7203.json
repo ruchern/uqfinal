@@ -1,0 +1,40 @@
+{
+    "course": "DIET7203",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment",
+            "weight": "20"
+        },
+        {
+            "task": "Participation in workshops",
+            "weight": "10"
+        },
+        {
+            "task": "In class quiz x 5",
+            "weight": "10"
+        },
+        {
+            "task": "Reflection - Entrepreneurial Opportunities",
+            "weight": "10"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

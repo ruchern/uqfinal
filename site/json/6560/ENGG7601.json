@@ -1,0 +1,40 @@
+{
+    "course": "ENGG7601",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "In Class Discussion",
+            "weight": "20"
+        },
+        {
+            "task": "Experiment Design Plan",
+            "weight": "5"
+        },
+        {
+            "task": "Project Presentation",
+            "weight": "5"
+        },
+        {
+            "task": "Experiment Design Report",
+            "weight": "20"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

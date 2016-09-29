@@ -1,0 +1,36 @@
+{
+    "course": "ADVT2511",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "In class exam",
+            "weight": "30"
+        },
+        {
+            "task": "Campaign plan presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Advertising and consumer culture project.",
+            "weight": "30"
+        },
+        {
+            "task": "Exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

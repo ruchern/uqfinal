@@ -1,0 +1,36 @@
+{
+    "course": "LTCS6000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance & participation",
+            "weight": "5"
+        },
+        {
+            "task": "Library research project",
+            "weight": "35"
+        },
+        {
+            "task": "Your research project",
+            "weight": "50"
+        },
+        {
+            "task": "Research seminar web-log ",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

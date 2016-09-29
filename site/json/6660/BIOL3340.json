@@ -1,0 +1,40 @@
+{
+    "course": "BIOL3340",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Fish lab reports",
+            "weight": "10"
+        },
+        {
+            "task": "Fisheries workshop write-up",
+            "weight": "5"
+        },
+        {
+            "task": "Consumer fish survey report",
+            "weight": "15"
+        },
+        {
+            "task": "Aquaculture laboratory reports",
+            "weight": "10"
+        },
+        {
+            "task": "EOS exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

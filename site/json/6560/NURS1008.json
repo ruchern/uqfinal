@@ -1,0 +1,40 @@
+{
+    "course": "NURS1008",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Medication Calculation Test",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Practice Assessment - Formative",
+            "weight": "NGP"
+        },
+        {
+            "task": "OSCA",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Practice Assessment - Summative",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Timesheet",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

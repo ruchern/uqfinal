@@ -1,0 +1,48 @@
+{
+    "course": "ARCS3040",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Lab practicals",
+            "weight": "10"
+        },
+        {
+            "task": "Geoarchaeology",
+            "weight": "13"
+        },
+        {
+            "task": "Zooarchaeology",
+            "weight": "13"
+        },
+        {
+            "task": "Macro/Microflora",
+            "weight": "13"
+        },
+        {
+            "task": "Isotope Lab",
+            "weight": "13"
+        },
+        {
+            "task": "Research Project",
+            "weight": "13"
+        },
+        {
+            "task": "Final exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

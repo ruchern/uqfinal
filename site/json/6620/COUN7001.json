@@ -1,0 +1,36 @@
+{
+    "course": "COUN7001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Submission of DVD One for Review (All Students) ",
+            "weight": "NGP"
+        },
+        {
+            "task": "The Art and Science of Counselling",
+            "weight": "40"
+        },
+        {
+            "task": "Submission of Second DVD and Commentary ",
+            "weight": "50"
+        },
+        {
+            "task": "Personal Exploration Journal",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

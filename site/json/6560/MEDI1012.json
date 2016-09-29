@@ -1,0 +1,36 @@
+{
+    "course": "MEDI1012",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Intra semester test",
+            "weight": "25"
+        },
+        {
+            "task": "Contribution to PBL",
+            "weight": "5"
+        },
+        {
+            "task": "Practical and image-based exam",
+            "weight": "25"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "GEOM1000",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online Quiz 1 (Lectures from weeks 1-6)",
+            "weight": "10"
+        },
+        {
+            "task": "Questions from Practicals 1-5",
+            "weight": "17.5"
+        },
+        {
+            "task": "Online Quiz 2 (lectures from weeks 7-11)",
+            "weight": "10"
+        },
+        {
+            "task": "Questions from Practicals 6-10",
+            "weight": "17.5"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

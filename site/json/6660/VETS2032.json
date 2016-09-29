@@ -1,0 +1,36 @@
+{
+    "course": "VETS2032",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Epidemiology assignment",
+            "weight": "20"
+        },
+        {
+            "task": "Practical skills competency checklist",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Practical class and tutorial worksheets",
+            "weight": "20"
+        },
+        {
+            "task": "End-of Semester Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

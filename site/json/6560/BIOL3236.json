@@ -1,0 +1,36 @@
+{
+    "course": "BIOL3236",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Climate Change Report I",
+            "weight": "15"
+        },
+        {
+            "task": "Climate Change Report II",
+            "weight": "15"
+        },
+        {
+            "task": "Modelling species' distributions",
+            "weight": "20"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

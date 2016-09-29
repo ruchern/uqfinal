@@ -1,0 +1,44 @@
+{
+    "course": "SPAN1020",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tu Mundo Revision Quizzes",
+            "weight": "8"
+        },
+        {
+            "task": "Attendance and Participation",
+            "weight": "6"
+        },
+        {
+            "task": "Written 1",
+            "weight": "25"
+        },
+        {
+            "task": "Mid Semester Oral",
+            "weight": "12"
+        },
+        {
+            "task": "Written Test 2",
+            "weight": "25"
+        },
+        {
+            "task": "Individual Oral Interview",
+            "weight": "24"
+        }
+    ],
+    "related": []
+}

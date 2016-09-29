@@ -1,0 +1,36 @@
+{
+    "course": "DIET7202",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Competency assessment",
+            "weight": "Satisfactory/Unsatisfactory"
+        },
+        {
+            "task": "Attendance and professional conduct",
+            "weight": "Satisfactory/Unsatisfactory"
+        },
+        {
+            "task": "Completion of records",
+            "weight": "Satisfactory/Unsatisfactory"
+        },
+        {
+            "task": "Group Education Session",
+            "weight": "Satisfactory/Unsatisfactory"
+        }
+    ],
+    "related": []
+}

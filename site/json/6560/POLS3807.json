@@ -1,0 +1,36 @@
+{
+    "course": "POLS3807",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance and participation in workshop exercises",
+            "weight": "10"
+        },
+        {
+            "task": "Ministerial briefing document (1000 words)",
+            "weight": "20"
+        },
+        {
+            "task": "Cabinet Submission (8000 words)",
+            "weight": "40"
+        },
+        {
+            "task": "Examination (2 Hours)",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

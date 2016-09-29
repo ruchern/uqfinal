@@ -1,0 +1,60 @@
+{
+    "course": "ANAT1020",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-semester Practical Exam",
+            "weight": "12"
+        },
+        {
+            "task": "End of Semester Practical Exam",
+            "weight": "28"
+        },
+        {
+            "task": "Mid-semester Theory Exam",
+            "weight": "10"
+        },
+        {
+            "task": "End-of-Semester Theory Exam",
+            "weight": "35"
+        },
+        {
+            "task": "Quiz 1: Terminology, Tissues & Integument",
+            "weight": "2"
+        },
+        {
+            "task": "Quiz 2: Skeletal Sustem",
+            "weight": "3"
+        },
+        {
+            "task": "Quiz 3: Muscular System",
+            "weight": "2"
+        },
+        {
+            "task": "Quiz 4: Nervous & Endocrine Systems",
+            "weight": "3"
+        },
+        {
+            "task": "Quiz 5: Cardiovascular, Respiratory & Digestive",
+            "weight": "3"
+        },
+        {
+            "task": "Quiz 6:Urinary & Reproductive",
+            "weight": "2"
+        }
+    ],
+    "related": []
+}

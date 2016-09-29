@@ -1,0 +1,40 @@
+{
+    "course": "AGRC1020",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Compulsory online Laboratory Safety Training",
+            "weight": "80"
+        },
+        {
+            "task": "Progressive quizzes",
+            "weight": "20"
+        },
+        {
+            "task": "Video presentation of a scientific paper",
+            "weight": "20"
+        },
+        {
+            "task": "Laboratory Practical Sessions",
+            "weight": "30"
+        },
+        {
+            "task": "Final Exam - End of semester",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

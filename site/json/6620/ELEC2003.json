@@ -1,0 +1,36 @@
+{
+    "course": "ELEC2003",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical lab work",
+            "weight": "15"
+        },
+        {
+            "task": "Tutorials",
+            "weight": "15"
+        },
+        {
+            "task": "AC Circuits only ",
+            "weight": "10"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

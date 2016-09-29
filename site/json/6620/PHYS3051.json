@@ -1,0 +1,40 @@
+{
+    "course": "PHYS3051",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory written reports",
+            "weight": "20"
+        },
+        {
+            "task": "Problem sets",
+            "weight": "50"
+        },
+        {
+            "task": "Oral exam",
+            "weight": "Not required to pass, 12 marks"
+        },
+        {
+            "task": "Project",
+            "weight": "Not required to pass, 12 marks"
+        },
+        {
+            "task": "Final exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

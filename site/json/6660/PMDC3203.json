@@ -1,0 +1,36 @@
+{
+    "course": "PMDC3203",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Occupational Health and Safety Risk Assessment ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Pre-Placement and Clinical Placement Attendance",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Supervisor Report",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Clinical Placement Portfolio",
+            "weight": "Pass / Fail"
+        }
+    ],
+    "related": []
+}

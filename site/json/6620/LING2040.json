@@ -1,0 +1,36 @@
+{
+    "course": "LING2040",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Language Profile",
+            "weight": "5"
+        },
+        {
+            "task": "Tutorial participation",
+            "weight": "5"
+        },
+        {
+            "task": "Assignments",
+            "weight": "50"
+        },
+        {
+            "task": "Final take home exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

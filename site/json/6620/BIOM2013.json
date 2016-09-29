@@ -1,0 +1,40 @@
+{
+    "course": "BIOM2013",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Physiological Solution (Prac 1)",
+            "weight": "5"
+        },
+        {
+            "task": "[K+] and Membrane Potential",
+            "weight": "5"
+        },
+        {
+            "task": "Endocrinology Prac Report",
+            "weight": "15"
+        },
+        {
+            "task": "Woodroach Practical",
+            "weight": "15"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

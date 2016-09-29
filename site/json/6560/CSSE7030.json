@@ -1,0 +1,52 @@
+{
+    "course": "CSSE7030",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "On-line problems (MyPyTutor)",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 1",
+            "weight": "10"
+        },
+        {
+            "task": "Initial proposal for assignment 3 ",
+            "weight": "0"
+        },
+        {
+            "task": "Design document for assignment 3",
+            "weight": "0"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 3",
+            "weight": "0"
+        },
+        {
+            "task": "Assignment 3 demonstration",
+            "weight": "Part of assignment 3"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

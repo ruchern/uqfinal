@@ -1,0 +1,56 @@
+{
+    "course": "STAT1301",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "STAT1201 Mid-Semester Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Workshops",
+            "weight": "10"
+        },
+        {
+            "task": "Online Survey",
+            "weight": "1"
+        },
+        {
+            "task": "A4 Project",
+            "weight": "1"
+        },
+        {
+            "task": "Paper Review",
+            "weight": "11"
+        },
+        {
+            "task": "STAT1301 Mid-semester Quiz",
+            "weight": "5"
+        },
+        {
+            "task": "Research Project",
+            "weight": "12"
+        },
+        {
+            "task": "STAT1201 (Final Examination)",
+            "weight": "30"
+        },
+        {
+            "task": "STAT1301 (Final Examination)",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

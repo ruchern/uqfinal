@@ -1,0 +1,28 @@
+{
+    "course": "NURS7400",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Frameworks for illness and disability",
+            "weight": "40"
+        },
+        {
+            "task": "Models of Care in CDM/PC",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

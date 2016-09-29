@@ -1,0 +1,125 @@
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	background-color:#49075E;
+	font-family:'Roboto', tahoma, sans-serif;
+	color:white;
+	/* Margin bottom by footer height */
+	margin-bottom: 80px;
+}
+
+.fake-link {
+    color: blue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.header {
+	display:block;
+	background-image:url(/static/img/logo.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	background-position:50% 50%;
+	height:150px;
+	margin-top:40px;
+	margin-bottom:40px;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+	.header {
+		background-image:url(/static/img/logo_2x.png);
+	}
+}
+
+.messages, .assessment, .results {
+	margin-top:30px;
+}
+
+.messages {
+	text-align:center;
+	font-weight:300;
+	font-size:20px;
+}
+
+.messages a, .messages a:link, .messages a:hover, .messages a:active {
+	color:#6d9bc3;
+}
+
+.assessmentGraphColumn {
+	width:60px;
+}
+.assessmentGraphContainer {
+	width:40px;
+	height:40px;
+	margin:5px;
+}
+.assessment, .results {
+	background-color:#fff;
+	border-radius:5px;
+	color:#000;
+	padding:20px;
+}
+.assessment table {
+	width:100%;
+}
+.assessment th {
+	text-align:left;
+}
+.assessment td, .assessment th {
+	height: 34px; /* td and th, height works like min-height */
+}
+.assessment .assessmentScore {
+	width:70px;
+}
+.assessment .scoreColumn {
+	width:80px;
+}
+.badScore {
+	box-shadow: 0 0 6px #FF0300;
+}
+
+.results .title {
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 8px;
+}
+.results .resultsGraphContainer {
+	width: 150px;
+	height: 150px;
+	margin: 15px 30px 15px 15px;
+	float: left;
+}
+.results .resultsSentence {
+	text-align: center;
+	font-size: 20px;
+}
+.results .resultsSentence select {
+	border: none;
+	border-bottom: 1px solid #ccc;
+}
+
+.footer {
+	text-align:center;
+	font-size:9px;
+	position: absolute;
+	bottom: 0;
+	width:100%;
+	/* Set the fixed height of the footer here */
+	height: 60px;
+}
+.footer a {
+	text-decoration: none;
+	color: white;
+}
+.footer a:hover {
+	text-decoration: underline;
+}
+.footer .fb {
+	width: 16px;
+	height: 16px;
+	margin-right: 6px;
+}

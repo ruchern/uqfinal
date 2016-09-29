@@ -1,0 +1,52 @@
+{
+    "course": "MINE2201",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Safety Inductions",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "10 x Weekly Class quiz (1%)",
+            "weight": "10"
+        },
+        {
+            "task": "Min proc quiz",
+            "weight": "5"
+        },
+        {
+            "task": "hydro met quiz",
+            "weight": "5"
+        },
+        {
+            "task": "individual attendance and reports",
+            "weight": "15"
+        },
+        {
+            "task": "Commodity Assignment - team presentation",
+            "weight": "5"
+        },
+        {
+            "task": "Commodity Assignment - Process options",
+            "weight": "10"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

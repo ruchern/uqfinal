@@ -1,0 +1,40 @@
+{
+    "course": "PUBH3001",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "IN-CLASS QUIZ (1)",
+            "weight": "10"
+        },
+        {
+            "task": "SUMMARY OF GROUP-BASED CLASS ACTIVITIES (1)",
+            "weight": "10"
+        },
+        {
+            "task": "IN-CLASS QUIZ (2)",
+            "weight": "20"
+        },
+        {
+            "task": "SUMMARY OF GROUP-BASED CLASS ACTIVITIES (2)",
+            "weight": "20"
+        },
+        {
+            "task": "BACKGROUND ISSUES PAPER ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "DENT4072",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Extraction Case 1",
+            "weight": "15"
+        },
+        {
+            "task": "Clinical/Practical Sessions ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Quiz",
+            "weight": "20"
+        },
+        {
+            "task": "Extraction Case 2",
+            "weight": "20"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

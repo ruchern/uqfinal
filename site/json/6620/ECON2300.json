@@ -1,0 +1,36 @@
+{
+    "course": "ECON2300",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid Semester Exam",
+            "weight": "30"
+        },
+        {
+            "task": "Assignment 1",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "10"
+        },
+        {
+            "task": "Final Exam ",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

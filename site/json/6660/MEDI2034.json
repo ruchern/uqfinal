@@ -1,0 +1,28 @@
+{
+    "course": "MEDI2034",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid Semester Examination",
+            "weight": "40"
+        },
+        {
+            "task": "End of Semester Examination",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

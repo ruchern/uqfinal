@@ -1,0 +1,44 @@
+{
+    "course": "ELEC7311",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Group assignment - Report & Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Laboratory exercise",
+            "weight": "10"
+        },
+        {
+            "task": "Tutorial Exercise 1",
+            "weight": "5"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Tutorial Exercise 2",
+            "weight": "5"
+        },
+        {
+            "task": "Final exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

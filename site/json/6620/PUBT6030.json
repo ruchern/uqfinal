@@ -1,0 +1,32 @@
+{
+    "course": "PUBT6030",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Written assignment",
+            "weight": "50"
+        },
+        {
+            "task": "Written reflection exercises",
+            "weight": "20"
+        },
+        {
+            "task": "Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

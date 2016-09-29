@@ -1,0 +1,40 @@
+{
+    "course": "PHTY2210",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Preparation for Clinical Practice",
+            "weight": "5"
+        },
+        {
+            "task": "Upper Limb Applied Anatomy Exam",
+            "weight": "5"
+        },
+        {
+            "task": "Upper Limb Pathology Assignment",
+            "weight": "40"
+        },
+        {
+            "task": "Written Examination",
+            "weight": "20"
+        },
+        {
+            "task": "Practical Examination",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

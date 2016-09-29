@@ -1,0 +1,40 @@
+{
+    "course": "SPCH7803",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Voice Disorders",
+            "weight": "20"
+        },
+        {
+            "task": "Hearing",
+            "weight": "5"
+        },
+        {
+            "task": "Fluency - Therapy assignment with reflections",
+            "weight": "20"
+        },
+        {
+            "task": "SPCH7803/1 Voice Disorders + ENT",
+            "weight": "20"
+        },
+        {
+            "task": "SPCH7803/2 Fluency Disorders",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

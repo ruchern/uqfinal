@@ -1,0 +1,36 @@
+{
+    "course": "POLS2101",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation in Discussion of Readings",
+            "weight": "10"
+        },
+        {
+            "task": "Textual Analysis 1",
+            "weight": "20"
+        },
+        {
+            "task": "Textual Analysis 2",
+            "weight": "30"
+        },
+        {
+            "task": "Research Essay ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

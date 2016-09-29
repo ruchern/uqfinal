@@ -1,0 +1,44 @@
+{
+    "course": "CHIN3110",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "HSK Testing ",
+            "weight": "5"
+        },
+        {
+            "task": "Class Participation",
+            "weight": "10"
+        },
+        {
+            "task": "Dictation",
+            "weight": "10"
+        },
+        {
+            "task": "Project: Radio Project",
+            "weight": "25"
+        },
+        {
+            "task": "Listening Comprehension Exam ",
+            "weight": "25"
+        },
+        {
+            "task": "Debate & Question-and-answer",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

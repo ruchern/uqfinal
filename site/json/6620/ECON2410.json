@@ -1,0 +1,52 @@
+{
+    "course": "ECON2410",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid Semester Exam",
+            "weight": "30"
+        },
+        {
+            "task": "Blackboard Quiz 1",
+            "weight": "2"
+        },
+        {
+            "task": "Blackboard Quiz 2",
+            "weight": "2"
+        },
+        {
+            "task": "Blackboard Quiz 3",
+            "weight": "2"
+        },
+        {
+            "task": "Blackboard Quiz 4",
+            "weight": "2"
+        },
+        {
+            "task": "Blackboard Quiz 5",
+            "weight": "2"
+        },
+        {
+            "task": "Blackboard Quiz 6",
+            "weight": "2"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

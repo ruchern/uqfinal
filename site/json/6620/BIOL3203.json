@@ -1,0 +1,40 @@
+{
+    "course": "BIOL3203",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Exam - Mid Semester",
+            "weight": "15"
+        },
+        {
+            "task": "P2 laboratory report + lab performance",
+            "weight": "15"
+        },
+        {
+            "task": "P3 laboratory report + lab performance",
+            "weight": "15"
+        },
+        {
+            "task": "P1 laboratory report + lab performance",
+            "weight": "15"
+        },
+        {
+            "task": "Exam - Final ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

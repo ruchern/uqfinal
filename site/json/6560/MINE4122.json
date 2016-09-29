@@ -1,0 +1,44 @@
+{
+    "course": "MINE4122",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Consultation with Supervisor",
+            "weight": "5"
+        },
+        {
+            "task": "Technical writing editing",
+            "weight": "8"
+        },
+        {
+            "task": "Research Project Proposal",
+            "weight": "10"
+        },
+        {
+            "task": "Annotated Bibliography",
+            "weight": "15"
+        },
+        {
+            "task": "Project Progess Report",
+            "weight": "60"
+        },
+        {
+            "task": "Project Plan Agreement",
+            "weight": "2"
+        }
+    ],
+    "related": []
+}

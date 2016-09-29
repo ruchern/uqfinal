@@ -1,0 +1,32 @@
+{
+    "course": "BIOT6012",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Outline of research report",
+            "weight": "5"
+        },
+        {
+            "task": "Report on research project",
+            "weight": "85"
+        },
+        {
+            "task": "Laboratory notebook preparation",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

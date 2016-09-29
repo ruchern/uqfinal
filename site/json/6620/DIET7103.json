@@ -1,0 +1,40 @@
+{
+    "course": "DIET7103",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1",
+            "weight": "20"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "20"
+        },
+        {
+            "task": "Ready reckoner activity and interview critique",
+            "weight": "25"
+        },
+        {
+            "task": "Cultural competence quiz",
+            "weight": "15"
+        },
+        {
+            "task": "Diet disease relationship task",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

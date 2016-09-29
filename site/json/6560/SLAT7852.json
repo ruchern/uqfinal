@@ -1,0 +1,28 @@
+{
+    "course": "SLAT7852",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Portfolio",
+            "weight": "30"
+        },
+        {
+            "task": "Synthesis essay",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

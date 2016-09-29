@@ -1,0 +1,52 @@
+{
+    "course": "ELEC3400",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Midsemester Class Quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Final Examination ",
+            "weight": "50"
+        },
+        {
+            "task": "Laboratory OH&S",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Individual Laboratory Demonstration",
+            "weight": "12.5"
+        },
+        {
+            "task": "Team Laboratory Demonstration",
+            "weight": "7.5"
+        },
+        {
+            "task": "End of Semester Project Demonstration (Team)",
+            "weight": "20"
+        },
+        {
+            "task": "Supplementary Project Report",
+            "weight": "Supplementary assessment which MAY contribute up to 10"
+        },
+        {
+            "task": "Peer Assessment for Team Lab/Project Assessment",
+            "weight": "Scaling factor applied to team based practical marks to calculate individual mark"
+        }
+    ],
+    "related": []
+}

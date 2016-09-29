@@ -1,0 +1,40 @@
+{
+    "course": "EDUC7011",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Conceptualising the guidance and counselling role",
+            "weight": "All assessment items must be submitted and passed to gain a passing grade in the course"
+        },
+        {
+            "task": "Counselling recording 1: Reviewing the basics",
+            "weight": "All assessment items must be submitted and passed to gain a passing grade in the course"
+        },
+        {
+            "task": "Ethical issues",
+            "weight": "All assessment items must be submitted and passed in order to gain a passing grade in the course"
+        },
+        {
+            "task": "Counselling recording 2: Apply counselling theory",
+            "weight": "All assessment items must be submitted and passed to gain a passing grade in this course"
+        },
+        {
+            "task": "Log of practicum experiences & practice framework",
+            "weight": "All assessment items must be submitted and passed to gain a passing grade in the course"
+        }
+    ],
+    "related": []
+}

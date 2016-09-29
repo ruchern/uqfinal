@@ -1,0 +1,28 @@
+{
+    "course": "LAWS5160",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Take Home Exam",
+            "weight": "30"
+        },
+        {
+            "task": "Open Book Exam",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "PHIL3300",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Essay 1",
+            "weight": "50"
+        },
+        {
+            "task": "Essay 2",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

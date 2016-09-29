@@ -1,0 +1,36 @@
+{
+    "course": "COMU7009",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Project plan: Option 1 & 2 (milestone task)",
+            "weight": "0"
+        },
+        {
+            "task": "Project/Thesis Draft: Options 1 & 2 (milestone)",
+            "weight": "0"
+        },
+        {
+            "task": "Final submission Option 2: Communication project ",
+            "weight": "100"
+        },
+        {
+            "task": "Final sub Option 1: Communication research thesis",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

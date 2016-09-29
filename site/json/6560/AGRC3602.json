@@ -1,0 +1,36 @@
+{
+    "course": "AGRC3602",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Concept Map Assignment 1",
+            "weight": "5"
+        },
+        {
+            "task": "Topic selection",
+            "weight": "5"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "45"
+        },
+        {
+            "task": "Assignment 3",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

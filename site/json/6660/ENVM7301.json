@@ -1,0 +1,32 @@
+{
+    "course": "ENVM7301",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Understanding Specific Terrestrial Ecosystem   ",
+            "weight": "30"
+        },
+        {
+            "task": "Environmental impacts and rehabilitation strategy",
+            "weight": "40"
+        },
+        {
+            "task": "An integrated mined land rehabilitation plan",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

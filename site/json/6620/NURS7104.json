@@ -1,0 +1,56 @@
+{
+    "course": "NURS7104",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mandatory Work Health and Safety",
+            "weight": "NGP"
+        },
+        {
+            "task": "Mandatory Hand Hygiene Competency",
+            "weight": "NGP"
+        },
+        {
+            "task": "Medication Calculation online quizzes",
+            "weight": "NGP"
+        },
+        {
+            "task": "Vital signs",
+            "weight": "NGP"
+        },
+        {
+            "task": "Formative Assessment Clinical Placement Evaluation",
+            "weight": "NGP"
+        },
+        {
+            "task": "eCPPP formative assessment",
+            "weight": "NGP"
+        },
+        {
+            "task": "Summative assessment",
+            "weight": "NGP"
+        },
+        {
+            "task": "Objective Structured Clinical Skills Assessment",
+            "weight": "NGP"
+        },
+        {
+            "task": "Summative Assessment Clinical Placement Evaluation",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

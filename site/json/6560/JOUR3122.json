@@ -1,0 +1,32 @@
+{
+    "course": "JOUR3122",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Pre-trip Viva",
+            "weight": "15"
+        },
+        {
+            "task": "PERSONALISED LEARNING PORTFOLIO",
+            "weight": "70"
+        },
+        {
+            "task": "Global Campus Network TV show",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

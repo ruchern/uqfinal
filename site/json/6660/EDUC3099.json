@@ -1,0 +1,36 @@
+{
+    "course": "EDUC3099",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Policies & Procedures for Professional Experience",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "School placement",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Observation summaries",
+            "weight": "Pass/Fail (300 words x 3)"
+        },
+        {
+            "task": "Professional Portfolio",
+            "weight": "Pass/Fail (300 words)"
+        }
+    ],
+    "related": []
+}

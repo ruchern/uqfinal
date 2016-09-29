@@ -1,0 +1,48 @@
+{
+    "course": "PHYL2062",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "ML task 1",
+            "weight": "3"
+        },
+        {
+            "task": "ML task 2",
+            "weight": "3"
+        },
+        {
+            "task": "ML task 3",
+            "weight": "3"
+        },
+        {
+            "task": "ML task 4",
+            "weight": "3"
+        },
+        {
+            "task": "Fact sheet assignment ",
+            "weight": "13"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "20"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

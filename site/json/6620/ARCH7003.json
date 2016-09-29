@@ -1,0 +1,44 @@
+{
+    "course": "ARCH7003",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Part 1 Strategic Moves - SUBMISSION",
+            "weight": "30"
+        },
+        {
+            "task": "Part 1 Strategic Moves - critique",
+            "weight": "presentation of part 1"
+        },
+        {
+            "task": "Part 2 Transect and Interface - SUBMISSION",
+            "weight": "20"
+        },
+        {
+            "task": "Part 2 Transect and Interface - critique",
+            "weight": "presentation of part 2"
+        },
+        {
+            "task": "Part 3 Architectural Proposition - SUBMISSION",
+            "weight": "50"
+        },
+        {
+            "task": "Part 3 Architectural Proposition - critique",
+            "weight": "presentation of part 3"
+        }
+    ],
+    "related": []
+}

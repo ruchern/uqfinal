@@ -1,0 +1,36 @@
+{
+    "course": "ERTH6504",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Introduction and Materials & Methods",
+            "weight": "5"
+        },
+        {
+            "task": "Honours Thesis",
+            "weight": "80"
+        },
+        {
+            "task": "Results Progress Report",
+            "weight": "5"
+        },
+        {
+            "task": "Oral defence ",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

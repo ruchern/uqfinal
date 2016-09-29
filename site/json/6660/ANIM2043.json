@@ -1,0 +1,40 @@
+{
+    "course": "ANIM2043",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Modules 1 to 6",
+            "weight": "30"
+        },
+        {
+            "task": "Ancient Marsupials and Monotremes",
+            "weight": "10"
+        },
+        {
+            "task": "Marsupial and Monotreme 3D model",
+            "weight": "10"
+        },
+        {
+            "task": "Marsupial and Monotreme Enigmas",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

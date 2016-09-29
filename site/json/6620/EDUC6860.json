@@ -1,0 +1,32 @@
+{
+    "course": "EDUC6860",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Teaching a Concept",
+            "weight": "33"
+        },
+        {
+            "task": "Designing an Inquiry",
+            "weight": "34"
+        },
+        {
+            "task": "Assessment Task",
+            "weight": "33"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "MUSC7820",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "UQ Symphony Orchestra ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Recital ",
+            "weight": "70"
+        },
+        {
+            "task": "Weekly Lesson ",
+            "weight": "30"
+        },
+        {
+            "task": "Participation in Chamber Music Program",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Practical Class/Performance Practice",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

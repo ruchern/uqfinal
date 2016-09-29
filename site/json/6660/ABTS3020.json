@@ -1,0 +1,36 @@
+{
+    "course": "ABTS3020",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Presentation on Cultural Safety at UQ",
+            "weight": "20"
+        },
+        {
+            "task": "Group presentation on Corporate responsibilities",
+            "weight": "20"
+        },
+        {
+            "task": "Ethics application and reflection",
+            "weight": "30"
+        },
+        {
+            "task": "Critical Essay",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

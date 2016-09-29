@@ -1,0 +1,32 @@
+{
+    "course": "JOUR1111",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Media log assignment",
+            "weight": "30"
+        },
+        {
+            "task": "Multiple choice test",
+            "weight": "25"
+        },
+        {
+            "task": "Final essay",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

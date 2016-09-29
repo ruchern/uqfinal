@@ -1,0 +1,52 @@
+{
+    "course": "CIVL3210",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory experiments",
+            "weight": "5"
+        },
+        {
+            "task": "Fundamental knowledge quiz",
+            "weight": "0"
+        },
+        {
+            "task": "Tutorial 1",
+            "weight": "5"
+        },
+        {
+            "task": "Tutorial 2",
+            "weight": "5"
+        },
+        {
+            "task": "Tutorial 3",
+            "weight": "5"
+        },
+        {
+            "task": "Tutorial 4",
+            "weight": "5"
+        },
+        {
+            "task": "Tutorial 5",
+            "weight": "5"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

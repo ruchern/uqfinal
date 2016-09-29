@@ -1,0 +1,28 @@
+{
+    "course": "PHRM2050",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "MCQ exam based on published research papers",
+            "weight": "30"
+        },
+        {
+            "task": "Written Examination ",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

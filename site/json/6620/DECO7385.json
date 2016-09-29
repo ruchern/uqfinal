@@ -1,0 +1,48 @@
+{
+    "course": "DECO7385",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online reflective journal",
+            "weight": "10"
+        },
+        {
+            "task": "Project Ideas and Inspirations",
+            "weight": "5"
+        },
+        {
+            "task": "Project proposal & presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Prototype/ Sketch/ Mock-up",
+            "weight": "20"
+        },
+        {
+            "task": "Video/Storyboard",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Exhibit Finished Product",
+            "weight": "25"
+        },
+        {
+            "task": "Portfolio and Documentation of work",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

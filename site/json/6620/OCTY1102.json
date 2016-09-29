@@ -1,0 +1,32 @@
+{
+    "course": "OCTY1102",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practice peer interview and interview critique",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Peer interview and Reflection report",
+            "weight": "50"
+        },
+        {
+            "task": "Communication Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

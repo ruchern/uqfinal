@@ -1,0 +1,36 @@
+{
+    "course": "OHSS3004",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "OHSMS Case Study",
+            "weight": "25"
+        },
+        {
+            "task": "OHS Management System Audit Report",
+            "weight": "20"
+        },
+        {
+            "task": "Current Approaches to OHS Management",
+            "weight": "25"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "CSSE7410",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory experiments ",
+            "weight": "30"
+        },
+        {
+            "task": "Project",
+            "weight": "30"
+        },
+        {
+            "task": "Critical Paper Review",
+            "weight": "5"
+        },
+        {
+            "task": "Final examination",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "LING3050",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "In-class participation and discussion",
+            "weight": "10"
+        },
+        {
+            "task": "In-class exercises on 'adopted' grammar",
+            "weight": "10"
+        },
+        {
+            "task": "Presentation of weekly readings",
+            "weight": "20"
+        },
+        {
+            "task": "Weekly assignment on 'adopted' grammar",
+            "weight": "35"
+        },
+        {
+            "task": "Final report and reflection",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

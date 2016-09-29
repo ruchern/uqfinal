@@ -1,0 +1,36 @@
+{
+    "course": "SPCH7826",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Blackboard Quiz for CNS/PNS content",
+            "weight": "Pass/Fail (Must Pass)"
+        },
+        {
+            "task": "Adult Motor Speech Disorders",
+            "weight": "40"
+        },
+        {
+            "task": "Adult motor speech: Video Examination",
+            "weight": "15"
+        },
+        {
+            "task": "Childhood Motor Speech Examination",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

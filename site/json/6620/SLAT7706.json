@@ -1,0 +1,36 @@
+{
+    "course": "SLAT7706",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Group presentation",
+            "weight": "20"
+        },
+        {
+            "task": "Portfolio of blog reflections",
+            "weight": "30"
+        },
+        {
+            "task": "Reviewing an applied linguistics text",
+            "weight": "20"
+        },
+        {
+            "task": "Current issues in applied linguistics",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

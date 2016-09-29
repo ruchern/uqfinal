@@ -1,0 +1,36 @@
+{
+    "course": "ECON7950",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "1,000-word review of journal article - JAR 1",
+            "weight": "20"
+        },
+        {
+            "task": "500-word research proposal topic",
+            "weight": "10"
+        },
+        {
+            "task": "1,000-word review of journal article - JAR 2",
+            "weight": "20"
+        },
+        {
+            "task": "3,000-word research proposal",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

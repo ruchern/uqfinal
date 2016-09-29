@@ -1,0 +1,44 @@
+{
+    "course": "MICR6512",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Proposal",
+            "weight": "#2 equivalent"
+        },
+        {
+            "task": "Research Report, Viva & Research Performance",
+            "weight": "#10.0 equivalent"
+        },
+        {
+            "task": "Service and Engagement",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Research Proposal Seminar and Discussion",
+            "weight": "#0.5 equivalent"
+        },
+        {
+            "task": "Journal Club presentation & participation",
+            "weight": "#2.0 equivalent"
+        },
+        {
+            "task": "Research Seminar and Defence",
+            "weight": "#1.5 equivalent"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "PSYC7474",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Case Study Analysis",
+            "weight": "30"
+        },
+        {
+            "task": "Ethical, Legal and Professional Conduct",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Research Proposal",
+            "weight": "30"
+        },
+        {
+            "task": "Literature Review & Proposed Methodology",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

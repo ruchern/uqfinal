@@ -1,0 +1,36 @@
+{
+    "course": "DENT3200",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Competency Task 1 - Endodontic",
+            "weight": "20"
+        },
+        {
+            "task": "Competency Task 2 - Restorative Dentistry",
+            "weight": "20"
+        },
+        {
+            "task": "Clinical Participation and Assessment",
+            "weight": "40"
+        },
+        {
+            "task": "End of Semester Examination",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

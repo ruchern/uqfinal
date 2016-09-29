@@ -1,0 +1,36 @@
+{
+    "course": "POLS3116",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Essay (2500 words)",
+            "weight": "40"
+        },
+        {
+            "task": "Hypothetical Debate One",
+            "weight": "15"
+        },
+        {
+            "task": "Hypothetical Debate Two",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam (2 hours)",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

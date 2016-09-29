@@ -1,0 +1,28 @@
+{
+    "course": "BIOC7009",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Keeping a diary of meetings with supervisor ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Written research proposal",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

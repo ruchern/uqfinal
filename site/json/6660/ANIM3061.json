@@ -1,0 +1,36 @@
+{
+    "course": "ANIM3061",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Evidence for Gene-Diet Interactions",
+            "weight": "20"
+        },
+        {
+            "task": "Introduction to Bioinformatics",
+            "weight": "15"
+        },
+        {
+            "task": "Introduction to Genomic and Metagenomic Analyses",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

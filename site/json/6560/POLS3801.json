@@ -1,0 +1,36 @@
+{
+    "course": "POLS3801",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Internship Agreement (hand in hard copy)",
+            "weight": "N/A"
+        },
+        {
+            "task": "Project Outline (submit via Turnitin)",
+            "weight": "N/A"
+        },
+        {
+            "task": "Internship Logbook (hand in hard copy)",
+            "weight": "N/A"
+        },
+        {
+            "task": "Research Report 6,000 words (Turnitin & hardcopy)",
+            "weight": "N/A"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "DENT4200",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": " Competency Task 1 - Endodontic",
+            "weight": "20"
+        },
+        {
+            "task": "Competency Task 2 - Restorative Dentistry",
+            "weight": "20"
+        },
+        {
+            "task": "Clinical Practice Performance ",
+            "weight": "30"
+        },
+        {
+            "task": "Final Semester examination",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

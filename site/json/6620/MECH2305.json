@@ -1,0 +1,40 @@
+{
+    "course": "MECH2305",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "CAM continuing assessment",
+            "weight": "10"
+        },
+        {
+            "task": "CAD Rim Wheel Design",
+            "weight": "15"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "10"
+        },
+        {
+            "task": "CAD CREO Basic Skills",
+            "weight": "5"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

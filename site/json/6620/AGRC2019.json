@@ -1,0 +1,36 @@
+{
+    "course": "AGRC2019",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation in the residential school",
+            "weight": "7"
+        },
+        {
+            "task": "Essay on diversity and abundance of invertebrates",
+            "weight": "18"
+        },
+        {
+            "task": "Technique Manual",
+            "weight": "35"
+        },
+        {
+            "task": "Final examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

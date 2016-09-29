@@ -1,0 +1,48 @@
+{
+    "course": "VETS2011",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Physiology practical continuous assessment",
+            "weight": "10"
+        },
+        {
+            "task": "Mid-semester theory exam",
+            "weight": "15"
+        },
+        {
+            "task": "Mid-semester practical exam",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment",
+            "weight": "10"
+        },
+        {
+            "task": "Group oral presentation",
+            "weight": "20"
+        },
+        {
+            "task": "Theory exam",
+            "weight": "20"
+        },
+        {
+            "task": "Anatomy practical exam",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

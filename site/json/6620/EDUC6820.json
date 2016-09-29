@@ -1,0 +1,32 @@
+{
+    "course": "EDUC6820",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assessment Task 1 ASPT: 2.1  2.2  4.2",
+            "weight": "20"
+        },
+        {
+            "task": "Assessment Task Two ASPT: 3.1 3.2 3.3 3.4 5.1 5.3",
+            "weight": "50"
+        },
+        {
+            "task": "Assessment Three ASPT: 2.1 2.2 2.6 3.1 3.2 3.3 3.4",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

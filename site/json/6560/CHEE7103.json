@@ -1,0 +1,40 @@
+{
+    "course": "CHEE7103",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Advising and Presentation Sessions",
+            "weight": "Compulsory"
+        },
+        {
+            "task": "Design Package 1",
+            "weight": "20"
+        },
+        {
+            "task": "Design Package 2",
+            "weight": "20"
+        },
+        {
+            "task": "Final Design Package",
+            "weight": "60"
+        },
+        {
+            "task": "Final Presentation",
+            "weight": "Inluded in weighting of final design package"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,44 @@
+{
+    "course": "JAPN3002",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Accuracy test",
+            "weight": "10"
+        },
+        {
+            "task": "Speaking Assessment 1",
+            "weight": "20"
+        },
+        {
+            "task": "Reflection on Performance in interview",
+            "weight": "10"
+        },
+        {
+            "task": "In-class Survey",
+            "weight": "20"
+        },
+        {
+            "task": "Opinion paragraph",
+            "weight": "20"
+        },
+        {
+            "task": "Speaking and Listening Performance",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

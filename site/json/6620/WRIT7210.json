@@ -1,0 +1,40 @@
+{
+    "course": "WRIT7210",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Event participation",
+            "weight": "15"
+        },
+        {
+            "task": "Pitch your ideas in class",
+            "weight": "10"
+        },
+        {
+            "task": "Critical evaluation of cafe scientific event",
+            "weight": "25"
+        },
+        {
+            "task": "Online content and evaluation",
+            "weight": "20"
+        },
+        {
+            "task": "Academic essay",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

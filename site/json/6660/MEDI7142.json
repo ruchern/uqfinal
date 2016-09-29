@@ -1,0 +1,36 @@
+{
+    "course": "MEDI7142",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reflective Journal",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Indigenous Health Quiz ",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Indigenous Health Student Led Symposium",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Research Ethics and Integrity Quiz",
+            "weight": "Pass / Fail"
+        }
+    ],
+    "related": []
+}

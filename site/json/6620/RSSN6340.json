@@ -1,0 +1,36 @@
+{
+    "course": "RSSN6340",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Written work",
+            "weight": "35"
+        },
+        {
+            "task": "Oral work",
+            "weight": "15"
+        },
+        {
+            "task": "Written examination ",
+            "weight": "35"
+        },
+        {
+            "task": "Presentation and discussion in Russian",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

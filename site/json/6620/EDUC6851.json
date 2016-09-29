@@ -1,0 +1,36 @@
+{
+    "course": "EDUC6851",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Attendance, Engagement and Participation",
+            "weight": "20"
+        },
+        {
+            "task": "Choral Repertoire",
+            "weight": "25"
+        },
+        {
+            "task": "Choral Music Unit Plan",
+            "weight": "25"
+        },
+        {
+            "task": "Conducting Skills / Rehearsal Strategies",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

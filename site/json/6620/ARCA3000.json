@@ -1,0 +1,36 @@
+{
+    "course": "ARCA3000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Critical involvement",
+            "weight": "8"
+        },
+        {
+            "task": "Culture History and Processualism ",
+            "weight": "27"
+        },
+        {
+            "task": "Case Study Presentations",
+            "weight": "25"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

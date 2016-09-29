@@ -1,0 +1,32 @@
+{
+    "course": "POLS2206",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Participation",
+            "weight": "15"
+        },
+        {
+            "task": "Major Research Essay (2500 words)",
+            "weight": "45"
+        },
+        {
+            "task": "End of semester examination ",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

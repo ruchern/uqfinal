@@ -1,0 +1,48 @@
+{
+    "course": "PHYS1002",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "End-of-semester written examination",
+            "weight": "50"
+        },
+        {
+            "task": "Laboratory report and experimental proposals",
+            "weight": "15"
+        },
+        {
+            "task": "Assignments",
+            "weight": "15"
+        },
+        {
+            "task": "Pre-lecture Reading Test",
+            "weight": "5"
+        },
+        {
+            "task": "MasteringPhysics Online Quizzes",
+            "weight": "15"
+        },
+        {
+            "task": "Laboratory Participation",
+            "weight": "Hurdle"
+        },
+        {
+            "task": "Class Participation",
+            "weight": "Bonus (up to 1/2 grade)"
+        }
+    ],
+    "related": []
+}

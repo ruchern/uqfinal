@@ -1,0 +1,48 @@
+{
+    "course": "PHIL2090",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Blackboard quiz 1",
+            "weight": "2.5"
+        },
+        {
+            "task": "Blackboard quiz 2",
+            "weight": "2.5"
+        },
+        {
+            "task": "Blackboard quiz 3",
+            "weight": "2.5"
+        },
+        {
+            "task": "Blackboard quiz 4",
+            "weight": "2.5"
+        },
+        {
+            "task": "Proposed abstract for final essay",
+            "weight": "5"
+        },
+        {
+            "task": "Final essay",
+            "weight": "55"
+        },
+        {
+            "task": "News article review",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

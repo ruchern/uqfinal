@@ -1,0 +1,44 @@
+{
+    "course": "HPRM1000",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "(A1)",
+            "weight": "5"
+        },
+        {
+            "task": "(A2)",
+            "weight": "5"
+        },
+        {
+            "task": "Workbook (A3)",
+            "weight": "30"
+        },
+        {
+            "task": "(A4)",
+            "weight": "5"
+        },
+        {
+            "task": "Group oral presentations (A5)",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam (A6)",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

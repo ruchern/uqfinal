@@ -1,0 +1,48 @@
+{
+    "course": "MATH2000",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "1",
+            "weight": "5"
+        },
+        {
+            "task": "2",
+            "weight": "5"
+        },
+        {
+            "task": "3",
+            "weight": "5"
+        },
+        {
+            "task": "4",
+            "weight": "5"
+        },
+        {
+            "task": "5",
+            "weight": "5"
+        },
+        {
+            "task": "6",
+            "weight": "5"
+        },
+        {
+            "task": "Final",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

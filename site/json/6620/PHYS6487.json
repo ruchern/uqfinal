@@ -1,0 +1,44 @@
+{
+    "course": "PHYS6487",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Outline of research",
+            "weight": "0"
+        },
+        {
+            "task": "Honours Progress Talk",
+            "weight": "0"
+        },
+        {
+            "task": "Progress Report and Literature Review",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Honours Talk",
+            "weight": "(10"
+        },
+        {
+            "task": "Honours Thesis",
+            "weight": "100"
+        },
+        {
+            "task": "Oral Examination",
+            "weight": "Helps examiners determine thesis grade."
+        }
+    ],
+    "related": []
+}

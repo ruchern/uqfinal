@@ -1,0 +1,36 @@
+{
+    "course": "PLAN7614",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Active participation in learning activities",
+            "weight": "10"
+        },
+        {
+            "task": "What is Good Urban Governance? A visual essay",
+            "weight": "30"
+        },
+        {
+            "task": "Urban NGO",
+            "weight": "30"
+        },
+        {
+            "task": "Reflective essay",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

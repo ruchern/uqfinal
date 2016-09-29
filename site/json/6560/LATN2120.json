@@ -1,0 +1,36 @@
+{
+    "course": "LATN2120",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignments based on Classwork",
+            "weight": "30"
+        },
+        {
+            "task": "Declension, Conjugation, Principal Parts Quizzes",
+            "weight": "5"
+        },
+        {
+            "task": "1 hour",
+            "weight": "25"
+        },
+        {
+            "task": "2 hours",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

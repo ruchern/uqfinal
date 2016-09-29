@@ -1,0 +1,72 @@
+{
+    "course": "PSYC3020",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quiz 1: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Quiz 2: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Quiz 3: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Quiz 4: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Quiz 5: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Assignment 1",
+            "weight": "25"
+        },
+        {
+            "task": "Quiz 6: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Quiz 7: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "25"
+        },
+        {
+            "task": "Quiz 8: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Quiz 9: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Quiz 10: Low-stakes online quizzes",
+            "weight": "The scores from your best 7 quizzes will account for 10"
+        },
+        {
+            "task": "Final examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

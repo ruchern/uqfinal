@@ -1,0 +1,36 @@
+{
+    "course": "EDUC1702",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation in set tutorial tasks (APST: 1)",
+            "weight": "10"
+        },
+        {
+            "task": "APST 1.1",
+            "weight": "20"
+        },
+        {
+            "task": "APST 1.1, 1.2, 1.3, 1.5",
+            "weight": "30"
+        },
+        {
+            "task": "APST 1.1, 1.2, 1.3, 1.4",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "GRMN2010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Ongoing Summary",
+            "weight": "3"
+        },
+        {
+            "task": "Listening Test",
+            "weight": "18"
+        },
+        {
+            "task": "Translation Test",
+            "weight": "24"
+        },
+        {
+            "task": "Essay Test",
+            "weight": "30"
+        },
+        {
+            "task": "Individual Interview",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

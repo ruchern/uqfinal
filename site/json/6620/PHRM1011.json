@@ -1,0 +1,44 @@
+{
+    "course": "PHRM1011",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly feedback quizzes (outside class time)",
+            "weight": "12"
+        },
+        {
+            "task": "Tutorial worksheets",
+            "weight": "Completion required"
+        },
+        {
+            "task": "Health Sciences Language Screening Test",
+            "weight": "Completion required"
+        },
+        {
+            "task": "Peer Teaching Videos (group assignment)",
+            "weight": "8"
+        },
+        {
+            "task": "Oral Exam (OTC product request)",
+            "weight": "20"
+        },
+        {
+            "task": "Written Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

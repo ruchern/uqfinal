@@ -1,0 +1,44 @@
+{
+    "course": "CSSE7411",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly Laboratory Performance",
+            "weight": "40"
+        },
+        {
+            "task": "Project milestone",
+            "weight": "5"
+        },
+        {
+            "task": "Final Project Demonstration (Group)",
+            "weight": "15"
+        },
+        {
+            "task": "Final Project Presentation (Individual)",
+            "weight": "15"
+        },
+        {
+            "task": "Conference paper",
+            "weight": "5"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

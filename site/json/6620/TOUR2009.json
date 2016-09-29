@@ -1,0 +1,32 @@
+{
+    "course": "TOUR2009",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Destination Market Analysis",
+            "weight": "20"
+        },
+        {
+            "task": "IMC Strategy",
+            "weight": "30"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

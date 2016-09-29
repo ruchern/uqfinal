@@ -1,0 +1,36 @@
+{
+    "course": "PUBH7128",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Literature Review and Critical Appraisal ",
+            "weight": "25"
+        },
+        {
+            "task": "Assignment 2- Developing an Intervention Plan",
+            "weight": "25"
+        },
+        {
+            "task": "Assignment 2 Reflection",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 3- Developing an evaluation plan",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

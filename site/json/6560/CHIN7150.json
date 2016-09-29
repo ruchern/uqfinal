@@ -1,0 +1,36 @@
+{
+    "course": "CHIN7150",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly interpreting assignments",
+            "weight": "20"
+        },
+        {
+            "task": "Class interpreting",
+            "weight": "20"
+        },
+        {
+            "task": "Comprehensive interpreting practice",
+            "weight": "50"
+        },
+        {
+            "task": "Mock conference",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

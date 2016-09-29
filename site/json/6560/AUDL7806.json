@@ -1,0 +1,40 @@
+{
+    "course": "AUDL7806",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Clinical forms, records and checklists",
+            "weight": "0"
+        },
+        {
+            "task": "Clinical Viva Exam",
+            "weight": "60"
+        },
+        {
+            "task": "Critical essay",
+            "weight": "30"
+        },
+        {
+            "task": "Clinical report 1",
+            "weight": "5"
+        },
+        {
+            "task": "Clinical report 2",
+            "weight": "5"
+        }
+    ],
+    "related": []
+}

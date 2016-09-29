@@ -1,0 +1,36 @@
+{
+    "course": "RELN1001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Debate Essay 1",
+            "weight": "20"
+        },
+        {
+            "task": "Debate Essay 2",
+            "weight": "20"
+        },
+        {
+            "task": "Summary of Online and In-Class Lecture Material",
+            "weight": "20"
+        },
+        {
+            "task": "Final Essay",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

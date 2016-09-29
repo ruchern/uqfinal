@@ -1,0 +1,36 @@
+{
+    "course": "MEDI7221",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Portfolio Assignment",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Simulated Patient DVD Recording and Review Session",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Clinical Practice Masterclasses",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Professional Behaviour Assessment (Formative)",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

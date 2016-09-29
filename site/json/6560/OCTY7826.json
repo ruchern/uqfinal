@@ -1,0 +1,36 @@
+{
+    "course": "OCTY7826",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Infant Simulation Fieldwork Participation",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Case Based Assignment with oral exam",
+            "weight": "40"
+        },
+        {
+            "task": "Fieldwork",
+            "weight": "35"
+        },
+        {
+            "task": "End of Semester Examination",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

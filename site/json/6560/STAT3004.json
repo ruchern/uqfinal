@@ -1,0 +1,68 @@
+{
+    "course": "STAT3004",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Revision assignment",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 1",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 3",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 4",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 5",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 6",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 7",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 8",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 9",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 10",
+            "weight": "4"
+        },
+        {
+            "task": "Final examination",
+            "weight": "56"
+        }
+    ],
+    "related": []
+}

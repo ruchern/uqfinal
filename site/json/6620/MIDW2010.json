@@ -1,0 +1,40 @@
+{
+    "course": "MIDW2010",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Transition to Midwifery Practice Clinical Cert.",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Timesheet ",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical practice assessment - Formative",
+            "weight": "NGP"
+        },
+        {
+            "task": "Clinical Practice Assessment - Summative",
+            "weight": "NGP"
+        },
+        {
+            "task": "Mastery of clinical skill assessment",
+            "weight": "NGP"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "SPCH7816",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-placement assessment",
+            "weight": "Formative"
+        },
+        {
+            "task": "End of Placement assessment",
+            "weight": "Pass/Fail (Must Pass)"
+        }
+    ],
+    "related": []
+}

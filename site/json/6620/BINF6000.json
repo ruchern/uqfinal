@@ -1,0 +1,40 @@
+{
+    "course": "BINF6000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Workshop 1",
+            "weight": "15"
+        },
+        {
+            "task": "Practicals",
+            "weight": "20"
+        },
+        {
+            "task": "Workshop 2",
+            "weight": "15"
+        },
+        {
+            "task": "Workshop 3",
+            "weight": "15"
+        },
+        {
+            "task": "End of semester examination",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

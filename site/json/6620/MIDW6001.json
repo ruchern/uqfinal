@@ -1,0 +1,36 @@
+{
+    "course": "MIDW6001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "PICO Statement for Systematic/Literature Review",
+            "weight": "15"
+        },
+        {
+            "task": "Systematic or Literature Review",
+            "weight": "50"
+        },
+        {
+            "task": "Response to reviewer's comments",
+            "weight": "15"
+        },
+        {
+            "task": "Oral presentation",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

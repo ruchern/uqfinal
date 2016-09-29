@@ -1,0 +1,32 @@
+{
+    "course": "POLS7107",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorials",
+            "weight": "10"
+        },
+        {
+            "task": "Essay (3000 words)",
+            "weight": "50"
+        },
+        {
+            "task": "Take Home Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

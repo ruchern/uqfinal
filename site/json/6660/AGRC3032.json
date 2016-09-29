@@ -1,0 +1,48 @@
+{
+    "course": "AGRC3032",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mind Map of Potential Research Project",
+            "weight": "5"
+        },
+        {
+            "task": "Aims and Research Questions",
+            "weight": "5"
+        },
+        {
+            "task": "Annotated bibliography of select refereed articles",
+            "weight": "10"
+        },
+        {
+            "task": "Group Assignment - Expt Design or Survey Design",
+            "weight": "15"
+        },
+        {
+            "task": "Group Assignment - Focus Group or Animal Studies",
+            "weight": "15"
+        },
+        {
+            "task": "Project proposal",
+            "weight": "10"
+        },
+        {
+            "task": "Written project proposal",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

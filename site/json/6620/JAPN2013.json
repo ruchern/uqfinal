@@ -1,0 +1,40 @@
+{
+    "course": "JAPN2013",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Kanji, vocabulary and sentence translation test",
+            "weight": "10"
+        },
+        {
+            "task": "Oral Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "End of Chapter 6",
+            "weight": "25"
+        },
+        {
+            "task": "End of Chapter 7",
+            "weight": "30"
+        },
+        {
+            "task": "Pair work tasks",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

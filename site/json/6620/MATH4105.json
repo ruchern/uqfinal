@@ -1,0 +1,56 @@
+{
+    "course": "MATH4105",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Number 1",
+            "weight": "5"
+        },
+        {
+            "task": "Number 2",
+            "weight": "5"
+        },
+        {
+            "task": "Number 3",
+            "weight": "5"
+        },
+        {
+            "task": "Number 4",
+            "weight": "5"
+        },
+        {
+            "task": "Number 5",
+            "weight": "5"
+        },
+        {
+            "task": "Number 6",
+            "weight": "5"
+        },
+        {
+            "task": "Number 7",
+            "weight": "5"
+        },
+        {
+            "task": "Number 8",
+            "weight": "5"
+        },
+        {
+            "task": "Final examination",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

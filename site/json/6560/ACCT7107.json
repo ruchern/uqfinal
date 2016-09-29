@@ -1,0 +1,40 @@
+{
+    "course": "ACCT7107",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "2 Quizzes",
+            "weight": "0"
+        },
+        {
+            "task": "Lecture topics 1 - 5",
+            "weight": "30"
+        },
+        {
+            "task": "Minor Case Study",
+            "weight": "7"
+        },
+        {
+            "task": "Major Case Study ",
+            "weight": "18"
+        },
+        {
+            "task": "Lecture topics 6 - 11 emphasised",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

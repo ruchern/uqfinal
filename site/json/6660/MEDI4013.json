@@ -1,0 +1,60 @@
+{
+    "course": "MEDI4013",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "mini-CEX #1 NEONATAL mini-CEX",
+            "weight": "5"
+        },
+        {
+            "task": "mini-CEX #2 LONG CASE mini-CEX",
+            "weight": "5"
+        },
+        {
+            "task": "mini-CEX #3 SHORT CASE mini-CEX",
+            "weight": "5"
+        },
+        {
+            "task": "OSCE Question 1",
+            "weight": "10"
+        },
+        {
+            "task": "OSCE Question 2",
+            "weight": "10"
+        },
+        {
+            "task": "OSCE Question 3",
+            "weight": "10"
+        },
+        {
+            "task": "OSCE Question 4",
+            "weight": "10"
+        },
+        {
+            "task": "MULTIPLE CHOICE QUESTIONS (MCQs)",
+            "weight": "45"
+        },
+        {
+            "task": "Clinical Participation Assessment",
+            "weight": "PASS/FAIL. To pass the course, students must pass this regardless of marks in other assessments."
+        },
+        {
+            "task": "Final Research Paper",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

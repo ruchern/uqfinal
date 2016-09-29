@@ -1,0 +1,48 @@
+{
+    "course": "CIVL4230",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Stress paths",
+            "weight": "0"
+        },
+        {
+            "task": "Mohr's circle",
+            "weight": "10"
+        },
+        {
+            "task": "Consolidation",
+            "weight": "0"
+        },
+        {
+            "task": "Retaining walls",
+            "weight": "10"
+        },
+        {
+            "task": "Critical state soil mechanics",
+            "weight": "0"
+        },
+        {
+            "task": "Case study of failure",
+            "weight": "10"
+        },
+        {
+            "task": "Final exam",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

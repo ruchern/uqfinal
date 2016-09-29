@@ -1,0 +1,32 @@
+{
+    "course": "ARCS2060",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Field Recording (including artefact analysis)",
+            "weight": "50"
+        },
+        {
+            "task": "Participation in the full fieldwork season",
+            "weight": "20"
+        },
+        {
+            "task": "Research Report",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

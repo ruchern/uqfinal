@@ -1,0 +1,40 @@
+{
+    "course": "HIST2707",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Major Essay",
+            "weight": "40"
+        },
+        {
+            "task": "Tutorial Attendance & Participation",
+            "weight": "10"
+        },
+        {
+            "task": "Weekly In-Class Quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Annotated Bibliography for Major Essay",
+            "weight": "10"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

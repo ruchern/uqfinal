@@ -1,0 +1,32 @@
+{
+    "course": "OCTY3207",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Student Practice Evaluation Form - Revised Edition",
+            "weight": "Final evaluation Non graded pass/fail"
+        },
+        {
+            "task": "Submission of placement documentation",
+            "weight": "Non graded compulsory component"
+        },
+        {
+            "task": "Participation in placement support tutorials.",
+            "weight": "Non graded compulsory component "
+        }
+    ],
+    "related": []
+}

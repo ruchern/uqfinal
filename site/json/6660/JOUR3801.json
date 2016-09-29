@@ -1,0 +1,28 @@
+{
+    "course": "JOUR3801",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Online",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Activity Log & Reflection",
+            "weight": "PASS/FAIL"
+        }
+    ],
+    "related": []
+}

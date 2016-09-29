@@ -1,0 +1,40 @@
+{
+    "course": "MINE3219",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Poster presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Mineralogical characterisation of ore",
+            "weight": "15"
+        },
+        {
+            "task": "Comminution Practical Exercises",
+            "weight": "15"
+        },
+        {
+            "task": "Integrated project",
+            "weight": "15"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

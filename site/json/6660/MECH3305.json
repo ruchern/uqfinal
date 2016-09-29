@@ -1,0 +1,36 @@
+{
+    "course": "MECH3305",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "In-class quizzes",
+            "weight": "20"
+        },
+        {
+            "task": " Age hardening behaviour of Al alloy",
+            "weight": "15"
+        },
+        {
+            "task": "Heat treatment of steels",
+            "weight": "15"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

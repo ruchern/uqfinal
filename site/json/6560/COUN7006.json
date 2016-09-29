@@ -1,0 +1,36 @@
+{
+    "course": "COUN7006",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "The Core Competencies of the Effective Counsellor",
+            "weight": "40"
+        },
+        {
+            "task": "Treatment Plan from Live Demonstration",
+            "weight": "30"
+        },
+        {
+            "task": "Becoming a Counsellor - Personal Self-Assessment",
+            "weight": "30"
+        },
+        {
+            "task": "Counselling Competency Interview",
+            "weight": "0"
+        }
+    ],
+    "related": []
+}

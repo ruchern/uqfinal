@@ -1,0 +1,36 @@
+{
+    "course": "OHSS3003",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Hygiene Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Managing Emerging Occupational Hygiene Issues",
+            "weight": "20"
+        },
+        {
+            "task": "Practical Report",
+            "weight": "25"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

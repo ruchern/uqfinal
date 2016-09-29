@@ -1,0 +1,32 @@
+{
+    "course": "CONS6009",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assessment 1 - Human-wildlife interactions",
+            "weight": "30"
+        },
+        {
+            "task": "Assessment 2 - Research report",
+            "weight": "20"
+        },
+        {
+            "task": "Final exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

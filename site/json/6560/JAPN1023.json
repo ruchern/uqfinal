@@ -1,0 +1,40 @@
+{
+    "course": "JAPN1023",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Class participation",
+            "weight": "5"
+        },
+        {
+            "task": "Writing & Listening Test 1",
+            "weight": "15"
+        },
+        {
+            "task": "Weather Reporting Presentation ",
+            "weight": "20"
+        },
+        {
+            "task": "Writing & Listening Test 2",
+            "weight": "15"
+        },
+        {
+            "task": "Final exam ",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

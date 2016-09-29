@@ -1,0 +1,36 @@
+{
+    "course": "AGRC2601",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Topic selection",
+            "weight": "5"
+        },
+        {
+            "task": "Concept map",
+            "weight": "5"
+        },
+        {
+            "task": "Assignment 1",
+            "weight": "45"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

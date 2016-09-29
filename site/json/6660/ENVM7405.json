@@ -1,0 +1,32 @@
+{
+    "course": "ENVM7405",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Identifying suitable natural analogues",
+            "weight": "15"
+        },
+        {
+            "task": "Remediation of post-mining soil substrates",
+            "weight": "35"
+        },
+        {
+            "task": "Final examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

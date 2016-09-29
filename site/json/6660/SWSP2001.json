@@ -1,0 +1,32 @@
+{
+    "course": "SWSP2001",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Presentation/Facilitated class discussion",
+            "weight": "20"
+        },
+        {
+            "task": "A critical examination of legislation or policy",
+            "weight": "40"
+        },
+        {
+            "task": "Critial reflection on optional topics",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

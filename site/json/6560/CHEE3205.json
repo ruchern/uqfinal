@@ -1,0 +1,44 @@
+{
+    "course": "CHEE3205",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Paper/computer-based exercises throughout semester",
+            "weight": "10"
+        },
+        {
+            "task": "In Class VBA Quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Mini Project 1: VBA and Circuit Mass Balances",
+            "weight": "10"
+        },
+        {
+            "task": "In Class Matlab Quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Mini Project 2: Modelling of Gold Leaching  ",
+            "weight": "10"
+        },
+        {
+            "task": "Final written examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

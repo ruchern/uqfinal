@@ -1,0 +1,56 @@
+{
+    "course": "ENGG1600",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Journal Entries",
+            "weight": "24"
+        },
+        {
+            "task": "Research Centre Overview",
+            "weight": "6"
+        },
+        {
+            "task": "Laboratory tour",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Data Collection",
+            "weight": "Pass/Fail "
+        },
+        {
+            "task": "Critical Review and Annotated Bibliography",
+            "weight": "20"
+        },
+        {
+            "task": "Peer review of drafts",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Placement Log",
+            "weight": "Pass/ Fail"
+        },
+        {
+            "task": "Conference Paper",
+            "weight": "30"
+        },
+        {
+            "task": "Oral",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

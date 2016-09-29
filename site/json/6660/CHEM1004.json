@@ -1,0 +1,40 @@
+{
+    "course": "CHEM1004",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "eQuizzes (Best 7 eQuizzes)",
+            "weight": "14"
+        },
+        {
+            "task": "eMid Sem Exam for ONLY External Students-Open Book",
+            "weight": "20"
+        },
+        {
+            "task": "Five Laboratory Experiments at Residential School",
+            "weight": "20"
+        },
+        {
+            "task": "Practical Examination at Residential School",
+            "weight": "6"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

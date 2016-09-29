@@ -1,0 +1,36 @@
+{
+    "course": "INFS2200",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Quiz 1",
+            "weight": "15"
+        },
+        {
+            "task": "Quiz 2",
+            "weight": "15"
+        },
+        {
+            "task": "Database Management",
+            "weight": "15"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "CHEE7501",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Individual Presentations on Technology/Management",
+            "weight": "20"
+        },
+        {
+            "task": "Individual presentation on complex systems",
+            "weight": "20"
+        },
+        {
+            "task": "One report on design/integration challenges",
+            "weight": "40"
+        },
+        {
+            "task": "Presentation of Challenge Report",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

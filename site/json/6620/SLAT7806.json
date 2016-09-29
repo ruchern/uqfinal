@@ -1,0 +1,44 @@
+{
+    "course": "SLAT7806",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research seminar web-log",
+            "weight": "9"
+        },
+        {
+            "task": "Developing academic language skills",
+            "weight": "6"
+        },
+        {
+            "task": "Library research project",
+            "weight": "35"
+        },
+        {
+            "task": "Research Proposal Outline Presentation",
+            "weight": "5"
+        },
+        {
+            "task": "Peer assessment - research proposal presentation",
+            "weight": "5"
+        },
+        {
+            "task": "Your research project",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

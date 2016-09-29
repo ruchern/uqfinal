@@ -1,0 +1,40 @@
+{
+    "course": "ENVM7202",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Formative assessment tasks",
+            "weight": "0"
+        },
+        {
+            "task": "Reflective Journal 1 (select 2 from weeks 1-4)",
+            "weight": "10"
+        },
+        {
+            "task": "Mini research project of your own choice",
+            "weight": "50"
+        },
+        {
+            "task": "Reflective Journal 2 (select 4 from topics 5-11)",
+            "weight": "15"
+        },
+        {
+            "task": "Communicating conservation",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

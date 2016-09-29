@@ -1,0 +1,36 @@
+{
+    "course": "ANTH1008",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Mid-semester in-class exam",
+            "weight": "20"
+        },
+        {
+            "task": "Research Essay",
+            "weight": "30"
+        },
+        {
+            "task": "Exam",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

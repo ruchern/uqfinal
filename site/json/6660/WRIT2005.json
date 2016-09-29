@@ -1,0 +1,40 @@
+{
+    "course": "WRIT2005",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial preparation & participation",
+            "weight": "10"
+        },
+        {
+            "task": "Library seminar assignment",
+            "weight": "5"
+        },
+        {
+            "task": "Research proposal",
+            "weight": "15"
+        },
+        {
+            "task": "Annotated bibliography and literature review",
+            "weight": "30"
+        },
+        {
+            "task": "Research essay",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "ENGG7282",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Project Execution",
+            "weight": "15"
+        },
+        {
+            "task": "Interim Report",
+            "weight": "15"
+        },
+        {
+            "task": "Final Report",
+            "weight": "70"
+        },
+        {
+            "task": "Reflection on professional development",
+            "weight": "0"
+        }
+    ],
+    "related": []
+}

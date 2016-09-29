@@ -1,0 +1,48 @@
+{
+    "course": "BIOC3000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": " Characterization of aminopeptidase",
+            "weight": "5"
+        },
+        {
+            "task": "Can we find a new inhibitor for amino peptidase?",
+            "weight": "5"
+        },
+        {
+            "task": "News and Views article",
+            "weight": "15"
+        },
+        {
+            "task": "NMR and X-ray structure determination",
+            "weight": "5"
+        },
+        {
+            "task": "Mock Grant proposal",
+            "weight": "20"
+        },
+        {
+            "task": "Molecular Visualization -PyMOL",
+            "weight": "5"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,32 @@
+{
+    "course": "MEDI7141",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "1. PICO and Database Search ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "2.Critical Appraisal of a Selected Journal Article",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "3. EBP Skills MCQ  ",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

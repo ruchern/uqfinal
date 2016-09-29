@@ -1,0 +1,32 @@
+{
+    "course": "PHRM3052",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-semester exam",
+            "weight": "30"
+        },
+        {
+            "task": "Pharmacokinetic calculations assignment",
+            "weight": "10"
+        },
+        {
+            "task": "Final written exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "HLTH7225",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Leadership & Management in a Changing Environment",
+            "weight": "40"
+        },
+        {
+            "task": "Delivering a Nursing / Midwifery Service",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

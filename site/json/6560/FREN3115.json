@@ -1,0 +1,44 @@
+{
+    "course": "FREN3115",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Bande sonore descriptive",
+            "weight": "20"
+        },
+        {
+            "task": "Test &#233;crit",
+            "weight": "15"
+        },
+        {
+            "task": "Fiche de travail ",
+            "weight": "10"
+        },
+        {
+            "task": "Discussion de votre dossier de textes",
+            "weight": "15"
+        },
+        {
+            "task": "Final written exam",
+            "weight": "20"
+        },
+        {
+            "task": "Dossier descriptif",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

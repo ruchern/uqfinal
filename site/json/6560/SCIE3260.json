@@ -1,0 +1,36 @@
+{
+    "course": "SCIE3260",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation in lectures and workshops",
+            "weight": "10"
+        },
+        {
+            "task": "Poster",
+            "weight": "20"
+        },
+        {
+            "task": "Research skills, performance & documentation",
+            "weight": "30"
+        },
+        {
+            "task": "Research report",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

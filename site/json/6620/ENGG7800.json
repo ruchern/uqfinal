@@ -1,0 +1,44 @@
+{
+    "course": "ENGG7800",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Presentation & Case Study(ENGG7800 Students Only)",
+            "weight": "15"
+        },
+        {
+            "task": "Project Proposal",
+            "weight": "10"
+        },
+        {
+            "task": "Mid Semester Examination - Class Quiz",
+            "weight": "15"
+        },
+        {
+            "task": "Practical Examination - MS Project Assignment",
+            "weight": "15"
+        },
+        {
+            "task": "Project Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Project Report",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

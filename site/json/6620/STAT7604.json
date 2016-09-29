@@ -1,0 +1,32 @@
+{
+    "course": "STAT7604",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Written Assignment 1",
+            "weight": "35"
+        },
+        {
+            "task": "Written assignment",
+            "weight": "35"
+        },
+        {
+            "task": "Module exercise 1-6",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,72 @@
+{
+    "course": "GREK1110",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Homework Assignment 1 (1A-D)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Progress Test",
+            "weight": "10"
+        },
+        {
+            "task": "Homework Assignment 2 (1E-G)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Homework Assignment 3 (1H-J)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Homework Assignment 4 (2A-D)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Mid-Semester Test",
+            "weight": "25"
+        },
+        {
+            "task": "Homework Assignment 5 (3A-B)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Homework Assignment 6 (3C-E)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Homework Assignment 7 (4A-B)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Homework Assignment 8 (4C-D)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Homework Assignment 9 (5A-D)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "Homework Assignment 10 (6A-D)",
+            "weight": "Part of total 15"
+        },
+        {
+            "task": "End-of-Semester Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

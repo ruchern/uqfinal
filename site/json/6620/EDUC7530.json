@@ -1,0 +1,36 @@
+{
+    "course": "EDUC7530",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Policies & Procedures for Professional Experience",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Professional Experience",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Observation Portfolio",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Implementation of Recent Educational Developments",
+            "weight": "1-7 grade (Pass/Fail)"
+        }
+    ],
+    "related": []
+}

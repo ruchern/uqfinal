@@ -1,0 +1,40 @@
+{
+    "course": "BIOL2200",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Report for Practical 1",
+            "weight": "10"
+        },
+        {
+            "task": "Report and Analysis of Journal Article",
+            "weight": "15"
+        },
+        {
+            "task": "Report for Practical 2",
+            "weight": "10"
+        },
+        {
+            "task": "Assessment: Modules 1, 2 and 3",
+            "weight": "15"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

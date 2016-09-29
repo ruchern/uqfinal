@@ -1,0 +1,36 @@
+{
+    "course": "JOUR1112",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Twitter-based introduction writing",
+            "weight": "20"
+        },
+        {
+            "task": "Story idea and pitch",
+            "weight": "20"
+        },
+        {
+            "task": "News story 1",
+            "weight": "25"
+        },
+        {
+            "task": "News story 2: story and images",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

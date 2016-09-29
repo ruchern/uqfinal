@@ -1,0 +1,36 @@
+{
+    "course": "MUSC2610",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Composition participation (Create)",
+            "weight": "25"
+        },
+        {
+            "task": "Wiki pages (Explain)",
+            "weight": "25"
+        },
+        {
+            "task": "Collaborative cover version (Collaborate)",
+            "weight": "20"
+        },
+        {
+            "task": "Final exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

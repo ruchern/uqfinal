@@ -1,0 +1,40 @@
+{
+    "course": "MINE4123",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Supervisor Consultation",
+            "weight": "5"
+        },
+        {
+            "task": "Project Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Examiners' Copy",
+            "weight": "65"
+        },
+        {
+            "task": "AusIMM Proceedings",
+            "weight": "15"
+        },
+        {
+            "task": "Revised Copy",
+            "weight": "0"
+        }
+    ],
+    "related": []
+}

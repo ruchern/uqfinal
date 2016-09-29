@@ -1,0 +1,28 @@
+{
+    "course": "NURS7112",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Synopsis",
+            "weight": "60"
+        },
+        {
+            "task": "Group Work - Presentation",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

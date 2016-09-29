@@ -1,0 +1,36 @@
+{
+    "course": "SPCH1201",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Submission of Fieldwork Results",
+            "weight": "15"
+        },
+        {
+            "task": "Semantics Report",
+            "weight": "30"
+        },
+        {
+            "task": "Articulation/Phonology Report",
+            "weight": "30"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

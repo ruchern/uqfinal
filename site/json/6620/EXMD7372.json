@@ -1,0 +1,52 @@
+{
+    "course": "EXMD7372",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Clinical Note-taking",
+            "weight": "10"
+        },
+        {
+            "task": "Site Supervisors report",
+            "weight": "5"
+        },
+        {
+            "task": "Meeting milestones",
+            "weight": "5"
+        },
+        {
+            "task": "Reflective practice diary",
+            "weight": "15"
+        },
+        {
+            "task": "ESSA-compliant Log of hours",
+            "weight": "10"
+        },
+        {
+            "task": "Student Professional Conduct",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "PBL Assignment",
+            "weight": "35"
+        },
+        {
+            "task": "Critical Evaluation of Current practice",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

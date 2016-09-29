@@ -1,0 +1,32 @@
+{
+    "course": "RBUS6901",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Conducting a qualitative management study",
+            "weight": "35"
+        },
+        {
+            "task": "Seminar on a qualititive research approach",
+            "weight": "5"
+        },
+        {
+            "task": "Using qualitative approaches in your own research ",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

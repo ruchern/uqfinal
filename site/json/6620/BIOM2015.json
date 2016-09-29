@@ -1,0 +1,60 @@
+{
+    "course": "BIOM2015",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Disruption of homeostasis video or written text",
+            "weight": "19"
+        },
+        {
+            "task": "Laboratory quiz (Spirometry)",
+            "weight": "3"
+        },
+        {
+            "task": "Laboratory quiz (Oral Glucose Tolerance Test)",
+            "weight": "3"
+        },
+        {
+            "task": "Laboratory Quiz (Blood Pressure)",
+            "weight": "3"
+        },
+        {
+            "task": "Laboratory Quiz (ECG)",
+            "weight": "3"
+        },
+        {
+            "task": "Laboratory Quiz (Exercise)",
+            "weight": "3"
+        },
+        {
+            "task": "Laboratory quiz (Parkinson's Disease)",
+            "weight": "3"
+        },
+        {
+            "task": "Laboratory quiz (Somatosensory)",
+            "weight": "3"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "15"
+        },
+        {
+            "task": "End of Semester Theory Examination",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

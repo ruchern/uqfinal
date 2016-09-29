@@ -1,0 +1,32 @@
+{
+    "course": "PSYC8171",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Diagnosis and Management of Paediatric Disorders",
+            "weight": "30"
+        },
+        {
+            "task": "Neuropsychological rehabilitation",
+            "weight": "40"
+        },
+        {
+            "task": "Written Case Rehabilitation Report",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

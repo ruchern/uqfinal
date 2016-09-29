@@ -1,0 +1,32 @@
+{
+    "course": "MUSC4500",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Thesis Paper / Lecture-demonstration",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Honours Thesis",
+            "weight": "100"
+        },
+        {
+            "task": "Portfolio of Artistic Research",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,48 @@
+{
+    "course": "ARCS2050",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Photograph Analysis",
+            "weight": "5"
+        },
+        {
+            "task": "Themes in Historical Archaeology",
+            "weight": "30"
+        },
+        {
+            "task": "Ceramics",
+            "weight": "5"
+        },
+        {
+            "task": "Bottles",
+            "weight": "5"
+        },
+        {
+            "task": "Other Artefacts",
+            "weight": "5"
+        },
+        {
+            "task": "Workshop",
+            "weight": "10"
+        },
+        {
+            "task": "ARCS2050 Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,48 @@
+{
+    "course": "FREN3114",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Paragraph based on tutorial discussion",
+            "weight": "5"
+        },
+        {
+            "task": "Podcast and script",
+            "weight": "30"
+        },
+        {
+            "task": "Paragraph based on tutorial discussion",
+            "weight": "5"
+        },
+        {
+            "task": "Paragraph based on tutorial discussion",
+            "weight": "5"
+        },
+        {
+            "task": "Discussion du roman policier",
+            "weight": "15"
+        },
+        {
+            "task": "Transformation de texte",
+            "weight": "20"
+        },
+        {
+            "task": "Policier",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

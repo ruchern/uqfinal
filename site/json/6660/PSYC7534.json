@@ -1,0 +1,40 @@
+{
+    "course": "PSYC7534",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Addition of Assistant Supervisor Form",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Practicum Supervision Logbook",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Practicum Activity Logbook",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Mid-Point and Final Review",
+            "weight": "This is the most important part of the assessment"
+        },
+        {
+            "task": "Practicum Folio",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

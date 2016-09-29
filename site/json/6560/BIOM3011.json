@@ -1,0 +1,36 @@
+{
+    "course": "BIOM3011",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Antimicrobial Drugs and Resistance Quiz",
+            "weight": "15"
+        },
+        {
+            "task": "Asthma Quiz",
+            "weight": "5"
+        },
+        {
+            "task": "Respiratory Disease Case Study and Reflection",
+            "weight": "20"
+        },
+        {
+            "task": "Theory Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

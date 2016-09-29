@@ -1,0 +1,36 @@
+{
+    "course": "LAWS7124",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Prepared answer and class participation",
+            "weight": "9 marks"
+        },
+        {
+            "task": "Mid-semester take home 2000 words",
+            "weight": "40 marks"
+        },
+        {
+            "task": "Skills sessions: Weeks 12 and 13",
+            "weight": "6 marks"
+        },
+        {
+            "task": "Law Reform Submission 2500 words",
+            "weight": "45 marks"
+        }
+    ],
+    "related": []
+}

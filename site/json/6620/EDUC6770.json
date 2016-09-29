@@ -1,0 +1,36 @@
+{
+    "course": "EDUC6770",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation in Workshops",
+            "weight": "10"
+        },
+        {
+            "task": "1. Laboratory-based activity",
+            "weight": "30"
+        },
+        {
+            "task": "2. Hard-to-teach Biology Concepts",
+            "weight": "30"
+        },
+        {
+            "task": "3. Contemporary Biological Sciences",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

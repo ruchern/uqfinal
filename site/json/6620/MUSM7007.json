@@ -1,0 +1,28 @@
+{
+    "course": "MUSM7007",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Preparatory Project Plan",
+            "weight": "40"
+        },
+        {
+            "task": "Museum Project Report ",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

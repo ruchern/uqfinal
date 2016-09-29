@@ -1,0 +1,40 @@
+{
+    "course": "SLAT2001",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Analysis of learner language",
+            "weight": "25"
+        },
+        {
+            "task": "Reflective essay (Widening Horizons project)",
+            "weight": "25"
+        },
+        {
+            "task": "Reflective essay",
+            "weight": "35"
+        },
+        {
+            "task": "Theoretical essay",
+            "weight": "40"
+        },
+        {
+            "task": "Portfolio (Widening Horizon Project)",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "EDUC3004",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Teaching & Professionalism",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Inclusive Education",
+            "weight": "30"
+        },
+        {
+            "task": "Motor Active",
+            "weight": "25"
+        },
+        {
+            "task": "Teaching Showcase",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

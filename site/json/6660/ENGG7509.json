@@ -1,0 +1,36 @@
+{
+    "course": "ENGG7509",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Project execution mark (supervisor assessed)",
+            "weight": "10"
+        },
+        {
+            "task": "Research Project Proposal",
+            "weight": "Compulsory"
+        },
+        {
+            "task": "Final project report and thesis",
+            "weight": "80"
+        },
+        {
+            "task": "Oral Presentation",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

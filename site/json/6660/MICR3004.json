@@ -1,0 +1,36 @@
+{
+    "course": "MICR3004",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory Notebooks",
+            "weight": "10"
+        },
+        {
+            "task": "MicrobeWiki webpage",
+            "weight": "10"
+        },
+        {
+            "task": "Oral microbiome report",
+            "weight": "20"
+        },
+        {
+            "task": "Final Exam Microbial Genomics",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

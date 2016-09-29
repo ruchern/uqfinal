@@ -1,0 +1,44 @@
+{
+    "course": "MECH2210",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Internet Revision Quiz of 1st yr dynamics",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Quizzes (1 each for sect. A, B1 & B2)",
+            "weight": "max 15"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "min 45"
+        },
+        {
+            "task": "Section A Assignments (2)",
+            "weight": "10"
+        },
+        {
+            "task": "Section B Assignments (2)",
+            "weight": "10"
+        },
+        {
+            "task": "Formal Reports(2) & Logbook entries(4)",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

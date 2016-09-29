@@ -1,0 +1,40 @@
+{
+    "course": "DENT8020",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Clinical/Practical Examination ",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Theory Assessment",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Clinical Log",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Seminar Participation",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Viva Voce",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

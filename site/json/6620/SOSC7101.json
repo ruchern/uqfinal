@@ -1,0 +1,36 @@
+{
+    "course": "SOSC7101",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Ethical Clearance",
+            "weight": "0"
+        },
+        {
+            "task": "Mandatory Outline of Research Thesis",
+            "weight": "0"
+        },
+        {
+            "task": "Meetings with Supervisors",
+            "weight": "0"
+        },
+        {
+            "task": "Research Thesis",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,32 @@
+{
+    "course": "HORT3008",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Literature review on chosen topic",
+            "weight": "25"
+        },
+        {
+            "task": "Presentation slides and speaker notes",
+            "weight": "20"
+        },
+        {
+            "task": "Final examination",
+            "weight": "55"
+        }
+    ],
+    "related": []
+}

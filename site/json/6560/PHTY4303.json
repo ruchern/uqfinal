@@ -1,0 +1,44 @@
+{
+    "course": "PHTY4303",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Group A: Complex Case: Video Project, Q&A session",
+            "weight": "25"
+        },
+        {
+            "task": "Group A: Complex Case: Individual component",
+            "weight": "25"
+        },
+        {
+            "task": "Group B: Clinical immersion ",
+            "weight": "50"
+        },
+        {
+            "task": "Group B: Complex Case: Individual component",
+            "weight": "25"
+        },
+        {
+            "task": "Group B: Complex Case: Video, Q&A session",
+            "weight": "25"
+        },
+        {
+            "task": "Group A: Clinical immersion",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "ENGG7602",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Raman Spectral Analysis",
+            "weight": "20"
+        },
+        {
+            "task": "3D scanning",
+            "weight": "20"
+        },
+        {
+            "task": "Microcontroller for signal processing",
+            "weight": "20"
+        },
+        {
+            "task": "Nanomechanical testing",
+            "weight": "20"
+        },
+        {
+            "task": "Electron Microscopy",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

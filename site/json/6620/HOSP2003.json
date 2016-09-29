@@ -1,0 +1,36 @@
+{
+    "course": "HOSP2003",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Pitch of Business Idea",
+            "weight": "20"
+        },
+        {
+            "task": "Panel Participation",
+            "weight": "10"
+        },
+        {
+            "task": "Critical Review of Small Hospitality Business",
+            "weight": "20"
+        },
+        {
+            "task": " Business Plan",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

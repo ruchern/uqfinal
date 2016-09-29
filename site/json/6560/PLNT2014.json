@@ -1,0 +1,48 @@
+{
+    "course": "PLNT2014",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Lessons 1-9",
+            "weight": "20"
+        },
+        {
+            "task": "Turfgrass Species identification",
+            "weight": "5"
+        },
+        {
+            "task": "Elite Sports Turf installations",
+            "weight": "5"
+        },
+        {
+            "task": "A major Australian turfgrass disease",
+            "weight": "20"
+        },
+        {
+            "task": "Non-Elite Sports Turf installations",
+            "weight": "5"
+        },
+        {
+            "task": "Turfgrass production farm",
+            "weight": "5"
+        },
+        {
+            "task": "Final exam - All lessons, field days and pracs.",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

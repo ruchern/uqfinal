@@ -1,0 +1,36 @@
+{
+    "course": "ECON7310",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid Semester Exam",
+            "weight": "25"
+        },
+        {
+            "task": "Stage 1 of Research Project: Research Proposal",
+            "weight": "10"
+        },
+        {
+            "task": "Final Exam ",
+            "weight": "55"
+        },
+        {
+            "task": "Stage 2 of Research Project: Implementation",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

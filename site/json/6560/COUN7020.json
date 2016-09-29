@@ -1,0 +1,52 @@
+{
+    "course": "COUN7020",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Learning Journal",
+            "weight": "Personal Development"
+        },
+        {
+            "task": "Supervision Contract",
+            "weight": "Formative"
+        },
+        {
+            "task": "Core Skills Competency Checklist",
+            "weight": "Formative"
+        },
+        {
+            "task": "Formative Supervisor Evaluation of Student Prac",
+            "weight": "Formative"
+        },
+        {
+            "task": "Practicum Report Portfolio",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Assignment 1 : Project Proposal",
+            "weight": "40"
+        },
+        {
+            "task": "Three Minute Thesis Presentation",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 2: Project Report",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

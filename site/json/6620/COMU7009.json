@@ -1,0 +1,36 @@
+{
+    "course": "COMU7009",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Options 1 & 2: Thesis plan & Negotiated Criteria",
+            "weight": "Pass/Fail 1200 words (minimum); you must complete this to proceed with your thesis"
+        },
+        {
+            "task": "Options 1 & 2: Thesis Draft",
+            "weight": "Pass/Fail Milestone (Thesis 5,000 words minimum); Project (exegesis-3000 words minimum; + package)"
+        },
+        {
+            "task": "Option 2: Communication project",
+            "weight": "100"
+        },
+        {
+            "task": "Option 1: Communication research thesis",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

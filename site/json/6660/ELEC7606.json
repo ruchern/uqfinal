@@ -1,0 +1,40 @@
+{
+    "course": "ELEC7606",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "The Medical Imaging Problem",
+            "weight": "10"
+        },
+        {
+            "task": "X-ray Computed Tomography (ELEC7606)",
+            "weight": "30"
+        },
+        {
+            "task": "Mid-semester Examination",
+            "weight": "20"
+        },
+        {
+            "task": "The Future of Medical Imaging",
+            "weight": "10"
+        },
+        {
+            "task": "Examination",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

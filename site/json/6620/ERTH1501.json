@@ -1,0 +1,44 @@
+{
+    "course": "ERTH1501",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical Workbook",
+            "weight": "10"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "15"
+        },
+        {
+            "task": "Practical Exam",
+            "weight": "20"
+        },
+        {
+            "task": "Practical Attendance",
+            "weight": "10"
+        },
+        {
+            "task": "Virtual Field Trip",
+            "weight": "5"
+        },
+        {
+            "task": "Theory Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

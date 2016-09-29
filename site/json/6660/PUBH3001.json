@@ -1,0 +1,36 @@
+{
+    "course": "PUBH3001",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "MINI LITERATURE SEARCH AND REVIEW",
+            "weight": "15"
+        },
+        {
+            "task": "IN-CLASS QUIZ",
+            "weight": "20"
+        },
+        {
+            "task": "SUMMARY OF GROUP-BASED CLASS ACTIVITIES",
+            "weight": "25"
+        },
+        {
+            "task": "INDIVIDUAL WRITTEN REPORT",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "RBUS3903",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Social Impact Model Assumption Testing",
+            "weight": "10"
+        },
+        {
+            "task": "Social Business Model",
+            "weight": "40"
+        },
+        {
+            "task": "Individual Impact Statement",
+            "weight": "40"
+        },
+        {
+            "task": "Peer Evaluation",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

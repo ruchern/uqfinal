@@ -1,0 +1,36 @@
+{
+    "course": "PUBH7630",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1",
+            "weight": "20"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "20"
+        },
+        {
+            "task": "Assignment 3",
+            "weight": "40"
+        },
+        {
+            "task": "Assignment 4",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

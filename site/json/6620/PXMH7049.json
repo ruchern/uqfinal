@@ -1,0 +1,28 @@
+{
+    "course": "PXMH7049",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Supervision Reports",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Practicum Log",
+            "weight": "pass/fail"
+        }
+    ],
+    "related": []
+}

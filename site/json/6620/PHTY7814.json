@@ -1,0 +1,40 @@
+{
+    "course": "PHTY7814",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Motor Assessment Scale Scoring",
+            "weight": "10"
+        },
+        {
+            "task": "Problem solving case studies",
+            "weight": "20"
+        },
+        {
+            "task": "Problem solving practical exam ",
+            "weight": "30"
+        },
+        {
+            "task": "Practical skills & problem solving exam ",
+            "weight": "25"
+        },
+        {
+            "task": "Functional task analysis",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

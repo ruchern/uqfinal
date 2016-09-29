@@ -1,0 +1,40 @@
+{
+    "course": "ANTH3140",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation and discussion",
+            "weight": "5"
+        },
+        {
+            "task": "Tutorial discussion leadership",
+            "weight": "15"
+        },
+        {
+            "task": "Essay Proposal",
+            "weight": "20"
+        },
+        {
+            "task": "Final Essay",
+            "weight": "40"
+        },
+        {
+            "task": "Presentation",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

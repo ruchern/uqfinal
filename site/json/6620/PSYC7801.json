@@ -1,0 +1,36 @@
+{
+    "course": "PSYC7801",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Submission of DVD One for Review (All Students) ",
+            "weight": "Not Weighted Alone"
+        },
+        {
+            "task": "The Scientist and the Practitioner in Counselling",
+            "weight": "25"
+        },
+        {
+            "task": "Submission of Second DVD and Commentary ",
+            "weight": "35"
+        },
+        {
+            "task": "Competency Interview",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

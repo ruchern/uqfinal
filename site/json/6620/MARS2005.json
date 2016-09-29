@@ -1,0 +1,36 @@
+{
+    "course": "MARS2005",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Blackboard quizes",
+            "weight": "21"
+        },
+        {
+            "task": "Introductory Skills in Scientific Communication",
+            "weight": "9"
+        },
+        {
+            "task": "Coral Reef Environments",
+            "weight": "30"
+        },
+        {
+            "task": "End of semester exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

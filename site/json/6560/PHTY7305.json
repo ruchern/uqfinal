@@ -1,0 +1,36 @@
+{
+    "course": "PHTY7305",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assessment presentation discussions",
+            "weight": "20"
+        },
+        {
+            "task": "Pathoanatomic/mechanics of common sports injury",
+            "weight": "15"
+        },
+        {
+            "task": "Exercise program",
+            "weight": "35"
+        },
+        {
+            "task": "Sporting analysis - clinical perspective",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

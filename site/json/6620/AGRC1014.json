@@ -1,0 +1,40 @@
+{
+    "course": "AGRC1014",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Pasture report 1",
+            "weight": "12.5"
+        },
+        {
+            "task": "Pasture report 2",
+            "weight": "12.5"
+        },
+        {
+            "task": "Crop Report 1 - Climatic Effect on Crop Production",
+            "weight": "12.5"
+        },
+        {
+            "task": "Challenges to Sustainable Cropping Systems ",
+            "weight": "12.5"
+        },
+        {
+            "task": "Theory Final Exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

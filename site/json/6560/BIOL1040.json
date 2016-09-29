@@ -1,0 +1,84 @@
+{
+    "course": "BIOL1040",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical Core Competencies (4)",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Practical Report - Osmosis",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Practical Report - Action Potential",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Practical Report - Skeletal Muscle",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Practical Report - Integration",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Practical Report - Plants",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Personal Response",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Professional Response",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "PowerPoint Presentation",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "On-line Discussion: Deadline for posting questions",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "On-line Discussion: Deadline for posting answers",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Group Work",
+            "weight": "See Grading Matrix"
+        },
+        {
+            "task": "Knowledge - Mastering Biology Quiz 1 - Modules 1&2",
+            "weight": "5"
+        },
+        {
+            "task": "Knowledge - Mastering Biology Quiz 2 - Modules 3&4",
+            "weight": "5"
+        },
+        {
+            "task": "Knowledge - Mastering Biology Quiz 3 - Modules 5&6",
+            "weight": "5"
+        },
+        {
+            "task": "Knowledge - Examination",
+            "weight": "85"
+        }
+    ],
+    "related": []
+}

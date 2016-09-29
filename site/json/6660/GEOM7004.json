@@ -1,0 +1,40 @@
+{
+    "course": "GEOM7004",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly quizzes on lectures",
+            "weight": "25"
+        },
+        {
+            "task": "Foundation in programming and use of geodata",
+            "weight": "15"
+        },
+        {
+            "task": "Geodata access and geoprocessing workflows",
+            "weight": "15"
+        },
+        {
+            "task": "Feature geoprocessing and web cartography",
+            "weight": "15"
+        },
+        {
+            "task": "Geospatial project",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

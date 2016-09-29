@@ -1,0 +1,72 @@
+{
+    "course": "MRES7008",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Week 1 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Week 2 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Assignment One",
+            "weight": "15"
+        },
+        {
+            "task": "Week 3 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Week 4 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Week 5 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Week 6 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Week 7 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Week 8 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Our imaging results",
+            "weight": "15"
+        },
+        {
+            "task": "Week 9 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Week 10 Quiz",
+            "weight": "3"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

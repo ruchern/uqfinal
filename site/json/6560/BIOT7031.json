@@ -1,0 +1,40 @@
+{
+    "course": "BIOT7031",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Case Study of GLP",
+            "weight": "15"
+        },
+        {
+            "task": "Case studies of GCP and GMP",
+            "weight": "30"
+        },
+        {
+            "task": "Quality Systems and Safety in Biotechnology",
+            "weight": "10"
+        },
+        {
+            "task": "Develop a Study Plan for GLP sub-Acute Tox study",
+            "weight": "20"
+        },
+        {
+            "task": "Develop a Final Report for GLP sub-Acute Tox study",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

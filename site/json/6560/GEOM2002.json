@@ -1,0 +1,40 @@
+{
+    "course": "GEOM2002",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly quiz related to lecture ",
+            "weight": "20"
+        },
+        {
+            "task": "Practical Exercise 1 on GIS Mapping",
+            "weight": "12.5"
+        },
+        {
+            "task": "Practical Exercise 2 on GIS Analysis",
+            "weight": "12.5"
+        },
+        {
+            "task": "GIS land use suitability project",
+            "weight": "25"
+        },
+        {
+            "task": "Final",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,44 @@
+{
+    "course": "DECO2300",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Prototype Suite",
+            "weight": "75"
+        },
+        {
+            "task": "Video Prototype",
+            "weight": "25"
+        },
+        {
+            "task": "Interactive Prototype I",
+            "weight": "25"
+        },
+        {
+            "task": "Interactive Prototype II",
+            "weight": "25"
+        },
+        {
+            "task": "Interactive Prototype III",
+            "weight": "25"
+        },
+        {
+            "task": "Prototyping Designs",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

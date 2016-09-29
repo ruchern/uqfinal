@@ -1,0 +1,36 @@
+{
+    "course": "MATH3201",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "ODE Boundary Value Problem",
+            "weight": "20"
+        },
+        {
+            "task": "Theory Exam",
+            "weight": "30"
+        },
+        {
+            "task": "PDE Boundary Value Problem",
+            "weight": "20"
+        },
+        {
+            "task": "Computer Laboratory Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

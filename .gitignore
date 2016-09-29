@@ -1,0 +1,6 @@
+.idea
+vendor
+composer.lock
+*.pyc
+scraper/json/*
+scraper/courses.csv

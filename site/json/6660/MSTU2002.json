@@ -1,0 +1,32 @@
+{
+    "course": "MSTU2002",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1: Part A Annotated Bibliography",
+            "weight": "Pass/Fail  600 word limit"
+        },
+        {
+            "task": "Assignment 1: Part B Content Analysis",
+            "weight": "50"
+        },
+        {
+            "task": "Assignment 2: Discourse Analysis ",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

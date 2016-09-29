@@ -1,0 +1,40 @@
+{
+    "course": "POLS3512",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Choice of assessment",
+            "weight": "25"
+        },
+        {
+            "task": "MediaLab Participation",
+            "weight": "5"
+        },
+        {
+            "task": "Surveys and uploads",
+            "weight": "12"
+        },
+        {
+            "task": "Tutorial Participation",
+            "weight": "18"
+        },
+        {
+            "task": "Long Essay",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

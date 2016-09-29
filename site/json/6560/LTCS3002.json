@@ -1,0 +1,36 @@
+{
+    "course": "LTCS3002",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Report on T/I practices x 3",
+            "weight": "60"
+        },
+        {
+            "task": "3M presentation",
+            "weight": "5"
+        },
+        {
+            "task": "Class participation",
+            "weight": "5"
+        },
+        {
+            "task": "Final exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

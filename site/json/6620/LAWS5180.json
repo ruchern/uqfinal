@@ -1,0 +1,44 @@
+{
+    "course": "LAWS5180",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reflective journal/report",
+            "weight": "Mandatory"
+        },
+        {
+            "task": "Legal letter writing",
+            "weight": "Mandatory"
+        },
+        {
+            "task": "Group projects",
+            "weight": "Mandatory"
+        },
+        {
+            "task": "Client interviews",
+            "weight": "Mandatory"
+        },
+        {
+            "task": "Attendance at all clinical and induction sessions",
+            "weight": "Mandatory"
+        },
+        {
+            "task": "Research project",
+            "weight": "Mandatory"
+        }
+    ],
+    "related": []
+}

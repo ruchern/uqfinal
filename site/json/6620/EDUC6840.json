@@ -1,0 +1,40 @@
+{
+    "course": "EDUC6840",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Workshops and tutorials",
+            "weight": "0"
+        },
+        {
+            "task": "Peer teaching",
+            "weight": "0"
+        },
+        {
+            "task": "Numeracy in the News",
+            "weight": "33"
+        },
+        {
+            "task": "Technology seminar",
+            "weight": "33"
+        },
+        {
+            "task": "Senior mathematics assessment task",
+            "weight": "33"
+        }
+    ],
+    "related": []
+}

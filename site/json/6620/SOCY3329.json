@@ -1,0 +1,44 @@
+{
+    "course": "SOCY3329",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Week 4 online quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Report on group analysis",
+            "weight": "25"
+        },
+        {
+            "task": "Reflective journal on group work",
+            "weight": "10"
+        },
+        {
+            "task": "Small scale qualitative research project proposal",
+            "weight": "15"
+        },
+        {
+            "task": "Week 13 quiz",
+            "weight": "10"
+        },
+        {
+            "task": "Small scale qualitative research project report",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,48 @@
+{
+    "course": "ENGG7000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 5.  Verbal presentation",
+            "weight": "8"
+        },
+        {
+            "task": "Peer assessment of group work",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Assignment 1.  OCD",
+            "weight": "8"
+        },
+        {
+            "task": "Assignment 2.  SRS",
+            "weight": "12"
+        },
+        {
+            "task": "Assignment 3. SRR",
+            "weight": "4"
+        },
+        {
+            "task": "Assignment 4.  SDD",
+            "weight": "16"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "52"
+        }
+    ],
+    "related": []
+}

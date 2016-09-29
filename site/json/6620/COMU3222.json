@@ -1,0 +1,28 @@
+{
+    "course": "COMU3222",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Comparing successful and unsuccessful spin",
+            "weight": "50"
+        },
+        {
+            "task": "Influencing Public Opinion",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

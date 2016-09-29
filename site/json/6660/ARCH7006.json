@@ -1,0 +1,28 @@
+{
+    "course": "ARCH7006",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research, Field Trip and Project concept",
+            "weight": "40"
+        },
+        {
+            "task": "Architectural Project ",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

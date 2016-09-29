@@ -1,0 +1,56 @@
+{
+    "course": "MEDI4020",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Orthopaedics MCQ Exam",
+            "weight": "25"
+        },
+        {
+            "task": "Orthopaedics Clinical Case Presentation (CCP)",
+            "weight": "25"
+        },
+        {
+            "task": "Orthopaedics Assessment of Clinical Competency ",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Orthopaedics Clinical Participation Assessments",
+            "weight": "PASS/FAIL "
+        },
+        {
+            "task": "Ophthalmology Clinical Participation Assessment ",
+            "weight": "PASS/FAIL "
+        },
+        {
+            "task": "Ophthalmology Assessment of Clinical Competency ",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Ophthalmology MCQ Exam",
+            "weight": "25"
+        },
+        {
+            "task": "Surgical Specialty Option Problem Oriented Medical",
+            "weight": "25"
+        },
+        {
+            "task": "Surgical Spec Clinical Participation Assessment",
+            "weight": "PASS/FAIL "
+        }
+    ],
+    "related": []
+}

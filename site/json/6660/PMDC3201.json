@@ -1,0 +1,40 @@
+{
+    "course": "PMDC3201",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Paediatric Life Support - Advanced Skills",
+            "weight": "2.5"
+        },
+        {
+            "task": "Paediatric Life Support - Core Skills",
+            "weight": "2.5"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "30"
+        },
+        {
+            "task": "End of Semester Practical Exam",
+            "weight": "40"
+        },
+        {
+            "task": "End of Semester Theory Exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

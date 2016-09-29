@@ -1,0 +1,52 @@
+{
+    "course": "MECH4301",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "T1: Use of Materials Selection Charts",
+            "weight": "5"
+        },
+        {
+            "task": "T2: Material Indices",
+            "weight": "10"
+        },
+        {
+            "task": "T3: Materials and Shape",
+            "weight": "10"
+        },
+        {
+            "task": "T4: Multiple Constraints",
+            "weight": "5"
+        },
+        {
+            "task": "Selection of Foams",
+            "weight": "15"
+        },
+        {
+            "task": "T5: Conflicting Objectives",
+            "weight": "7.5"
+        },
+        {
+            "task": "T6: Hybrid Materials",
+            "weight": "7.5"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

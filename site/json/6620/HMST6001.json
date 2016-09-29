@@ -1,0 +1,28 @@
+{
+    "course": "HMST6001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Plan",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Honours Research Thesis",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

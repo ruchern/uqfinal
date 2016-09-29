@@ -1,0 +1,36 @@
+{
+    "course": "EDUC2712",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Policies & Procedures for Professional Experiences",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Practicum",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Statement of Philosophy of Teaching",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Portfolio of lesson plans and associated resources",
+            "weight": "Pass/Fail"
+        }
+    ],
+    "related": []
+}

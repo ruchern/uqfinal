@@ -1,0 +1,36 @@
+{
+    "course": "COMU1152",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Participation",
+            "weight": "10"
+        },
+        {
+            "task": "PR Writing Foundations",
+            "weight": "10"
+        },
+        {
+            "task": "Portfolio of PR Tools",
+            "weight": "55"
+        },
+        {
+            "task": "Digital Communication Tools",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

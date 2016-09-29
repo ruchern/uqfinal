@@ -1,0 +1,48 @@
+{
+    "course": "ARCS2168",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Practical Quiz 1",
+            "weight": "5"
+        },
+        {
+            "task": "Annotated bibliography",
+            "weight": "10"
+        },
+        {
+            "task": "Practical Quiz 2",
+            "weight": "5"
+        },
+        {
+            "task": "Practical Quiz 3",
+            "weight": "5"
+        },
+        {
+            "task": "Essay on human evolution",
+            "weight": "35"
+        },
+        {
+            "task": "Practical Quiz 4",
+            "weight": "5"
+        },
+        {
+            "task": "Final Exam (Multiple Choice)",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

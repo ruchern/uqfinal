@@ -1,0 +1,40 @@
+{
+    "course": "GEOG2104",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Weekly Reading Reflection",
+            "weight": "20"
+        },
+        {
+            "task": "Report #1:  The Infrastructural Needs of Cities",
+            "weight": "20"
+        },
+        {
+            "task": "Report #2:  Defining Southeast Qld as a Region",
+            "weight": "20"
+        },
+        {
+            "task": "Field Trip Report",
+            "weight": "5"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

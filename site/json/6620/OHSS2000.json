@@ -1,0 +1,36 @@
+{
+    "course": "OHSS2000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Participation in workshops",
+            "weight": "10"
+        },
+        {
+            "task": "Mid-semester test",
+            "weight": "30"
+        },
+        {
+            "task": "Assignment ",
+            "weight": "30"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

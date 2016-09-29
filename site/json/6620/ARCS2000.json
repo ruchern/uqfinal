@@ -1,0 +1,32 @@
+{
+    "course": "ARCS2000",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "In-Class Exam 1",
+            "weight": "30"
+        },
+        {
+            "task": "Scientific Analysis in Archaeology",
+            "weight": "35"
+        },
+        {
+            "task": "Exam 2",
+            "weight": "35"
+        }
+    ],
+    "related": []
+}

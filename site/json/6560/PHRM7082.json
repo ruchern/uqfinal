@@ -1,0 +1,52 @@
+{
+    "course": "PHRM7082",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Learning Portfolio Exercises",
+            "weight": "Satisfactory/Unsatisfactory"
+        },
+        {
+            "task": "Medication Management Review",
+            "weight": "20"
+        },
+        {
+            "task": "Discussion Block 5",
+            "weight": "15"
+        },
+        {
+            "task": "Lectures and Workshops",
+            "weight": "Attendance and participation"
+        },
+        {
+            "task": "Discussion Block 6",
+            "weight": "15"
+        },
+        {
+            "task": "Discussion Block 7",
+            "weight": "15"
+        },
+        {
+            "task": "Oral Examination",
+            "weight": "35"
+        },
+        {
+            "task": "Lectures and Workshops",
+            "weight": "Attendance and participation"
+        }
+    ],
+    "related": []
+}

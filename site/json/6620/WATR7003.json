@@ -1,0 +1,36 @@
+{
+    "course": "WATR7003",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assess 2: Reflection on readings",
+            "weight": "20"
+        },
+        {
+            "task": "Oral summary of important water governance issue",
+            "weight": "10"
+        },
+        {
+            "task": "Assess 3: The Great Water Challenge",
+            "weight": "20"
+        },
+        {
+            "task": "PBL 2: Individual Design a Project",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

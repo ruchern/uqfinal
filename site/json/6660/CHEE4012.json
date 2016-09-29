@@ -1,0 +1,52 @@
+{
+    "course": "CHEE4012",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Individual wastewater assignment",
+            "weight": "10"
+        },
+        {
+            "task": "Forum discussion on Water 4.0",
+            "weight": "5"
+        },
+        {
+            "task": "Wastewater field trip (individual mark)",
+            "weight": "P/F"
+        },
+        {
+            "task": "Group Wastewater Assignment",
+            "weight": "15"
+        },
+        {
+            "task": "Field trip - landfill (Individual mark)",
+            "weight": "5"
+        },
+        {
+            "task": "Compilation of tutorial work (Individual mark)",
+            "weight": "5"
+        },
+        {
+            "task": "Solid waste assignment (Pair mark)",
+            "weight": "20"
+        },
+        {
+            "task": "Final exam (open book)",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

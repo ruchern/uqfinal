@@ -1,0 +1,36 @@
+{
+    "course": "MGTS2202",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Midsem exam",
+            "weight": "20"
+        },
+        {
+            "task": "Group Assignment Proposal",
+            "weight": "2"
+        },
+        {
+            "task": "Group Assignment Final Report",
+            "weight": "18"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

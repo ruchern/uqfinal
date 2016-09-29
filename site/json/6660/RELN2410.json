@@ -1,0 +1,36 @@
+{
+    "course": "RELN2410",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Essay One",
+            "weight": "40"
+        },
+        {
+            "task": "Essay Two",
+            "weight": "40"
+        },
+        {
+            "task": "Summary of Reading(s) from the Bible",
+            "weight": "10"
+        },
+        {
+            "task": "Engagement ",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,44 @@
+{
+    "course": "JAPN1013",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Regular online quizzes for script and vocabulary",
+            "weight": "9"
+        },
+        {
+            "task": "Attendance, Participation and Workbook",
+            "weight": "11"
+        },
+        {
+            "task": "Test 1 (Week 5)",
+            "weight": "15"
+        },
+        {
+            "task": "Test 2 (Week 9)",
+            "weight": "20"
+        },
+        {
+            "task": "Dialogue and Q&A (Week 12)",
+            "weight": "15"
+        },
+        {
+            "task": "Final Written Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

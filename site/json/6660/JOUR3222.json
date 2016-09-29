@@ -1,0 +1,40 @@
+{
+    "course": "JOUR3222",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Workshop participation",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Design workbook",
+            "weight": "10"
+        },
+        {
+            "task": "Oral pitch and project proposal",
+            "weight": "20"
+        },
+        {
+            "task": "Design Prototype and Report",
+            "weight": "50"
+        },
+        {
+            "task": "Reflection",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

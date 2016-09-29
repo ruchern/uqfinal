@@ -1,0 +1,36 @@
+{
+    "course": "DIET7302",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Advanced information retrieval skills session",
+            "weight": "Satisfactory"
+        },
+        {
+            "task": "Outline of proposed work",
+            "weight": "10"
+        },
+        {
+            "task": "Presentation of Results",
+            "weight": "40"
+        },
+        {
+            "task": "Research manuscript or report",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

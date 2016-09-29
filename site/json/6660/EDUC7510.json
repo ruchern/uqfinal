@@ -1,0 +1,36 @@
+{
+    "course": "EDUC7510",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Reflective learning journal",
+            "weight": "25"
+        },
+        {
+            "task": "Take home exam",
+            "weight": "25"
+        },
+        {
+            "task": "A critical discussion of the cultural interface",
+            "weight": "25"
+        },
+        {
+            "task": "A conversation about Indigenous education",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

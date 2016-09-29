@@ -1,0 +1,40 @@
+{
+    "course": "MINE2105",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "A Portfolio of In-Class Quizzes",
+            "weight": "10"
+        },
+        {
+            "task": "Mine Project Management Assignment",
+            "weight": "10"
+        },
+        {
+            "task": "Coal Seam Modelling Assignment",
+            "weight": "15"
+        },
+        {
+            "task": "Open Pit Design Assignment",
+            "weight": "25"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

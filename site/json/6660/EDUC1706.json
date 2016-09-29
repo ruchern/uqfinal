@@ -1,0 +1,40 @@
+{
+    "course": "EDUC1706",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Science journal",
+            "weight": "25"
+        },
+        {
+            "task": "EDUC1706x Quizzes ",
+            "weight": "Hurdle Assessment"
+        },
+        {
+            "task": "Scientific Explanations",
+            "weight": "25"
+        },
+        {
+            "task": "Scientific Argument",
+            "weight": "25"
+        },
+        {
+            "task": "Scientific Investigation",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,40 @@
+{
+    "course": "CHEM1221",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Workshop booklets",
+            "weight": "7.5"
+        },
+        {
+            "task": "Mid-Semester examination",
+            "weight": "22.5"
+        },
+        {
+            "task": "Laboratory Class - 5 practicals",
+            "weight": "20"
+        },
+        {
+            "task": "Mastering Chemistry Online Computer quizzes",
+            "weight": "7.5"
+        },
+        {
+            "task": "End of Semester Examination",
+            "weight": "42.5"
+        }
+    ],
+    "related": []
+}

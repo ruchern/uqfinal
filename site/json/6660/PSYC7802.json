@@ -1,0 +1,36 @@
+{
+    "course": "PSYC7802",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "WAIS-IV Competency Assessment",
+            "weight": "20"
+        },
+        {
+            "task": "Test the Test ",
+            "weight": "30"
+        },
+        {
+            "task": "Presentation of Psychological Test",
+            "weight": "20"
+        },
+        {
+            "task": "Client Interpretation and Report ",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,36 @@
+{
+    "course": "VETS3023",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "QC / SOP Essay",
+            "weight": "Pass / Fail"
+        },
+        {
+            "task": "Progressive online quizzes",
+            "weight": "25"
+        },
+        {
+            "task": "Practical Skills Log",
+            "weight": "30"
+        },
+        {
+            "task": "End of Semester Examination",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,48 @@
+{
+    "course": "STAT7503",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1 - multivariate analysis",
+            "weight": "15"
+        },
+        {
+            "task": "Assignment 2 - clustering",
+            "weight": "15"
+        },
+        {
+            "task": "Postgraduate Assignment",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 3 - Seminar",
+            "weight": "10"
+        },
+        {
+            "task": "Assignment 4",
+            "weight": "15"
+        },
+        {
+            "task": "Assignment 5 - supervised classification",
+            "weight": "20"
+        },
+        {
+            "task": "Assignment 6 - high-dimensional analysis",
+            "weight": "15"
+        }
+    ],
+    "related": []
+}

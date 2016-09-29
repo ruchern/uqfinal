@@ -1,0 +1,36 @@
+{
+    "course": "POLS1701",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Participation",
+            "weight": "10"
+        },
+        {
+            "task": "First Essay (1000 Words)",
+            "weight": "20"
+        },
+        {
+            "task": "Second Essay (2000)",
+            "weight": "40"
+        },
+        {
+            "task": "Final Exam (2 hours)",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

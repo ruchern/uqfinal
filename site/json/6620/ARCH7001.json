@@ -1,0 +1,36 @@
+{
+    "course": "ARCH7001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Site-planning",
+            "weight": "35"
+        },
+        {
+            "task": "Site-planning",
+            "weight": "Presentation of project 1"
+        },
+        {
+            "task": "Individual design work related to overall plan",
+            "weight": "65"
+        },
+        {
+            "task": "Individual design work related to overall plan",
+            "weight": "Presentation of project 2"
+        }
+    ],
+    "related": []
+}

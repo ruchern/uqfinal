@@ -1,0 +1,36 @@
+{
+    "course": "ANIM7023",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Two Case Studies",
+            "weight": "60"
+        },
+        {
+            "task": "Reflective Diary",
+            "weight": "10"
+        },
+        {
+            "task": "Discussion of scientific paper on H-W Conflict",
+            "weight": "10"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

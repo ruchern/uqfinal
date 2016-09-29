@@ -1,0 +1,32 @@
+{
+    "course": "ENGG7507",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Final Exam",
+            "weight": "60"
+        },
+        {
+            "task": "Assignment 1 - Market Structure and Price Dynamics",
+            "weight": "15"
+        },
+        {
+            "task": "Assignment 2 - Value of Appraisal",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

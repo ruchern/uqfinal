@@ -1,0 +1,36 @@
+{
+    "course": "JAPN1012",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Oral Assessment 1",
+            "weight": "25"
+        },
+        {
+            "task": "Written Test 1",
+            "weight": "25"
+        },
+        {
+            "task": "Written Test 2",
+            "weight": "25"
+        },
+        {
+            "task": "Oral Assessment 2",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,28 @@
+{
+    "course": "GEOM7008",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Project",
+            "weight": "20"
+        },
+        {
+            "task": "Research Project",
+            "weight": "80"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,32 @@
+{
+    "course": "ECON6370",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Mid-semester Exam",
+            "weight": "50"
+        },
+        {
+            "task": "Stage 1 of Research Project: Research Proposal",
+            "weight": "25"
+        },
+        {
+            "task": "Stage 2 of Research Project: Implementation",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

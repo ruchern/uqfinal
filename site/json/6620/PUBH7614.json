@@ -1,0 +1,36 @@
+{
+    "course": "PUBH7614",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Your professional Profile",
+            "weight": "0"
+        },
+        {
+            "task": "Case Studies",
+            "weight": "30"
+        },
+        {
+            "task": "IMHO: MY HEALTH SYSTEM ISSUE",
+            "weight": "20"
+        },
+        {
+            "task": "HEALTH SYSTEM REPORT",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,44 @@
+{
+    "course": "PSYC7810",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Supervision Agreement Form",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Placement Activity Logbook",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Placement Folio",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Placement Supervision Logbook",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Mid-Point and End-Point Reviews",
+            "weight": "This is the most important part of the assessment"
+        },
+        {
+            "task": "Assessment of UQ Psychology Clinic Internship",
+            "weight": "Assessed by supervisor"
+        }
+    ],
+    "related": []
+}

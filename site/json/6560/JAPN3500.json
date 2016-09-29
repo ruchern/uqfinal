@@ -1,0 +1,48 @@
+{
+    "course": "JAPN3500",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "participation & peer reading",
+            "weight": "10"
+        },
+        {
+            "task": "Summary 1",
+            "weight": "10"
+        },
+        {
+            "task": "Research outline ",
+            "weight": "10"
+        },
+        {
+            "task": "Summary 2",
+            "weight": "10"
+        },
+        {
+            "task": "Essay (final) ",
+            "weight": "25"
+        },
+        {
+            "task": "Individual Oral presentation ",
+            "weight": "10"
+        },
+        {
+            "task": "Final exam ",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

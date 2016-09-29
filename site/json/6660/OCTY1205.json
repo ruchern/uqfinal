@@ -1,0 +1,36 @@
+{
+    "course": "OCTY1205",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Standardised Patient Interview",
+            "weight": "30"
+        },
+        {
+            "task": "Library tutorial",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Intervention Planning Assignment",
+            "weight": "30"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

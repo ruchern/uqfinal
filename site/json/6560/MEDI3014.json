@@ -1,0 +1,40 @@
+{
+    "course": "MEDI3014",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Health Project",
+            "weight": "Equal"
+        },
+        {
+            "task": "Clinical Participation Assessment",
+            "weight": "PASS/FAIL. To pass the course, students must pass this regardless of marks in other assessments."
+        },
+        {
+            "task": "Written Examination",
+            "weight": "Equal"
+        },
+        {
+            "task": "Clinical Case Presentation",
+            "weight": "Equal"
+        },
+        {
+            "task": "Honours Assessment Task 1 - Oral Presentation",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

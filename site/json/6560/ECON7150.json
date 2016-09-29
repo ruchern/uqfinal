@@ -1,0 +1,36 @@
+{
+    "course": "ECON7150",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Assignment 1",
+            "weight": "15"
+        },
+        {
+            "task": "Assignment 2",
+            "weight": "15"
+        },
+        {
+            "task": "Mid Semester Exam",
+            "weight": "25"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

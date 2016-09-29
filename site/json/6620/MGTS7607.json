@@ -1,0 +1,36 @@
+{
+    "course": "MGTS7607",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Case Studies, Critical Reviews and Debate",
+            "weight": "35"
+        },
+        {
+            "task": "Media Analysis and Report",
+            "weight": "5"
+        },
+        {
+            "task": "Case Study Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "Analytical Essay",
+            "weight": "45"
+        }
+    ],
+    "related": []
+}

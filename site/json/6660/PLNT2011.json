@@ -1,0 +1,36 @@
+{
+    "course": "PLNT2011",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Laboratory Class Worksheets",
+            "weight": "20"
+        },
+        {
+            "task": "Plant Disease Control Experiment",
+            "weight": "15"
+        },
+        {
+            "task": "IPDWM Report",
+            "weight": "35"
+        },
+        {
+            "task": "End of Semester Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

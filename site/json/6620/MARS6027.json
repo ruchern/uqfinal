@@ -1,0 +1,28 @@
+{
+    "course": "MARS6027",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Research Proposal Seminar  ",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Honours Research Proposal in Marine Studies",
+            "weight": "100"
+        }
+    ],
+    "related": []
+}

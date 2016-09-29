@@ -1,0 +1,36 @@
+{
+    "course": "SWSP7026",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "The Recovery Model",
+            "weight": "20"
+        },
+        {
+            "task": "Writing a psychosocial assessment.",
+            "weight": "35"
+        },
+        {
+            "task": "Balancing risk and recovery ",
+            "weight": "35"
+        },
+        {
+            "task": "Discussion Forum",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

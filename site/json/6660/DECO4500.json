@@ -1,0 +1,44 @@
+{
+    "course": "DECO4500",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Interaction analyses and critical reflections",
+            "weight": "15"
+        },
+        {
+            "task": "Attendance and participation in class activities",
+            "weight": "Pass/Fail for the course"
+        },
+        {
+            "task": "Needs analysis and user experience profile",
+            "weight": "20"
+        },
+        {
+            "task": "Sprint demonstrations",
+            "weight": "35"
+        },
+        {
+            "task": "Peer critiques",
+            "weight": "10"
+        },
+        {
+            "task": "Final Project Report",
+            "weight": "20"
+        }
+    ],
+    "related": []
+}

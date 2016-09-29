@@ -1,0 +1,36 @@
+{
+    "course": "OCTY4206",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Student seminar presentation",
+            "weight": "45"
+        },
+        {
+            "task": "Funding request Assignment",
+            "weight": "25"
+        },
+        {
+            "task": "online discussion of new graduate competencies",
+            "weight": "pass/fail"
+        },
+        {
+            "task": "Viva examination",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

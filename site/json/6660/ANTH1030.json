@@ -1,0 +1,36 @@
+{
+    "course": "ANTH1030",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Active Participation",
+            "weight": "20"
+        },
+        {
+            "task": "Online Quiz",
+            "weight": "20"
+        },
+        {
+            "task": "Research Paper",
+            "weight": "30"
+        },
+        {
+            "task": "Final Exam",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

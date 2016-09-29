@@ -1,0 +1,36 @@
+{
+    "course": "WATR7001",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "All About Water",
+            "weight": "15"
+        },
+        {
+            "task": "Report on Field Trip to Brisbane River Catchment",
+            "weight": "15"
+        },
+        {
+            "task": "Water Storage and Treatment",
+            "weight": "20"
+        },
+        {
+            "task": "Group PBL #1: Critique a Project",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

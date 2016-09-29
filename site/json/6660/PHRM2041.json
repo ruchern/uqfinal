@@ -1,0 +1,40 @@
+{
+    "course": "PHRM2041",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Drug Analysis Laboratory Worksheets",
+            "weight": "20"
+        },
+        {
+            "task": "Bb Quiz #1: Concepts from the Lab Worksheets",
+            "weight": "5"
+        },
+        {
+            "task": "Bb Quiz #2: Structure Elucidation & Drugs in Sport",
+            "weight": "5"
+        },
+        {
+            "task": "Written Examination (Individual Assessment)",
+            "weight": "30"
+        },
+        {
+            "task": "Written Examination (Individual Assessment)",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

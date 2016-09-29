@@ -1,0 +1,40 @@
+{
+    "course": "SPCG6001",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Skill Analysis",
+            "weight": "30"
+        },
+        {
+            "task": "Performance Analysis Template",
+            "weight": "10"
+        },
+        {
+            "task": "Performance Analysis",
+            "weight": "30"
+        },
+        {
+            "task": "Skill Acquisition",
+            "weight": "20"
+        },
+        {
+            "task": "Ecological Essay",
+            "weight": "10"
+        }
+    ],
+    "related": []
+}

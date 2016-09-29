@@ -1,0 +1,40 @@
+{
+    "course": "ELEC7901",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Cardiac instrumentation & signal analysis task",
+            "weight": "10"
+        },
+        {
+            "task": "Magnetic Resonance Instrumentation",
+            "weight": "10"
+        },
+        {
+            "task": "AMDs with Smart Mobile Devices",
+            "weight": "10"
+        },
+        {
+            "task": "Conceptualise your own AMD",
+            "weight": "20"
+        },
+        {
+            "task": "Final Examination",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

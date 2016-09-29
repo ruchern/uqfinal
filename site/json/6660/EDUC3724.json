@@ -1,0 +1,36 @@
+{
+    "course": "EDUC3724",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Policies & Procedures for Professional Experience",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Supervised Teaching Practice",
+            "weight": "Pass/Fail"
+        },
+        {
+            "task": "Professional Portfolio",
+            "weight": "Pass/Fail (500 words)"
+        },
+        {
+            "task": "Reflection on Practice",
+            "weight": "Pass/Fail (800 words)"
+        }
+    ],
+    "related": []
+}

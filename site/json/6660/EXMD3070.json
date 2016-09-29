@@ -1,0 +1,44 @@
+{
+    "course": "EXMD3070",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Motor Active peformance",
+            "weight": "25"
+        },
+        {
+            "task": "Mid-semester exam",
+            "weight": "25"
+        },
+        {
+            "task": "Final exam",
+            "weight": "50"
+        },
+        {
+            "task": "Motor Active peformance",
+            "weight": "25"
+        },
+        {
+            "task": "Mid-semester exam",
+            "weight": "25"
+        },
+        {
+            "task": "Final exam",
+            "weight": "50"
+        }
+    ],
+    "related": []
+}

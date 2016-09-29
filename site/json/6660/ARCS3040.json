@@ -1,0 +1,40 @@
+{
+    "course": "ARCS3040",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Lab practicals",
+            "weight": "15"
+        },
+        {
+            "task": "Lab Report 1 - Archaeobotany",
+            "weight": "20"
+        },
+        {
+            "task": "Lab Report 2 - Zooarchaeology",
+            "weight": "20"
+        },
+        {
+            "task": "Lab Report 3 - Isotope Analysis",
+            "weight": "20"
+        },
+        {
+            "task": "Final exam",
+            "weight": "25"
+        }
+    ],
+    "related": []
+}

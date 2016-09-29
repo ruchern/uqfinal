@@ -1,0 +1,36 @@
+{
+    "course": "AGRC7611",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Application and Learning Contract",
+            "weight": "0"
+        },
+        {
+            "task": "Research Project Proposal",
+            "weight": "15"
+        },
+        {
+            "task": "Research Project Presentation",
+            "weight": "15"
+        },
+        {
+            "task": "In the format of a Short Communication",
+            "weight": "70"
+        }
+    ],
+    "related": []
+}

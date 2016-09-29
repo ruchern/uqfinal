@@ -1,0 +1,48 @@
+{
+    "course": "HMST4314",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Student Professionalism",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "400 hours in an approved setting",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Self Assessment",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Weekly Self-Reflection",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Interim and Final Supervisors Assessments",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "Project",
+            "weight": "PASS/FAIL"
+        },
+        {
+            "task": "ESSA Documentation",
+            "weight": "PASS/FAIL"
+        }
+    ],
+    "related": []
+}

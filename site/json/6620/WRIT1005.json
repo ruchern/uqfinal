@@ -1,0 +1,36 @@
+{
+    "course": "WRIT1005",
+    "semester": "Semester 1, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Tutorial Participation and Exercises",
+            "weight": "10"
+        },
+        {
+            "task": "Journal Writing ",
+            "weight": "10"
+        },
+        {
+            "task": "Reflective writing assignment",
+            "weight": "20"
+        },
+        {
+            "task": "Fundamentals of Writing Exam",
+            "weight": "60"
+        }
+    ],
+    "related": []
+}

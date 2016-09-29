@@ -1,0 +1,36 @@
+{
+    "course": "JAPN2022",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Test 1",
+            "weight": "25"
+        },
+        {
+            "task": "Oral Interview 1: Interview of a native speaker",
+            "weight": "20"
+        },
+        {
+            "task": "Test 2",
+            "weight": "25"
+        },
+        {
+            "task": "Oral Interview 2: Interview with Japanese Staff ",
+            "weight": "30"
+        }
+    ],
+    "related": []
+}

@@ -1,0 +1,32 @@
+{
+    "course": "PUBH7610",
+    "semester": "Semester 2, 2015",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Literature review and research question",
+            "weight": "30"
+        },
+        {
+            "task": "Ethics application",
+            "weight": "30"
+        },
+        {
+            "task": "Full research proposal",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}

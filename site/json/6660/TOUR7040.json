@@ -1,0 +1,32 @@
+{
+    "course": "TOUR7040",
+    "semester": "Semester 2, 2016",
+    "isLinear": true,
+    "manuallyModified": false,
+    "calculable": true,
+    "cutoff": [
+        0,
+        30,
+        47,
+        50,
+        65,
+        75,
+        85
+    ],
+    "message": null,
+    "assessment": [
+        {
+            "task": "Industry Project Proposal Presentation (Group)",
+            "weight": "10"
+        },
+        {
+            "task": "Project Portfolio(group + individual performance) ",
+            "weight": "50"
+        },
+        {
+            "task": "Learning Reflective Essay (Individual)",
+            "weight": "40"
+        }
+    ],
+    "related": []
+}
