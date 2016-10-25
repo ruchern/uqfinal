@@ -1,0 +1,7 @@
+"""
+UQFinal API Config
+"""
+
+DATABASE_CONNECTION_STRING = ''
+
+UQ_API_URL = ''
