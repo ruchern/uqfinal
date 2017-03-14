@@ -1,6 +1,4 @@
 .idea
-vendor
-composer.lock
 *.pyc
-scraper/json/*
-scraper/courses.csv
+/api/zappa/
+*.egg-info
