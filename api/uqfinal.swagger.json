@@ -1,0 +1,224 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "title": "UQ Final API",
+        "description": "Get information about assessment items at the University of Queensland.\n\n**Note:** all success responses defined in these docs are wrapped into the data property of a JSend standard success wrapper https://labs.omniti.com/labs/jsend\n",
+        "version": "1.0.0"
+    },
+    "host": "api.uqfinal.com",
+    "schemes": [
+        "https"
+    ],
+    "produces": [
+        "application/json"
+    ],
+    "paths": {
+        "/semesters": {
+            "get": {
+                "summary": "Semesters",
+                "description": "The Semesters endpoint returns information about all known semesters\n",
+                "responses": {
+                    "200": {
+                        "description": "An array of semesters",
+                        "schema": {
+                            "type": "object",
+                            "properties": {
+                                "semesters": {
+                                    "type": "array",
+                                    "items": {
+                                        "$ref": "#/definitions/Semester"
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "default": {
+                        "description": "Unexpected error",
+                        "schema": {
+                            "$ref": "#/definitions/Error"
+                        }
+                    }
+                }
+            }
+        },
+        "/course/{uqSemesterId}/{courseCode}": {
+            "get": {
+                "summary": "Offering Details",
+                "description": "The offering endpoint returns details about a course in a semester.\nWill attempt to scrape the information if not cached locally, but will give a vague error message on failure.\n",
+                "parameters": [
+                    {
+                        "name": "uqSemesterId",
+                        "in": "path",
+                        "required": true,
+                        "description": "The UQ Semester Code to find assessment details in",
+                        "type": "string"
+                    },
+                    {
+                        "name": "courseCode",
+                        "in": "path",
+                        "required": true,
+                        "description": "The UQ Course Code to find assessment details for",
+                        "type": "string"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Offering details",
+                        "schema": {
+                            "$ref": "#/definitions/Offering"
+                        }
+                    }
+                }
+            }
+        },
+        "/scrape/{uqSemesterId}/{courseCode}": {
+            "get": {
+                "summary": "Scrape an Offering",
+                "description": "Will scrape data on a course only if the semester is valid and there isn't already data cached.\nThere is no way to force a rescrape of a course, invalid data must be fixed manually.\nThis route provides more detailed errors of scraping failure than the autoscrape built into the offering route does.\n",
+                "parameters": [
+                    {
+                        "name": "uqSemesterId",
+                        "in": "path",
+                        "required": true,
+                        "description": "The UQ Semester Code to find assessment details in",
+                        "type": "string"
+                    },
+                    {
+                        "name": "courseCode",
+                        "in": "path",
+                        "required": true,
+                        "description": "The UQ Course Code to find assessment details for",
+                        "type": "string"
+                    }
+                ],
+                "responses": {
+                    "200": {
+                        "description": "Offering details",
+                        "schema": {
+                            "$ref": "#/definitions/Offering"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "Semester": {
+            "type": "object",
+            "properties": {
+                "semester": {
+                    "type": "string",
+                    "description": "Full name of a semester."
+                },
+                "shortName": {
+                    "type": "string",
+                    "description": "A shortened name of a semester."
+                },
+                "uqId": {
+                    "type": "number",
+                    "description": "The UQ ID for a semester."
+                }
+            }
+        },
+        "Course": {
+            "type": "object",
+            "properties": {
+                "courseCode": {
+                    "type": "string",
+                    "description": "UQ provided 8 character course code. Note some courses have more than 8 characters."
+                }
+            }
+        },
+        "AssessmentItem": {
+            "type": "object",
+            "properties": {
+                "id": {
+                    "type": "number",
+                    "description": "ID of the assessment item internal to UQ Final"
+                },
+                "taskName": {
+                    "type": "string",
+                    "description": "The title of the assessment item as obtained from UQ"
+                },
+                "weight": {
+                    "type": "string",
+                    "description": "The weight of the assessment item as obtained from UQ.\nIn the perfect case, this is an integer. Other cases include \"Pass/Fail\" or arbitrary strings as written by the course coordinator\n"
+                }
+            }
+        },
+        "Offering": {
+            "type": "object",
+            "properties": {
+                "course": {
+                    "$ref": "#/definitions/Course"
+                },
+                "semester": {
+                    "$ref": "#/definitions/Semester"
+                },
+                "isLinear": {
+                    "type": "boolean",
+                    "description": "Whether a course's grading system is linear.\nThis value may be innacurate, it is true by default and can be manually set to false if it's discovered that the course doesn't have a linear grading system.\n"
+                },
+                "manuallyModified": {
+                    "type": "boolean",
+                    "description": "Whether this offering's details have been manually modified by a human.\nTrue should warn the user that the data may no longer reflect the course profile.\n"
+                },
+                "calculable": {
+                    "type": "boolean",
+                    "description": "Whether this offering's grades are calculable server side.\n"
+                },
+                "cutoff": {
+                    "type": "object",
+                    "properties": {
+                        "1": {
+                            "type": "number",
+                            "description": "Minimum total percentage required to get a course grade of 1"
+                        },
+                        "2": {
+                            "type": "number",
+                            "description": "Minimum total percentage required to get a course grade of 2"
+                        },
+                        "3": {
+                            "type": "number",
+                            "description": "Minimum total percentage required to get a course grade of 3"
+                        },
+                        "4": {
+                            "type": "number",
+                            "description": "Minimum total percentage required to get a course grade of 4"
+                        },
+                        "5": {
+                            "type": "number",
+                            "description": "Minimum total percentage required to get a course grade of 5"
+                        },
+                        "6": {
+                            "type": "number",
+                            "description": "Minimum total percentage required to get a course grade of 6"
+                        },
+                        "7": {
+                            "type": "number",
+                            "description": "Minimum total percentage required to get a course grade of 7"
+                        }
+                    }
+                },
+                "assessment": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/definitions/AssessmentItem"
+                    }
+                }
+            }
+        },
+        "Error": {
+            "type": "object",
+            "properties": {
+                "status": {
+                    "type": "string",
+                    "default": "error"
+                },
+                "message": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

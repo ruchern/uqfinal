@@ -54,7 +54,6 @@ class Semester(ORMMixin):
 
     def serialise(self):
         return {
-            'id': self.id,
             'semester': self.semester,
             'shortName': self.short_name,
             'uqId': self.uq_id,
@@ -77,7 +76,6 @@ class Course(ORMMixin):
 
     def serialise(self):
         return {
-            'id': self.id,
             'courseCode': self.course_code,
         }
 
