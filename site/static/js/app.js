@@ -1,6 +1,6 @@
 /*
- * UQ Final v11
- * Copyright 2016 Mitchell Grice
+ * UQ Final v12
+ * Copyright 2017 Mitchell Grice
  * http://gricey.net
  */
 
@@ -162,33 +162,19 @@ function CourseVm(app, spec) {
 	
 	// Calculations
 	self.totalScore = ko.pureComputed(function() {
-		var totalScore = 0;
-		
-		ko.utils.arrayForEach(self.assessmentItems, function(item) {
-            if (item.isNumericWeighting()) {
-                var score = item.weightedScore();
-                if (score != null) {
-                    totalScore += score;
-                }
-            }
-		});
-		
-		return totalScore;
+        return _.chain(
+            self.assessmentItems
+        ).map(function(item) {
+            if (item.isNumericWeighting()) return item.weightedScore();
+        }).sum().value();
 	});
 	
 	self.totalDropped = ko.pureComputed(function() {
-		var totalDropped = 0;
-		
-		ko.utils.arrayForEach(self.assessmentItems, function(item) {
-            if (item.isNumericWeighting()) {
-                var dropped = item.weightedDropped();
-                if (dropped != null) {
-                    totalDropped += dropped;
-                }
-            }
-		});
-		
-		return totalDropped;
+        return _.chain(
+            self.assessmentItems
+        ).map(function(item) {
+            if (item.isNumericWeighting()) return item.weightedDropped();
+        }).sum().value();
 	});
 	
 	self.totalScorePrint = ko.pureComputed(function() {
@@ -200,49 +186,34 @@ function CourseVm(app, spec) {
 	});
 
     self.totalWeight = ko.pureComputed(function() {
-        var totalWeight = 0;
-
-        ko.utils.arrayForEach(self.assessmentItems, function(item) {
-            totalWeight += item.weight();
-        });
-
-        return totalWeight;
+        return _.chain(
+            self.assessmentItems
+        ).map(function(item) {
+            return item.weight();
+        }).sum().value();
     });
 	
 	self.providedTotalWeight = ko.pureComputed(function() {
-		var providedTotalWeight = 0;
-		
-		ko.utils.arrayForEach(self.assessmentItems, function(item) {
-			if (item.score() != null) providedTotalWeight += item.weight();
-		});
-		
-		return providedTotalWeight;
+        return _.chain(
+            self.assessmentItems
+        ).map(function(item) {
+            if (item.score() != null) return item.weight();
+        }).sum().value();
 	});
 
     self.unprovidedTotalWeight = ko.pureComputed(function() {
-        var unprovidedTotalWeight = 0;
-
-        ko.utils.arrayForEach(self.assessmentItems, function(item) {
-            if (item.isNumericWeighting()) {
-                if (item.score() === null) unprovidedTotalWeight += Number(item.weight());
-            }
-        });
-
-        return unprovidedTotalWeight;
+        return _.chain(
+            self.assessmentItems
+        ).map(function(item) {
+            if (item.isNumericWeighting() && item.score() === null) return Number(item.weight());
+        }).sum().value();
     });
 	
 	self.requiredGrades = ko.pureComputed(function() {
-		var requiredGrades = [];
-		
-		ko.utils.arrayForEach(self.gradeCutoffs, function (cutoff) {
+        return _.map(self.gradeCutoffs, function(cutoff) {
             var requiredGrade = Math.ceil( (cutoff - self.totalScore()) / self.unprovidedTotalWeight() * 100);
-            if (requiredGrade < 0) {
-                requiredGrade = 0;
-            }
-            requiredGrades.push(requiredGrade);
+            return _.max([0, requiredGrade]);
         });
-		
-		return requiredGrades;
 	});
 	
 	self.afterAssessmentRender = function(elements, data) {
@@ -270,12 +241,13 @@ function CourseVm(app, spec) {
 
 
 // Semester view model
-function SemesterVm(app, code, name) {
+function SemesterVm(app, code, name, isCurrent) {
     var self = this;
 
     self.app = app;
     self.code = code;
     self.name = name;
+    self.isCurrent = isCurrent;
 
     return self;
 }
@@ -285,18 +257,56 @@ function SemesterVm(app, code, name) {
 function UQFinalViewModel() {
     var self = this;
 
+    self.API_BASE_URL = "https://api.uqfinal.com";
+
     self.courseCode = ko.observable('').extend({ uppercase: true });
     self.course = ko.observable(null);
 	self.possibleGrades = [1, 2, 3, 4, 5, 6, 7];
 	self.selectedGrade = ko.observable(4);
     self.courseCodeError = ko.observable(false);
 
-    self.semesters = ko.observableArray([
-        new SemesterVm(self, 6660, 'Sem 2, 2016'),
-        new SemesterVm(self, 6620, 'Sem 1, 2016'),
-        new SemesterVm(self, 6560, 'Sem 2, 2015')
-    ]);
-    self.selectedSemester = ko.observable(self.semesters()[0]);
+    self.semesters = ko.observableArray();
+    self.selectedSemester = ko.observable(null);
+
+    self.loading = ko.pureComputed(function() {
+        return !(self.semesters().length > 0);
+    });
+
+    self.loadSemesters = function() {
+        var d = $.Deferred();
+
+        $.ajax({
+            dataType: "json",
+            url: self.API_BASE_URL + '/semesters',
+            beforeSend: function(xhr){
+                if (xhr.overrideMimeType) {
+                    xhr.overrideMimeType("application/json");
+                }
+            }
+        }).done(function(jsonData) {
+            var data = jsonData.data;
+            var semesterSpecs = data.semesters;
+
+            self.semesters(semesterSpecs.map(function(spec) {
+                return new SemesterVm(self, spec.uqId, spec.shortName, spec.isCurrent);
+            }));
+
+            self.selectedSemester(_.find(self.semesters(), function(semester) {
+                return semester.isCurrent;
+            }));
+
+            d.resolve();
+        }).fail(function() {
+            d.reject();
+        });
+
+        return d.promise();
+    };
+
+    self.selectedSemesterName = ko.pureComputed(function() {
+        if (self.selectedSemester()) return self.selectedSemester().name;
+        return null;
+    });
 
     self.messages = ko.pureComputed(function() {
         var messages = [];
@@ -375,9 +385,6 @@ function UQFinalViewModel() {
             semesterCode: semesterCode
         };
 
-        // Grades
-        // TODO
-
         history.pushState(histData, title, histUrl);
     };
 	
@@ -395,7 +402,7 @@ function UQFinalViewModel() {
 
         disablePushState = disablePushState || false;
 
-        var url = "/json/" + self.selectedSemester().code + "/" + courseCode + ".json";
+        var url = self.API_BASE_URL + "/course/" + self.selectedSemester().code + "/" + courseCode;
 		
         self.courseCodeError(false);
 
@@ -419,20 +426,20 @@ function UQFinalViewModel() {
                 }
             }
         }).done(function(jsonData) {
+            var offeringData = jsonData.data;
             var courseSpec = {};
 
             var assessmentItems = [];
 			var nAssessmentItem = 0;
-            ko.utils.arrayForEach(jsonData.assessment, function(item) {
-                assessmentItems.push( new AssessmentItemVm(item.task, item.weight, nAssessmentItem) );
+            ko.utils.arrayForEach(offeringData.assessment, function(item) {
+                assessmentItems.push( new AssessmentItemVm(item.taskName, item.weight, nAssessmentItem) );
 				nAssessmentItem++;
             });
             courseSpec.assessmentItems = assessmentItems;
 
-            courseSpec.semester = jsonData.semester;
-            courseSpec.isLinear = jsonData.isLinear;
-            courseSpec.calculable = jsonData.calculable;
-            courseSpec.message = jsonData.message;
+            courseSpec.semester = offeringData.semester.uqId;
+            courseSpec.isLinear = offeringData.isLinear;
+            courseSpec.calculable = offeringData.calculable;
             courseSpec.gradeCutoffs = [0, 30, 46, 50, 65, 75, 85];
 
             var course = new CourseVm(self, courseSpec);
@@ -451,25 +458,14 @@ function UQFinalViewModel() {
         return d.promise();
     };
 
-    self.loadFullData = function(semesterCode, courseCode, marks) {
+    self.loadFullData = function(semesterCode, courseCode) {
         // Load semester
-        var semester = null;
-        ko.utils.arrayForEach(self.semesters(), function(testSem) {
-            if (testSem.code == semesterCode) {
-                semester = testSem;
-            }
-        });
+        var semester = _.find(self.semesters(), {'code': Number(semesterCode)});
 
         self.selectedSemester(semester);
         self.courseCode(courseCode);
 
         var loadingCourse = self.loadCourse(self.courseCode(), true);
-        loadingCourse.done(function(course) {
-            // Load in grades
-            if (marks) {
-                // TODO: Load in marks
-            }
-        });
     };
 
     // History popstate
@@ -496,9 +492,12 @@ function UQFinalViewModel() {
         if (bits.length === 2) {
             var semesterCode = bits[0];
             var courseCode = bits[1];
-
-            self.loadFullData(semesterCode, courseCode)
+            self.loadSemesters().then(function() {
+                self.loadFullData(semesterCode, courseCode);
+            });
         }
+    } else {
+        self.loadSemesters();
     }
 
 

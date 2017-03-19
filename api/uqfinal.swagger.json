@@ -117,6 +117,10 @@
                 "uqId": {
                     "type": "number",
                     "description": "The UQ ID for a semester."
+                },
+                "isCurrent": {
+                    "type": "boolean",
+                    "description": "Whether the semester is the current one. Only one should be true at any time."
                 }
             }
         },

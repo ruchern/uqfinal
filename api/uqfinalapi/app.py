@@ -14,6 +14,15 @@ import scraper
 webapp = Flask(__name__)
 
 
+# CORS
+@webapp.after_request
+def after_request(response):
+    response.headers.add('Access-Control-Allow-Origin', '*')
+    response.headers.add('Access-Control-Allow-Headers', 'Content-Type,Authorization')
+    response.headers.add('Access-Control-Allow-Methods', 'GET,POST,OPTIONS')
+    return response
+
+
 @webapp.route('/')
 def home():
     return make_response("No resource specified. See the API Docs", 404)

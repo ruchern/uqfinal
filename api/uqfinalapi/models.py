@@ -57,6 +57,7 @@ class Semester(ORMMixin):
             'semester': self.semester,
             'shortName': self.short_name,
             'uqId': self.uq_id,
+            'isCurrent': self.is_current,
         }
 
     @classmethod

@@ -29,93 +29,100 @@
 	<link rel="stylesheet" href="/static/css/app.css" type="text/css" />
 </head>
 <body>
-<!-- Google Analytics -->
-<script>
-	(function(u,q,f,i,n,a,l){u['GoogleAnalyticsObject']=n;u[n]=u[n]||function(){
-				(u[n].q=u[n].q||[]).push(arguments)},u[n].l=1*new Date();a=q.createElement(f),
-			l=q.getElementsByTagName(f)[0];a.async=1;a.src=i;l.parentNode.insertBefore(a,l)
-	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-	ga('create', 'UA-68564510-1', 'auto');
-	ga('send', 'pageview');
-</script>
+	<!-- Google Analytics -->
+	<script>
+		(function(u,q,f,i,n,a,l){u['GoogleAnalyticsObject']=n;u[n]=u[n]||function(){
+					(u[n].q=u[n].q||[]).push(arguments)},u[n].l=1*new Date();a=q.createElement(f),
+				l=q.getElementsByTagName(f)[0];a.async=1;a.src=i;l.parentNode.insertBefore(a,l)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+		ga('create', 'UA-68564510-1', 'auto');
+		ga('send', 'pageview');
+	</script>
 
-<div class="container">
-	<div class="row">
-		<div class="col-xs-12 col-md-6 col-md-offset-3">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-md-6 col-md-offset-3">
 
-			<div class="header"></div>
+				<div class="header"></div>
 
-			<div class="input-group">
-				<input type="text" id="courseCode" class="input-lg form-control" placeholder="ECON1010" autocomplete="off" spellcheck="false" autofocus data-bind="value:courseCode, valueUpdate:'afterkeydown', event: { keyup: onCourseCodeKey }" />
-				<div class="input-group-btn">
-					<button type="button" class="btn btn-default btn-lg dropdown-toggle" style="border-radius: 0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span data-bind="text: selectedSemester().name"></span> <span class="caret"></span></button>
-					<ul class="dropdown-menu" role="menu" data-bind="foreach: semesters">
-						<li><a href="#" data-bind="text: name, click: $parent.selectedSemester"></a></li>
-					</ul>
-					<button class="btn btn-lg btn-default" type="button" data-bind="click: loadCourseClick"><span class="glyphicon glyphicon-chevron-right"></span></button>
+				<div data-bind="visible: loading">
+					<div class="loading"></div>
 				</div>
-			</div>
 
-			<div class="messages" style="display:none" data-bind="foreach: messages, visible: showMessages">
-				<div class="message">
-					<p data-bind="text: $data"></p>
-				</div>
-			</div>
+				<div data-bind="visible: !loading()" style="display: none">
+					<div class="input-group">
+						<input type="text" id="courseCode" class="input-lg form-control" placeholder="ECON1010" autocomplete="off" spellcheck="false" autofocus data-bind="value:courseCode, valueUpdate:'afterkeydown', event: { keyup: onCourseCodeKey }" />
+						<div class="input-group-btn">
+							<button type="button" class="btn btn-default btn-lg dropdown-toggle" style="border-radius: 0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span data-bind="text: selectedSemesterName"></span> <span class="caret"></span></button>
+							<ul class="dropdown-menu" role="menu" data-bind="foreach: semesters">
+								<li><a href="#" data-bind="text: name, click: $parent.selectedSemester"></a></li>
+							</ul>
+							<button class="btn btn-lg btn-default" type="button" data-bind="click: loadCourseClick"><span class="glyphicon glyphicon-chevron-right"></span></button>
+						</div>
+					</div>
 
-			<div class="assessment" style="display:none" data-bind="visible: showAssessment">
-				<table border="0" data-bind="with: course">
-					<thead>
-					<tr>
-						<th>Assessment</th>
-						<th>Weight</th>
-						<th class="scoreColumn">Score</th>
-						<th class="assessmentGraphColumn hidden-xs"></th>
-					</tr>
-					</thead>
-					<tbody data-bind="foreach: {data: assessmentItems, afterRender: afterAssessmentRender}">
-					<tr>
-						<td data-bind="text: task"></td>
-						<td data-bind="text: weightText"></td>
-						<td class="scoreColumn">
-							<input type="text" data-bind="value: rawScore, enable: isNumericWeighting, event: { keyup: $root.onScoreKey }, css: { badScore: isInterimInvalidScore }" class="assessmentScore" />
-						</td>
-						<td class="assessmentGraphColumn hidden-xs"><div class="assessmentGraphContainer" data-bind="attr: {id: progressBarId}"></div></td>
-					</tr>
-					<tr data-bind="visible: showPrompt" style="text-align:right">
-						<td colspan="3">
-							Did you mean <span class="fake-link" data-bind="text: promptPercentText, click: promptPercentClick"></span> or <span class="fake-link" data-bind="text: promptFractionText, click: promptFractionClick"></span>?
-						</td>
-					</tr>
-					</tbody>
-				</table>
-			</div>
+					<div class="messages" style="display:none" data-bind="foreach: messages, visible: showMessages">
+						<div class="message">
+							<p data-bind="text: $data"></p>
+						</div>
+					</div>
 
-			<div class="results" style="display:none" data-bind="visible: showResults">
-				<div class="resultsGraphContainer" id="resultsGraph"></div>
-				<div data-bind="with: course">
-					<div class="title">Results</div>
-					<p>Total Score: <span data-bind="text: totalScorePrint"></span></p>
-					<p>Total Dropped: <span data-bind="text: totalDroppedPrint"></span></p>
-				</div>
-				<div class="clearfix"></div>
-				<div class="resultsSentence">
-					To get a <select data-bind="options: possibleGrades, value: selectedGrade"></select>, you need <span data-bind="text: requiredScoreForSelectedGrade"></span>
+					<div class="assessment" style="display:none" data-bind="visible: showAssessment">
+						<table border="0" data-bind="with: course">
+							<thead>
+							<tr>
+								<th>Assessment</th>
+								<th>Weight</th>
+								<th class="scoreColumn">Score</th>
+								<th class="assessmentGraphColumn hidden-xs"></th>
+							</tr>
+							</thead>
+							<tbody data-bind="foreach: {data: assessmentItems, afterRender: afterAssessmentRender}">
+							<tr>
+								<td data-bind="text: task"></td>
+								<td data-bind="text: weightText"></td>
+								<td class="scoreColumn">
+									<input type="text" data-bind="value: rawScore, enable: isNumericWeighting, event: { keyup: $root.onScoreKey }, css: { badScore: isInterimInvalidScore }" class="assessmentScore" />
+								</td>
+								<td class="assessmentGraphColumn hidden-xs"><div class="assessmentGraphContainer" data-bind="attr: {id: progressBarId}"></div></td>
+							</tr>
+							<tr data-bind="visible: showPrompt" style="text-align:right">
+								<td colspan="3">
+									Did you mean <span class="fake-link" data-bind="text: promptPercentText, click: promptPercentClick"></span> or <span class="fake-link" data-bind="text: promptFractionText, click: promptFractionClick"></span>?
+								</td>
+							</tr>
+							</tbody>
+						</table>
+					</div>
+
+					<div class="results" style="display:none" data-bind="visible: showResults">
+						<div class="resultsGraphContainer" id="resultsGraph"></div>
+						<div data-bind="with: course">
+							<div class="title">Results</div>
+							<p>Total Score: <span data-bind="text: totalScorePrint"></span></p>
+							<p>Total Dropped: <span data-bind="text: totalDroppedPrint"></span></p>
+						</div>
+						<div class="clearfix"></div>
+						<div class="resultsSentence">
+							To get a <select data-bind="options: possibleGrades, value: selectedGrade"></select>, you need <span data-bind="text: requiredScoreForSelectedGrade"></span>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
 	</div>
-</div>
 
-<footer class="footer">
-	<p><img src="/static/img/fb.png" class="fb" alt="Facebook" /><a href="https://www.facebook.com/uqfinal/">Report issues on Facebook</a></p>
-	<p>Not affiliated with UQ. Always check the course profile. &copy; 2016 <a href="http://gricey.net" target="_blank">Mitchell Grice</a></p>
-</footer>
+	<footer class="footer">
+		<div><img src="/static/img/fb.png" class="fb" alt="Facebook" /><a href="https://www.facebook.com/uqfinal/">Report issues on Facebook</a> | <a href="https://github.com/gricey432/uqfinal">Open Source</a> | <a href="https://apidocs.uqfinal.com/">API</a></div>
+		<div>Not affiliated with UQ. Always check the course profile. &copy; 2017 <a href="http://gricey.net" target="_blank">Mitchell Grice</a></div>
+	</footer>
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="/static/js/bootstrap.min.js"></script>
-<script src="/static/js/knockout-3.3.0.js"></script>
-<script src="/static/js/progressbar.min.js"></script>
-<script src="/static/js/trianglify.min.js"></script>
-<script src="/static/js/app.js?_v=10"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="/static/js/bootstrap.min.js"></script>
+	<script src="/static/js/knockout-3.3.0.js"></script>
+	<script src="/static/js/progressbar.min.js"></script>
+	<script src="/static/js/trianglify.min.js"></script>
+	<script src="/static/js/lodash.min.js"></script>
+	<script src="/static/js/app.js?_v=12"></script>
 </body>
 </html>

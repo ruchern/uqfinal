@@ -8,7 +8,8 @@ body {
 	font-family:'Roboto', tahoma, sans-serif;
 	color:white;
 	/* Margin bottom by footer height */
-	margin-bottom: 80px;
+	margin-bottom: 100px;
+	overflow-y:scroll;
 }
 
 .fake-link {
@@ -109,7 +110,10 @@ body {
 	bottom: 0;
 	width:100%;
 	/* Set the fixed height of the footer here */
-	height: 60px;
+	height: 40px;
+}
+.footer div {
+	padding-top:2px;
 }
 .footer a {
 	text-decoration: none;
@@ -119,7 +123,8 @@ body {
 	text-decoration: underline;
 }
 .footer .fb {
-	width: 16px;
-	height: 16px;
+	width: 10px;
+	height: 10px;
 	margin-right: 6px;
+	vertical-align: top;
 }
