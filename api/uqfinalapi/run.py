@@ -7,6 +7,8 @@ import models
 webapp.config.update({
     'SQLALCHEMY_DATABASE_URI': os.environ['UQFINAL_DB_URI'],
     'SQLALCHEMY_TRACK_MODIFICATIONS': False,
+    'SQLALCHEMY_POOL_SIZE': 0,
+    'SQLALCHEMY_POOL_RECYCLE': 500,
 })
 DB.init_app(webapp)
 
