@@ -1,7 +1,7 @@
 """
 Database models
 """
-from sqlalchemy import Column, ForeignKeyConstraint
+from sqlalchemy import Column, ForeignKeyConstraint, UniqueConstraint
 from sqlalchemy.orm import relationship
 from sqlalchemy.types import Integer, String, Boolean
 from sqlalchemy.ext.declarative import declarative_base, declared_attr
@@ -116,6 +116,7 @@ class Offering(ORMMixin):
                 ['semester.id'],
                 ondelete='CASCADE',
             ),
+            UniqueConstraint('course_id', 'semester_id'),
         )
 
     def __init__(self, course_id, semester_id, is_linear=True, manually_modified=False, calculable=True, message=None,
