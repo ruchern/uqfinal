@@ -35,6 +35,17 @@ body {
 	}
 }
 
+.btn-load {
+	line-height:0;
+}
+
+.btn-load svg {
+	height:20px;
+	width:16px;
+	margin-top:2px;
+	margin-bottom:2px;
+}
+
 .messages, .assessment, .results {
 	margin-top:30px;
 }
