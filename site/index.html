@@ -60,7 +60,7 @@
 
 				<div data-bind="visible: !loading()" style="display: none">
 					<div class="input-group">
-						<input type="text" id="courseCode" class="input-lg form-control" placeholder="ECON1010" autocomplete="off" spellcheck="false" autofocus data-bind="value:courseCode, valueUpdate:'afterkeydown', event: { keyup: onCourseCodeKey }" />
+						<input type="text" id="courseCode" title="Course Code" class="input-lg form-control" placeholder="ECON1010" autocomplete="off" spellcheck="false" autofocus autocapitalize="characters" data-bind="value:courseCode, valueUpdate:'afterkeydown', event: { keyup: onCourseCodeKey }" />
 						<div class="input-group-btn">
 							<button type="button" class="btn btn-default btn-lg dropdown-toggle" style="border-radius: 0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span data-bind="text: selectedSemesterName"></span> <span class="caret"></span></button>
 							<ul class="dropdown-menu" role="menu" data-bind="foreach: semesters">
@@ -91,7 +91,7 @@
 								<td data-bind="text: task"></td>
 								<td data-bind="text: weightText"></td>
 								<td class="scoreColumn">
-									<input type="text" data-bind="value: rawScore, enable: isNumericWeighting, event: { keyup: $root.onScoreKey }, css: { badScore: isInterimInvalidScore }" class="assessmentScore" />
+									<input type="text" title="Score" data-bind="value: rawScore, enable: isNumericWeighting, event: { keyup: $root.onScoreKey }, css: { badScore: isInterimInvalidScore }" class="assessmentScore" />
 								</td>
 								<td class="assessmentGraphColumn hidden-xs"><div class="assessmentGraphContainer" data-bind="attr: {id: progressBarId}"></div></td>
 							</tr>
@@ -113,7 +113,7 @@
 						</div>
 						<div class="clearfix"></div>
 						<div class="resultsSentence">
-							To get a <select data-bind="options: possibleGrades, value: selectedGrade"></select>, you need <span data-bind="text: requiredScoreForSelectedGrade"></span>
+							To get a <select title="Target Grade" data-bind="options: possibleGrades, value: selectedGrade"></select>, you need <span data-bind="text: requiredScoreForSelectedGrade"></span>
 						</div>
 					</div>
 				</div>
