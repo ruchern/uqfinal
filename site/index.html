@@ -62,11 +62,11 @@
 					<div class="input-group input-group-lg">
 						<input type="text" id="courseCode" title="Course Code" class="form-control" placeholder="ECON1010" autocomplete="off" spellcheck="false" autofocus autocapitalize="characters" data-bind="value:courseCode, valueUpdate:'afterkeydown', event: { keyup: onCourseCodeKey }" />
 						<div class="input-group-btn">
-							<button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split" style="border-radius: 0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span data-bind="text: selectedSemesterName"></span> <span class="caret"></span></button>
+							<button id="btn-semester" type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split" style="border-radius: 0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span data-bind="text: selectedSemesterName"></span> <span class="caret"></span></button>
 							<div class="dropdown-menu" role="menu" data-bind="foreach: semesters">
 								<a class="dropdown-item" href="#" data-bind="text: name, click: $parent.selectedSemester"></a>
 							</div>
-							<button class="btn btn-secondary btn-load" type="button" data-bind="click: loadCourseClick">
+							<button id="btn-load" class="btn btn-secondary" type="button" data-bind="click: loadCourseClick">
 								<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 28"><path d="M17.297 13.703l-11.594 11.594c-0.391 0.391-1.016 0.391-1.406 0l-2.594-2.594c-0.391-0.391-0.391-1.016 0-1.406l8.297-8.297-8.297-8.297c-0.391-0.391-0.391-1.016 0-1.406l2.594-2.594c0.391-0.391 1.016-0.391 1.406 0l11.594 11.594c0.391 0.391 0.391 1.016 0 1.406z"></path></svg>
 							</button>
 						</div>

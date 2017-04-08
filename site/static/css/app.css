@@ -40,11 +40,18 @@ body {
 	border-color:#ccc;
 }
 
-.btn-load {
-	line-height:0;
+#btn-semester {
+	padding-left:1rem;
+	padding-right:1rem;
 }
 
-.btn-load svg {
+#btn-load {
+	line-height:0;
+	padding-left:1rem;
+	padding-right:1rem;
+}
+
+#btn-load svg {
 	height:21px;
 	width:16px;
 	margin-top:2px;
