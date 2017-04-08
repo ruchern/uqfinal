@@ -35,12 +35,17 @@ body {
 	}
 }
 
+#courseCode {
+	/* Workaround for a border colour bug in input groups in bootstrap 4 alpha */
+	border-color:#ccc;
+}
+
 .btn-load {
 	line-height:0;
 }
 
 .btn-load svg {
-	height:20px;
+	height:21px;
 	width:16px;
 	margin-top:2px;
 	margin-bottom:2px;

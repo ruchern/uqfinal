@@ -46,7 +46,7 @@
 
 	<div class="container">
 		<div class="row">
-			<div class="col-xs-12 col-md-6 col-md-offset-3">
+			<div class="col-12 col-md-6 offset-md-3">
 
 				<div class="header"></div>
 
@@ -59,14 +59,14 @@
 				</div>
 
 				<div data-bind="visible: !loading()" style="display: none">
-					<div class="input-group">
-						<input type="text" id="courseCode" title="Course Code" class="input-lg form-control" placeholder="ECON1010" autocomplete="off" spellcheck="false" autofocus autocapitalize="characters" data-bind="value:courseCode, valueUpdate:'afterkeydown', event: { keyup: onCourseCodeKey }" />
+					<div class="input-group input-group-lg">
+						<input type="text" id="courseCode" title="Course Code" class="form-control" placeholder="ECON1010" autocomplete="off" spellcheck="false" autofocus autocapitalize="characters" data-bind="value:courseCode, valueUpdate:'afterkeydown', event: { keyup: onCourseCodeKey }" />
 						<div class="input-group-btn">
-							<button type="button" class="btn btn-default btn-lg dropdown-toggle" style="border-radius: 0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span data-bind="text: selectedSemesterName"></span> <span class="caret"></span></button>
-							<ul class="dropdown-menu" role="menu" data-bind="foreach: semesters">
-								<li><a href="#" data-bind="text: name, click: $parent.selectedSemester"></a></li>
-							</ul>
-							<button class="btn btn-lg btn-default btn-load" type="button" data-bind="click: loadCourseClick">
+							<button type="button" class="btn btn-secondary dropdown-toggle dropdown-toggle-split" style="border-radius: 0" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span data-bind="text: selectedSemesterName"></span> <span class="caret"></span></button>
+							<div class="dropdown-menu" role="menu" data-bind="foreach: semesters">
+								<a class="dropdown-item" href="#" data-bind="text: name, click: $parent.selectedSemester"></a>
+							</div>
+							<button class="btn btn-secondary btn-load" type="button" data-bind="click: loadCourseClick">
 								<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19 28"><path d="M17.297 13.703l-11.594 11.594c-0.391 0.391-1.016 0.391-1.406 0l-2.594-2.594c-0.391-0.391-0.391-1.016 0-1.406l8.297-8.297-8.297-8.297c-0.391-0.391-0.391-1.016 0-1.406l2.594-2.594c0.391-0.391 1.016-0.391 1.406 0l11.594 11.594c0.391 0.391 0.391 1.016 0 1.406z"></path></svg>
 							</button>
 						</div>
@@ -128,7 +128,13 @@
 		<div>Not affiliated with UQ. Always check the course profile. &copy; 2017 <a href="http://gricey.net" target="_blank" rel="noopener">Mitchell Grice</a></div>
 	</footer>
 
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script>
+		/* Backup of hosted libs */
+		window.jQuery || document.write('<script src="/static/js/jquery-3.2.1.min.js"><\/script>');
+		window.Tether || document.write('<script src="/static/js/tether.min.js"><\/script>');
+	</script>
 	<script src="/static/js/bootstrap.min.js"></script>
 	<script src="/static/js/knockout-3.4.2.js"></script>
 	<script src="/static/js/progressbar.min.js"></script>
