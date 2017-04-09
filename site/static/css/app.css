@@ -38,6 +38,8 @@ body {
 #courseCode {
 	/* Workaround for a border colour bug in input groups in bootstrap 4 alpha */
 	border-color:#ccc;
+	padding-left:1rem;
+	padding-right:1rem;
 }
 
 #btn-semester {
