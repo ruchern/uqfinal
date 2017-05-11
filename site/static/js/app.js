@@ -1,5 +1,5 @@
 /*
- * UQ Final v13
+ * UQ Final v14
  * Copyright 2017 Mitchell Grice
  * http://gricey.net
  */
@@ -265,6 +265,11 @@ function UQFinalViewModel() {
     self.loading = ko.pureComputed(function() {
         return !(self.semesters().length > 0);
     });
+
+
+    // Android detection
+    self.isAndroid = navigator.userAgent.toLowerCase().indexOf("android") > -1;
+
 
     self.loadSemesters = function() {
         var d = $.Deferred();
