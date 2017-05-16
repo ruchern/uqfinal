@@ -20,6 +20,6 @@ The core files for contribution in this area are `index.html`, `app.css` and `ap
 The API found in the `/api` directory is a Python Flask app which is served by AWS Lambda and API Gateway in production.
 
 To run the API locally you need to set the `UQFINAL_DB_URI` environment variable to a [Database URL](http://docs.sqlalchemy.org/en/latest/core/engines.html#database-urls).
-You can then generate the required tables in your database by running `python run.py generatedb` after installing the `uqfinalapi` package from the repository into your environment.
+You can then generate the required tables in your database by running `python run.py generatedb` after installing the `uqfinalapi` package from the repository into your environment. The tables will be empty, you can populate the `semester` table using data from [ROTA](http://rota.eait.uq.edu.au/semesters.json).
 
 The production database is MariaDB, other database software may work but is untested at this stage.
