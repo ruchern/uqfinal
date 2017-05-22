@@ -531,7 +531,6 @@ generateBackground = function() {
         width: window.innerWidth,
         color_function: trianglifyColorFunc
     });
-    document.body.style.background = "url(" + pattern.png() + ")";
+    document.documentElement.style.background = "url(" + pattern.png() + ")";
 };
-$(window).resize(generateBackground);
 generateBackground();
