@@ -1,0 +1,219 @@
+@purple: #49075E;
+
+html {
+    // Don't combine background options, breaks js setting
+    background: @purple;
+    background-position: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+    background: none; // Fix bootstrap setting body bg to white covering html bg
+	font-family: 'Roboto', tahoma, sans-serif;
+	color: white;
+	margin-bottom: 100px;
+	overflow-y: scroll;
+}
+
+.fake-link {
+	color: blue;
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.header {
+	display: block;
+    // Don't combine these background options, it breaks the 2x image
+	background-image: url(/static/img/logo.png);
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: 50% 50%;
+	height: 150px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+
+	@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+        background-image: url(/static/img/logo_2x.png);
+    }
+}
+
+#courseCode, #btn-semester, #btn-load {
+    padding-left: 1rem;
+	padding-right: 1rem;
+}
+
+#courseCode {
+	// Workaround for a border colour bug in input groups in bootstrap 4 alpha
+	border-color: #ccc;
+}
+
+#btn-load {
+	line-height: 0;
+
+    svg {
+        height:21px;
+        width:16px;
+        margin-top:2px;
+        margin-bottom:2px;
+    }
+}
+
+.messages, .assessment, .results {
+	margin-top: 30px;
+}
+
+.messages {
+	text-align: center;
+	font-weight: 300;
+	font-size: 20px;
+
+    a, a:link, a:hover, a:active {
+        color: #6d9bc3;
+    }
+}
+
+.assessmentGraphColumn {
+	width: 60px;
+}
+
+.assessmentGraphContainer {
+	width: 40px;
+	height: 40px;
+	margin: 5px;
+}
+
+.assessment, .results {
+	background-color: #fff;
+	border-radius: 5px;
+	color: #000;
+	padding: 20px;
+}
+
+.assessment {
+    table {
+        width: 100%;
+    }
+
+    th {
+        text-align: left;
+    }
+
+    td, th {
+        height: 34px; /* td and th, height works like min-height */
+    }
+
+    .assessmentScore {
+        width: 70px;
+
+        &.badScore {
+            box-shadow: 0 0 6px #FF0300;
+        }
+    }
+
+    .scoreColumn {
+        width: 80px;
+    }
+}
+
+.results {
+    .title {
+        font-size: 20px;
+        font-weight: bold;
+        margin-top: 40px;
+        margin-bottom: 8px;
+    }
+
+    .resultsGraphContainer {
+        width: 150px;
+        height: 150px;
+        margin: 15px 30px 15px 15px;
+        float: left;
+    }
+
+    .resultsSentence {
+        text-align: center;
+        font-size: 20px;
+
+        select {
+            border: none;
+            border-bottom: 1px solid #ccc;
+        }
+    }
+}
+
+.footer {
+	text-align: center;
+	font-size: 9px;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 40px;
+
+    div {
+        padding-top: 2px;
+    }
+
+    a {
+        text-decoration: none;
+        color: white;
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    .fb {
+        width: 10px;
+        height: 10px;
+        margin-right: 6px;
+        vertical-align: top;
+    }
+}
+
+/* Spinner from http://tobiasahlin.com/spinkit/ */
+.spinner {
+	margin: 100px auto 0;
+	width: 70px;
+	text-align: center;
+
+    &> div {
+	    width: 18px;
+        height: 18px;
+        background-color: #fff;
+        opacity: 0.7;
+
+
+        border-radius: 100%;
+        display: inline-block;
+        -webkit-animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+        animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+    }
+
+    .bounce1 {
+        -webkit-animation-delay: -0.32s;
+        animation-delay: -0.32s;
+    }
+
+    .bounce2 {
+        -webkit-animation-delay: -0.16s;
+        animation-delay: -0.16s;
+    }
+}
+
+@-webkit-keyframes sk-bouncedelay {
+	0%, 80%, 100% { -webkit-transform: scale(0) }
+	40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes sk-bouncedelay {
+	0%, 80%, 100% {
+		-webkit-transform: scale(0);
+		transform: scale(0);
+	} 40% {
+		  -webkit-transform: scale(1.0);
+		  transform: scale(1.0);
+	  }
+}
