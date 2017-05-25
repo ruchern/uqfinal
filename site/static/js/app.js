@@ -1,5 +1,5 @@
 /*
- * UQ Final v14
+ * UQ Final
  * Copyright 2017 Mitchell Grice
  * http://gricey.net
  */
