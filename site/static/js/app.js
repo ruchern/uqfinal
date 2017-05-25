@@ -95,7 +95,7 @@ function AssessmentItemVm(task, weight, id) {
 
     // Prompt
     self.showPrompt = ko.pureComputed(function() {
-        return (/^\d+$/.test(self.rawScore()) && Number(self.rawScore()) > 0 && Number(self.rawScore()) < Number(self.weight()));
+        return (/^\d+$/.test(self.rawScore()) && Number(self.rawScore()) > 0 && Number(self.rawScore()) <= Number(self.weight()));
     });
 
     self.promptPercentText = ko.pureComputed(function() {
