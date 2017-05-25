@@ -271,6 +271,17 @@ function UQFinalViewModel() {
     self.isAndroid = navigator.userAgent.toLowerCase().indexOf("android") > -1;
 
 
+    // Colour stuff
+    self.randomiseColour = function() {
+        bgR = Math.round(Math.random() * 255);
+        bgG = Math.round(Math.random() * 255);
+        bgB = Math.round(Math.random() * 255);
+        generateBackground();
+
+        ga('send', 'event', 'Easter', 'colour');
+    };
+
+
     self.loadSemesters = function() {
         var d = $.Deferred();
 
@@ -340,34 +351,6 @@ function UQFinalViewModel() {
         self.courseCodeError(false);
 
         if (e.keyCode == 13) {
-            // Let people set the background of the page
-            var matchRGB = /(\d{1,3}),\s*(\d{1,3}),\s*(\d{1,3})/;
-            var match = matchRGB.exec(self.courseCode());
-            if (match !== null) {
-                var r = Number(match[1]);
-                var g = Number(match[2]);
-                var b = Number(match[3]);
-                if (0 <= r && r <= 255 && 0 <= g && g <= 255 && 0 <= b && b <= 255) {
-                    [bgR, bgG, bgB] = [r, g, b];
-                    generateBackground();
-
-                    ga('send', 'event', 'Easter', 'rgb');
-
-                    return;
-                }
-            }
-
-            if (self.courseCode() == 'COLOUR') {
-                bgR = Math.round(Math.random() * 255);
-                bgG = Math.round(Math.random() * 255);
-                bgB = Math.round(Math.random() * 255);
-                generateBackground();
-
-                ga('send', 'event', 'Easter', 'colour');
-
-                return;
-            }
-
             self.loadCourse(self.courseCode());
         }
     };
