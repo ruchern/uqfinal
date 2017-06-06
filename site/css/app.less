@@ -1,5 +1,26 @@
 @purple: #49075E;
 
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Bold'), local('Roboto-Bold'),
+		url('/font/subset-Roboto-Bold.woff2') format('woff2'),
+		url('/font/subset-Roboto-Bold.woff') format('woff'),
+		url('/font/subset-Roboto-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto'), local('Roboto-Regular'),
+		url('/font/subset-Roboto-Regular.woff2') format('woff2'),
+		url('/font/subset-Roboto-Regular.woff') format('woff'),
+		url('/font/subset-Roboto-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
 html {
     // Don't combine background options, breaks js setting
     background: @purple;
