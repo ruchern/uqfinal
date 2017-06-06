@@ -29,14 +29,14 @@ body {
   border-bottom: 1px solid #ccc;
   border-bottom-right-radius: 10px;
   cursor: pointer;
-  background-image: url(/static/img/colour.png);
+  background-image: url(/img/colour.png);
   background-size: 70% 70%;
   background-position: center center;
   background-repeat: no-repeat;
 }
 .header {
   display: block;
-  background-image: url(/static/img/logo.png);
+  background-image: url(/img/logo.png);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: 50% 50%;
@@ -46,7 +46,7 @@ body {
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .header {
-    background-image: url(/static/img/logo_2x.png);
+    background-image: url(/img/logo_2x.png);
   }
 }
 #courseCode,
