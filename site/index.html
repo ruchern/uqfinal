@@ -73,6 +73,14 @@
 						</div>
 					</div>
 
+					<!-- ko with: course -->
+					<div class="messages" style="display:none" data-bind="visible: showOver100TotalWeightWarning">
+						<div class="message">
+							Assessment items add up to more than 100%. Check the course profile to see why.
+						</div>
+					</div>
+					<!-- /ko -->
+
 					<div class="assessment" style="display:none" data-bind="visible: showAssessment">
 						<table border="0" data-bind="with: course">
 							<thead>
@@ -151,6 +159,6 @@
 	</script>
 	<script src="/js/bootstrap.min.js"></script>
 	<script src="/js/progressbar.min.js"></script>
-	<script src="/js/app.js?_v=16"></script>
+	<script src="/js/app.js?_v=17"></script>
 </body>
 </html>

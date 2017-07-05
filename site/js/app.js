@@ -75,17 +75,17 @@ function AssessmentItemVm(task, weight, id) {
 
     // Weight
 	self.weightedScore = ko.pureComputed(function() {
-		if (self.score() == null) return null;
+		if (self.score() === null) return null;
 		return self.score() * self.weight();
 	});
 	
 	self.weightedDropped = ko.pureComputed(function() {
-		if (self.score() == null) return null;
+		if (self.score() === null) return null;
 		return (1 - self.score()) * self.weight();
 	});
 
     self.isNumericWeighting = ko.pureComputed(function() {
-        return (/^[\d\.]+$/.test(self.weight()) && self.weight() != 0);
+        return (/^[\d\.]+$/.test(self.weight()) && self.weight() !== 0);
     });
 
     self.weightText = ko.pureComputed(function() {
@@ -126,7 +126,7 @@ function AssessmentItemVm(task, weight, id) {
 			trailColor: '#eee',
 			easing: 'easeOut',
 			trailWidth: 6,
-			strokeWidth: 10,
+			strokeWidth: 10
 		});
 	};
 	
@@ -182,24 +182,34 @@ function CourseVm(app, spec) {
     self.totalWeight = ko.pureComputed(function() {
         return _.chain(
             self.assessmentItems
-        ).map(function(item) {
-            return item.weight();
+        ).filter(function(item) {
+            return item.isNumericWeighting();
+        }).map(function(item) {
+            return Number(item.weight());
         }).sum().value();
+    });
+
+    self.showOver100TotalWeightWarning = ko.pureComputed(function() {
+        return self.totalWeight() > 100;
     });
 	
 	self.providedTotalWeight = ko.pureComputed(function() {
         return _.chain(
             self.assessmentItems
-        ).map(function(item) {
-            if (item.score() != null) return item.weight();
+        ).filter(function(item) {
+            return item.isNumericWeighting() && item.score() !== null;
+        }).map(function(item) {
+            return Number(item.weight());
         }).sum().value();
 	});
 
     self.unprovidedTotalWeight = ko.pureComputed(function() {
         return _.chain(
             self.assessmentItems
-        ).map(function(item) {
-            if (item.isNumericWeighting() && item.score() === null) return Number(item.weight());
+        ).filter(function(item) {
+            return item.isNumericWeighting() && item.score() === null;
+        }).map(function(item) {
+            return Number(item.weight());
         }).sum().value();
     });
 	
@@ -334,7 +344,7 @@ function UQFinalViewModel() {
 	
 
     self.showAssessment = ko.pureComputed(function() {
-        return self.course() != null && self.course().isCalculable;
+        return self.course() !== null && self.course().isCalculable;
     });
 
     self.showResults = ko.pureComputed(function() {
@@ -342,7 +352,7 @@ function UQFinalViewModel() {
     });
 	
 	self.requiredScoreForSelectedGrade = ko.pureComputed(function() {
-		if (self.course() == null) return;
+		if (self.course() === null) return;
 		return self.course().requiredGrades()[self.selectedGrade() - 1] + '%';
 	});
 
@@ -350,7 +360,7 @@ function UQFinalViewModel() {
     self.onCourseCodeKey = function(d, e) {
         self.courseCodeError(false);
 
-        if (e.keyCode == 13) {
+        if (e.keyCode === 13) {
             self.loadCourse(self.courseCode());
         }
     };
@@ -447,7 +457,7 @@ function UQFinalViewModel() {
         self.selectedSemester(semester);
         self.courseCode(courseCode);
 
-        var loadingCourse = self.loadCourse(self.courseCode(), true);
+        self.loadCourse(self.courseCode(), true);
     };
 
     // History popstate
@@ -455,7 +465,7 @@ function UQFinalViewModel() {
         var data = e.state;
         var semesterCode, courseCode;
 
-        if (data == null) {
+        if (data === null) {
             // Back to a blank page
             semesterCode = self.semesters()[0].code;
             courseCode = '';
@@ -486,7 +496,8 @@ function UQFinalViewModel() {
     return self;
 }
 
-ko.applyBindings(new UQFinalViewModel());
+var uqfinal = new UQFinalViewModel();
+ko.applyBindings(uqfinal);
 
 
 // Background
